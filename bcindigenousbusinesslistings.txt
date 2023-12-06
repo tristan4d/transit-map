@@ -1,0 +1,1260 @@
+﻿Business Name,Email,Phone,Fax,Web Site,City,Latitude,Longitude
+Ellipsis Energy Inc,Ricky.Munch@ellipsisenergy.ca,403-620-2946,,http://www.ellipsisenergy.ca,Moberly Lake ,55.8193701,-121.8346022
+Indigenous Community Development & Prosperity (ICDPRO),ngela@ICDPRO.ca,780-717-8296,,https://indigenouscommunitydevelopment.com/,Enderby,50.5514976,-119.1335465
+Formline Construction Ltd.,marty@flcon.ca,778-222-0069,,https://www.flcon.ca/,Burnaby,49.2660502,123.0058404
+Quilakwa Investments Ltd.,nik.visch@quilakwa.ca,250-838-0775 x131,,http://www.splatsindc.com,Enderby,50.5375073,-119.141955
+Quilakwa Esso,stephanie.killman@quilakwa.ca,250-838-9422,250-838-2378,,Enderby,50.5375073,-119.141955
+Quilakwa RV Park,rvpark@quilakwa.ca,250-838-2022,, http://www.quilakwarvpark.ca,Enderby,50.5514976,-119.1335465
+Quilakwa at the Lake Campground,rvpark@quilakwa.ca,250-838-2022,,http://www.quilakwarvpark.ca,Enderby,50.6024166,-118.7306577
+Quilakwa Snack Shack,nik.visch@quilakwa.ca,250-838-0775 x131,,,Enderby,50.5495973,-119.1398143
+dk Architecture, info@dkarchitecture.ca,604-210-1278,,http://dkarchitecture.ca,North Vancouver,49.3234992,-123.1229699
+Uujo Contracting Limited Partnership,cpoucecoupe@uujodev.com,250-262-8756,,,Rose Prairie,56.5780801,-120.4982582
+Shop First Nations,info@shopfirstnations.com,778-773-3392,,https://shopfirstnations.com/,New Westminster,49.2000155,-122.9139201
+Kleekhoot Gold,bryanread@shaw.ca,250-724-4041,,https://kleekhootgold.ca/,Port Alberni,49.2660405,-124.8275668
+Upnit Power,bcasavant@hotmail.com,250-735-7992,,,Port Alberni,49.1901565,-124.7538602
+Kwa'lilas Hotel,marketing@kedc.ca,855-949-8525,,https://kwalilashotel.ca/,Port Hardy,50.721863,-127.5028344
+Fourwinds Driving School, fourwinds_drive@outlook.com,250-398-0744,,http://www.fourwindsdrive.com,Williams Lake,52.1326353,-122.1473917
+United Greeneries Ltd.,pfloucault@costacanna.ca,250-265-7076,,unitedgreeneries.ca/,Duncan,48.7626366,-123.6876387
+Costa Canna,pfloucault@costacanna.ca,250-265-7076,,costacanna.ca/,Duncan,48.7752139,-123.7032251
+Gitanmaax Market,management@gitanmaaxmarket.com,250-842-6688,,,Kispiox,55.2618209,-127.6775806
+Gitanmaax Food & Fuel,manager@gitanmaaxfuel.com,250-842-5567,250-842-6256,,Kispiox,55.2572438,-127.6636951
+ALL-BRITE CLEANING,allbritecleaning@shaw.ca,250-480-5234,,allbritecleaning.ca,Victoria ,48.4811334,-123.3809683
+Cayuse Flats Transportation,admin@cayuseflats.com,250-256-7155,,www.cayuseflats.com, Lillooet ,50.5959084,-122.001815
+Steeprock Resources Limited,chief@kellylakecreenation.com,780-518-3439,,,Pouce Coupe,55.6466769,-120.4512142
+RidgePro Painting,jen0595@shaw.ca,778-838-5654,,http://www.ridgepropainting.ca,Maple Ridge,49.2024937,-122.5647468
+All Safe Traffic Control Inc,resume@allsafetraffic.com,250-718-1357,,http://allsafetraffic.com,Peachland,49.785176,-119.7250858
+Vancouver Blues Around Town,vanbluesaroundtown@gmail.com,604-842-6724,,vancouverblues.ca/,Vancouver,49.2682231,-123.1492322
+Aligned Industrial Services,brad.dumont@alignedindustrial.com,604-374-2647,,http://www.alignedindustrial.com,Coquitlam,49.2251843,-122.8372707
+Alpha Concrete Pumping Ltd.,office@alphaconcretepumping.com,604-853-4086,,http://www.alphaconcretepumping.com,Abbotsford,49.1034234,-122.2579019
+Complete Safety Services Inc,completesafety@live.com,250-787-0072,250-787-0073,completesafety.ca,Fort St John,56.2464707,-120.8363512
+Pacific Rim Drain Cleaning,pacificrimdraincleaning@gmail.com,250-668-2175,,pacificrimdrain.com,Nanaimo,49.216621,-123.9507837
+RiverStone Holistic Day Spa,riverstoneholistic@gmail.com,778 210 0209,,http://riverstoneholisticdayspa.com,Witset,55.0190888,-127.3319454
+Jelly Digital Marketing & PR,darian@jellymarketing.com,604-674-3559,,jellymarketing.ca/,Langley,49.1647292,-122.5852375
+The Brush & Wand Studio,info@brushandwand.com,604-655-6703,,http://brushandwand.com,Vancouver,49.2638803,-123.206394
+TNT Bookkeeping,tntbookkeeping@outlook.com,250-996-3855,,,Prince George,53.8825578,-122.7774812
+Huu-Miis & Tuhmapt Counselling Services,htcounsellingservices@pm.me,236-544-0464,,,Ucluelet,49.2690655,-125.1479364
+Luxton Construction Plains Inc.,info@luxtonconstruction.ca,778-859-5654,,,Delta,49.1537162,-122.9718688
+Coldsnake Digital Corporation,stacey@coldsnakedigital.com,604-377-9879,,www.coldsnakedigital.com,West Vancouver,49.3257894,-123.137838
+Canam Safety Ventures Inc.,jkenn@consultant.com,250-852-3721,,canamsafetyventures.com,Langley,49.1267213,-122.6677506
+RoofTop Tents,info@rooftoptents.ca,250-740-1844,,rooftoptents.ca/,Nanaimo,49.0826687,-123.9931793
+Evolution Business Marketing & Communications,chris@evolutionbusiness.ca,250-740-1844,,,Nanaimo,49.1613725,-123.9419187
+NATIONAL VENT FIRE PREVENTION,wyattnationalvent@yahoo.ca,604-786-6646,,http://nationalvent.biz,Chilliwack,49.1344389,-121.9643429
+Shadow Ent Ltd.,chshadow64@gmail.com,(250) 329-8262,,,Fort St. John,62.37798,-140.8792937
+?Akisq'nuk Development Corporation,,250-342-4409,250-342-4407,,Windermere,50.4636112,-115.9888889
+?aqam Community Enterprises,ace@aqam.net,250-432-9549,,www.investaqam.com,Cranbrook,49.5829772,-115.755187
+1 Nation Distribution,admin@1nationdistribution.com,,,http://1nationdistribution.com/,Coquitlam,49.2890239,-122.8133682
+1204894 Alta Ltd Welding & Fabricating,,250-774-3965,,,Fort Nelson,58.8055556,-122.6972222
+2Badgers Consulting Inc,info@2badgers.ca,250-317-7717,250-707-3869,http://www.2badgers.ca/,Westbank,49.8414241,-119.610806
+3 Rivers Contracting,3rivers@telus.net,250-842-8117,250-842-0414,,Sik-e-dakh,55.3083101,-127.6684678
+308598 BC Ltd O/A Diesle & Dust,dieselanddust@hotmail.com,250-342-1276,,,Invermere,50.5058334,-116.0305555
+4 Sure Bistro,surebistro@hotmail.com,778-412-1399,,,Williams Lake,52.1284025,-122.1438397
+40 Mile Flats,gmfrocklage@gmail.com,250-234-3303,,,Iskut,57.8375,-129.9875
+4Evergreen Resources,hpaquette@4eg.ca,,,http://www.4eg.ca/,Moberly Lake,55.8506197,-121.6532238
+4Feathers Innovating Passion,babine@telus.net,250-692-6092,,,Burns Lake,54.2420936,-125.7633331
+4TR Ventures Ltd.,fred4tr@gmail.com,250-819-0320,,,Barriere,51.1797223,-120.1236111
+A B Security,clarence@absecurityservices.ca,250-782-7761,250-782-7764,http://absecurityservices.ca/,Dawson Creek,55.7627258,-120.2303133
+A&J First Aid & Safety,john@aandjfirstaid.com,250-788-1820,250-788-1812,http://aandjfirstaid.com/,Chetwynd,55.6961391,-121.6206052
+A. J. Towing Inc,ajtowing@uniserve.com,604-795-3374,604-795-3347,http://www.ajtowinginc.com/,Chilliwack,49.1614859,-121.9624462
+A. Kotchea & Sons Contracting Ltd,akotcheacontracting@hotmail.com,250-774-7098,250-774-7072,,Fort Nelson,58.8055556,-122.6972222
+Aaron Nelson-Moody,splashingeagle@shaw.ca,604-924-4945,,http://www.splashingeagle.ca/,West Vancouver,49.3223135,-123.1331587
+Aat'uu Forestry LP,jimthornton@aatuu.ca,250-761-4155,250-761-4156,http://www.ehattesaht.com/ehattesahttribe/aatuu.html,Zeballos,49.9825,-126.8461111
+Aauuknuk Lodge,office@aauuknuklodge.com,250-670-9679,,http://www.aauuknuklodge.com/,Ahousaht,49.2849535,-126.0688082
+AB Storage ,psteinson@shaw.ca,250-882-7165,250-655-8882,,Sidney ,48.6424388,-123.4021486
+ABC Catering,bostondeb61@hotmail.com,250-378-5058,,,Quilchena,50.190746,-120.4644797
+Ability in Motion ,admin@abilityinmotion.ca,604-852-3191,604-853-7580,http://www.fraservalley.medichair.com,Abbotsford,49.0478934,-122.2937364
+Aboriginal & Eco-Tours,candace@aboriginalecotours.com,877-232-4622,,https://www.aboriginalecotours.com/,West Vancouver,49.32053457,-123.1325394
+Aboriginal Journeys Wildlife Viewing & Adventure Tours,info@aboriginaljourneys.com,1-888-324-8745,,http://www.aboriginaljourneys.com/,Campbell River,50.0286789,-125.2550812
+Aboriginal Traditions & Customs Enterprise,joethomas@lookieloo.net,,,,Invermere,50.519613,-116.004512
+ACR Systems Inc.,info@acrsystems.com,604-591-1128,604-591-2252,http://www.acrsystems.com/,Surrey,49.1551911,-122.8640189
+Adolphus Capot-Blanc Contracting Ltd,,250-774-7119,250-233-8998,,Fort Nelson,58.8055556,-122.6972222
+Adrienne's It Works,adsilver54@hotmail.com,604-845-6547,,,Chilliwack,49.1666667,-121.95
+Aelksun Forestry & Consulting Ltd,ruwright@hotmail.com,250-218-2447,,http://www.aelksun.com,Comox,49.6831033,-124.9598087
+Affirmative Marketing & Printing,affirmative@shaw.ca,604-224-6173,,,Vancouver,49.2687584,-123.2103762
+Afterglow Hair Lounge,info@afterglowhairlounge.com,604.485.2075,,www.afterglowhairlounge.com,Powell River,49.8468725,-124.5196439
+Ahousaht Business Corporation,cindystern@telus.net,250-954-5711,,http://www.mhssahousaht.ca,Port Alberni,49.2666761,-124.8473977
+Ahousaht Fishing Corporation,larryswanfisheries@gmail.com,250-670-9535,,,Ahousaht,48.6565,-123.4143
+Ahtsik Native Art Gallery,art@gordondick.ca,250-723-3425,,http://www.gordondick.ca/,Port Alberni,49.2722547,-124.8736762
+Akin Lake Contracting,akin.lake@gmail.com,250-996-7877,250-564-9521,,Takla Lake,51.9,-124.6
+Alamo Contracting,cpoucecoupe@doigriverfn.com,250-827-3776 or 250-262-8011,,,Rose Prairie,56.5,-120.7833333
+Alberni Colour Corner Ltd,benjaminmoore.albernicolour@gmail.com,250-720-0030,,http://www.albernicolour.net,Port Alberni,49.2540496,-124.7978847
+Alkali Resource Management Ltd. ,francis@armltd.org,250-440-5870,,http://www.esketemc.org/enterprises.html,Alkali Lake,51.788127,-122.239
+All Day Logistics,tuya_rday@yahoo.ca,250-643-0648,,,Telegraph Creek,57.9,-131.1666667
+"All In Exploration Solutions, Inc.",elong@northwestel.net,867-332-4437,,http://www.all-inexploration.com/,Whitehorse,58.85,-125.2333333
+All Nations Development Co.,susank@antco.bc.ca,778-471-4110,,http://www.antco.bc.ca,Kamloops,50.6818577,-120.2948185
+All Nations United Energy Inc.,ken@allnationsunited.ca,604-308-2368,,http://www.allnationsunited.ca/#,North Vancouver,49.3190831,-123.1078169
+All Rhodes Pilot Service,grhodes@telus.net,250-640-9815,,,Prince George,53.8586799,-122.6647944
+Alliance Aboriginal Ventures Business Development,kennroberts141@gmail.com,1-867-334-9985,,,New Aiyansh,55.1970769,-129.0748046
+Allied Archipelago Development Corp,alliedarch@telus.net,250-923-1300,,,Cambell River,49.9902144,-125.2472742
+Alluring Accents & Decorating,alluringaccents@shaw.ca,250-809-0120,,http://www.mynaramata.com/show21b/Alluring_Accents_PaintingDecorating,Naramata,49.5951449,-119.5928332
+Almost 2 Easy Moving & Storgae,a2emoving@gmail.com,250-739-1000,,http://www.almost2easy.ca,Nanaimo ,49.1937772,-123.9848762
+ALW Publishing,ALWPublishing@shaw.ca,778-421-4665,,http://alwpublishing.com/,Port Alberni,49.2719946,-124.8734932
+Anderson Creek Campground,bbarbandd@uniserve.com,604-867-9089,,http://andersoncreekcamping.com,Boston Bar,49.8666667,-121.4333333
+Animikii Inc.,info@animikii.com,877-589-2899,,http://www.animikii.com/,View Royal,48.4439015,-123.4282464
+Ann Ball Management Services,annball.management@gmail.com,778-772-6355,,,Tahltan Reserve,58.0166667,-131
+Anspayaxw Development Ltd.,max.stevens@kispioxband.ca,250-842-5248,250-842-5604,http://www.kispioxband.com/businesses/businesses1/,Kispiox,55.3497551,-127.6976706
+Antares Project Services,asiu@antaresprojects.com,604-551-4675,,http://www.antaresprojects.com/,Lillooet,50.7021243,-121.9312393
+Apex Geomatics Construction Surveyors Ltd.,richard.sutton@apexgcs.ca,250-762-5868,,http://www.apexgcs.ca,Kelowna,49.9031737,-119.4792185
+ARAMARK Remote Workplace Services,ctrwaynedrury@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Archibald & Associates,carchibald@shaw.ca,604-987-5703,,,West Vancouver,49.3270916,-123.137756
+Archie Williams Horse Training,fnlady48@live.ca,250-380-9169,,,Cache Creek,50.8119445,-121.3233333
+Arctic Divide Lodge, info@arcticdivide.ca,,,http://www.arcticdivide.ca,Dease Lake,56.7408261,-129.7908695
+Arctic Plumbing and Heating Ltd,arcticplumbing@shaw.ca,,250-428-9996,,Canyon,49.0721044,-116.446479
+Arctos Natural Resource Consulting,neilthrondson@hotmail.com,,,,Cranbrook,49.5080556,-115.7469444
+Arlene Ness Gitxsan Arts,arlenes-art@live.com,250-842-5589,,https://www.facebook.com/pages/Arlene-Ness/136997678154,Gitanmaax,55.2603822,-127.664586
+Arrow Tahltan Transportation Limited,mpinchin@arrow.ca,250-682-3807,,http://www.arrow.ca,Stewart,55.9383334,-129.9911111
+Arrowblade Consulting ,nalmorin@arrowbladeconsulting.ca,778-834-6292,,,Smithers,54.791017,-127.2292333
+Artisan Angel Cafe,,778-421-3688,,,Port Alberni,49.256764,-124.7833903
+Artist- Carrielynn Victor,Carrielynn.Victor@gmail.com,604-997-3211,,https://www.facebook.com/CarrielynnVictorArtist,Rosedale ,49.189021,-121.787741
+Artist- Henry Ned,,778-347-9954,,,Abbotsford,49.05,-122.2833333
+Asai's Art,asai@shaw.ca,604-792-9895,,http://www.asaisart.com/index.html,Chilliwack,49.1713246,-121.9533768
+Ashnola Campground,execassist@lsib.net,250-499-5528,250-499-5538,http://www.lsib.net,Keremeos,49.2051296,-119.8269754
+Askiy Resources,karen@askiyresources.com,778-472-1114,,,Kamloops,50.7720691,-120.3339352
+Associated Financial Services Inc.,karin.spindler@shaw.ca,604-858-8309,604-858-8412,,Chilliwack,49.1183466,-121.9755336
+ATCO Structures & Logistics - Prince George,,250-561-2255,250-561-0351,http://www.atcosl.com/en-ca/Region/Canada/Northern-BC,Prince George,53.841624,-122.7377119
+Atlas Manufacturing Ltd.,atlas@casinghammer.com,250-337-5030,,http://www.casinghammer.com/,Merville,49.7808738,-125.0509988
+A-Tlegay Fisheries Society ,atlegay@shawcable.com,250-287-8868,,,Campbell River,50.0319753,-125.2573264
+Atleo Electric,,604-720-3724,604-824-9902,,Chilliwack,49.1014495,-121.9461789
+Atleo River Air Service,atleo@seaviewcable.net,250-725-2205,250-725-3118,http://www.atleoair.com/,Tofino,49.1530556,-125.9044444
+Atli Resources,JosephI@namgis.bc.ca,250-974-5556,250- 974-5900,http://www.namgis.bc.ca,Alert Bay,50.596292,-126.934661
+Atlin Tlingit Development Corporation,takubasin@yahoo.com,250-651-7948,,,Atlin,59.5666667,-133.7
+August Point Lodge,augustpointlodge@gmail.com,250-761-2014,,http://augustpointlodge.com/,Zeballos,50.06153212,-127.3300838
+Authenic Concrete Images,authenticconcreteimages@gmail.com,250-803-6038,,http://www.authenticconcreteimages.com/,Salmon Arm,50.7,-119.2666667
+Authentic Concrete,authenticconcreteimages@gmail.com,250-803-6038,,,Salmon Arm,50.7344014,-119.2712648
+Aven Designs,roxannestump@hotmail.com,250-305-8781,,,Fraser Lake,54.056252,-124.8412891
+Aventur Energy Corp.,saven@aventur.ca,250-785-7093,250-263-9278,http://www.aventurenergy.ca/en/,Fort St John,56.2525,-120.8466667
+Aventur Energy Corporation,dispatch@aventur.ca,250-785-7093,250-263-9278,http://www.aventurenergy.ca/en/,Fort St John,56.2525,-120.8466667
+A-West Services Ltd.,awestservices@shaw.ca,250-723-4499,,,Port Alberni,49.2818677,-124.8160675
+Ayelstexw (Sustainability) Consulting Limited Partnership ,Kelly.sherman@ecora.ca,250-469-9757 Ext. 1011,250-469-9757,http://www.ecora.ca,"Rosedale, BC",49.189133,-121.794157
+B C General Contracting Inc,admin@bcgc.ca,250-768-9771,,,Westbank,49.8423285,-119.5935981
+B&D Excavating and Landfill,Dave@BandDExcavating.com,604-882-8499,,http://www.banddexcavating.com,Langley,49.1776385,-122.671203
+B&G Power Systems Ltd.,gpower7@telus.net,604-944-1104,604-944-3325,,Coquitlam,49.2860175,-122.7955691
+Backwood Ventures,bfuller_19@hotmail.com,250-296-3127,,,150 Mile House,52.1041,-121.9283
+Bar H Contracting Ltd.,hbehn@northwestel.net,250-774-2408,,,Fort Nelson,58.7756427,-122.6583893
+Barb's Native Designs,tristenjames36@hotmail.com,604-859-4280,,,Abbotsford,49.05,-122.2833333
+Barkley Sound Shellfish LP,noahp@toquaht.ca,250-726-4230,,http://www.toquaht.ca/operating-companies/,Ucluelet,48.9447204,-125.5565291
+Barlandscaping,barllan@yahoo.ca,250-807 2403,,,Kelowna,49.8788807,-119.3908026
+BC First Nations Constructors Groups Inc.,dave@bcfncg.com,604-619-5100,604-402-4498,,Chilliwack,49.1462961,-121.9944015
+Beadwork by Mizz Alphonse,dana_alphonse@hotmail.com,250-305-4816,,,Williams Lake,52.1119037,-121.9944456
+Bear Creek Second Hand ,,250-701-0994,,,Cowichan,48.8560437,-124.1768328
+Bear Gas Bar & Convenience Store,,604-867-9259,,http://bostonbarfirstnation.com,Boston Bar,49.8666667,-121.4333333
+Bear Image Productions,sandra@bearimage.ca,604-824-6222,604-858-6584,http://www.bearimage.ca,Chilliwack,49.1027889,-121.9588181
+Beaverdam Environmental,rothlisberger.wes@gmail.com,250-263-7814,250-261-6526,,Fort St John,56.2525,-120.8466667
+Bedrock Services Ltd,eboceanbreeze@gmail.com,250-793-9018,,,Baldonnel,56.2,-120.6833333
+Bell Aviation Consultants,belljn@hotmail.com,250-923-6646,,http://www.members.shaw.ca/belljn/Aviation/index.htm,Campbell River,49.9917852,-125.2416582
+Bell Bulldozing,bell-bull@shaw.ca,250-334-7875,,,Courtenay,49.6690005,-125.027771
+Bella Bella Airport Authority Ltd.,BellaBellaAir@outlook.com,250-957-2868,250-957-2869,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.165131,-128.144839
+Bella Bella Liquor Agency,,250-957-2300,250-957-2424,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.1656077,-128.1445366
+Bella Coola Traffic Control Services,rhart@nndc.ca,250-799-0033,250-799-0035,http://www.nndc.ca,Bella Coola,52.364779,-126.708994
+Belle Acres Recreation,gabe@belleacres.ca,250-398-6313,250-392-2543,http://www.belleacres.ca,Williams Lake,52.1124629,-122.1903351
+Bells Bows,belljn@hotmail.com,250-923-4464,,http://www.members.shaw.ca/belljn/Bow/index.htm,Campbell River,49.9917852,-125.2416582
+Belly Bean Imaging,bellybeanimaging@gmail.com,604-779-5431,,http://www.bellybeanimaging.ca/,West Vancouver,49.3252,-123.1375
+Besikoh Fuel LP,valri@nazkoecdev.ca,250-991-0284,250-992-7982,http://besikohfuel.com/,Quesnel,52.9797223,-122.4936111
+Best Bet Entertainment,kenn@bestbetentertainment.com,778-883-1388,,http://www.bestbetentertainment.com/,Vancouver,49.2051435,-123.1289116
+Best Western Tin Wis Resort Lodge,info@tinwis.com,250-725-4445,,http://www.tinwis.com/,Tofino,49.1311343,-125.8957014
+"Bev Sellars, Author",alu2008@live.ca,250-989-4301,,,Williams Lake,52.2369381,-122.0522057
+BGW FILM STUDIOS,admin@bgwfilmstudios.com,250.850.9344,,http://www.bgwfilmstudios.com,Campbell River,50.0472431,-125.2730345
+Big Al's Catering,,604-792-6300,604-792-5797,http://www.stolocf.ca/big-als-catering.html,Chilliwack,49.1572693,-121.9833091
+Big River Analytics,hannes@bigriveranalytics.com,250-922-4999,,http://bigriveranalytics.com/,Terrace ,54.5542545,-128.6037947
+Big Sky Station,mainoffice@skeetchestn.ca,250-373-0018,,,Cache Creek,49.1804366,-123.9451738
+Bigfoot Donuts,yum@bigfootdonuts.com,250-871-6603,,https://www.bigfootdonuts.com/,Courtenay,49.6902502,-125.0032691
+Bill Reid Gallery of Northwest Coast Art,info@billreidgallery.ca,877-748-8687,,http://www.billreidgallery.ca/,Vancouver,49.2843208,-123.1197968
+Bizzie B's Cleaning,BizzieBsCleaning@gmail.com,604-892-7415,,http://www.bizziebees.ca/index.html,Squamish,49.7519443,-123.1336634
+Bizzybody Events,jocelyn@bizzybody.ca,250-793-0272,250-785-8808,http://www.bizzybody.ca,Fort St John,56.2598703,-120.8539087
+Black Bear Developments,chiefrichardl@gmail.com,250-579-5720,,,Black Pines,50.9916481,-120.23838
+Black Diamond Dene,,,,http://www.blackdiamondlimited.com/main/page/aboriginal-partnerships,Fort St John,56.2417224,-120.8610065
+Blackfish Environmental,chris@blackfishent.ca,250-622-4462,250-469-9757,http://www.blackfishenviro.ca/,Kelowna,49.885637,-119.490614
+Blackfish Sawmills,srbohn@telus.net,250-638-8282,,,Terrace,54.524994,-128.5997007
+Blackwater Camp Services,valri@nazkoecdev.ca,250-992-9085,250-992-3790,http://www.blackwatercampservices.com/,Quesnel,52.9797223,-122.4936111
+BladeRunners,suzanne.catto@saset.ca,604-819-8320,604-858-3528,http://www.saset.ca/bladerunners.html,Chilliwack,49.1347378,-121.9598039
+Blanshard Systems,mschell@telus.net,250-383-9990 or 250-661-5565,250-383-9992,,Victoria,48.4406339,-123.3657027
+Blue Banana PC,mygeckopod@gmail.com,250-731-0580,,,Port Alberni,49.2968463,-124.8072976
+Blue Fire Metals,ctrwaynedrury@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Blue Heron Projects,info@blueheronprojects.ca,604-803-1905,604-536-5837,http://www.blueheronprojects.ca,South Surrey,49.0287031,-122.8598157
+Blue Thunder Electric,bluethunderelectric@gmail.com,250-851-1132,,,Barriere,51.2130406,-120.1406279
+Blueberry River Enterprises GP LTD,,250-630-2614,,http://breltd.net/,Charlie Lake,56.2833334,-120.95
+BMG Security ,,250-774-6936,250-774-3089,,Fort Nelson,58.8055556,-122.6972222
+Borrow Enterprises Ltd,dborrow@msn.com,250-674-1343,250-674-3114,,Clearwater,51.6482037,-120.0693035
+Boston Holdings,,250-692-6464,,,Burns Lake,54.2302778,-125.7644444
+BR Thompson Co,brt@webgraphic.ca,250-888-2374,250-656-5360,http://www.webgraphic.ca/,Saanichton,48.6475199,-123.4527727
+Braker Electric LTD,cliffbraker@shaw.ca,250-723-7506,,,Port Alberni,49.2696295,-124.8567326
+Brave Shield Security Inc.,warren@braveshield.com,778-999-4384,604-496-1477,http://www.braveshield.com/,Surrey,49.2004474,-122.8491268
+Bravo Restaurant & Lounge,snowdogone@gmail.com,604-792-7721,,http://www.bravorestaurant.ca/,Chilliwack,49.1716952,-121.949784
+Breakout Contracting Ltd,dawnmcgrath74@gmail.com,250-397-2728,250-397-2702,,Forest Grove,51.7666667,-121.1
+Brett Cairns: RE/MAX Ocean Pacific Realty,brettcairns@remax.net,250-898-3348,,http://www.brettcairns.com/,Comox ,49.6766705,-124.9351669
+Brian Payer and Associates Inc.,bpayer@dccnet.com,,604-943-8252,,Delta,49.0091775,-123.0766365
+Brian Titus Strategic Consulting,brian@btconsulting.ca,250-485-7365,,,Oliver,49.1824336,-119.5596694
+Bridging Innovations Inc.,bob@bridginginnovations.com,250.571.9566,,https://bridginginnovations.com,Kamloops BC,50.6745,-120.3273
+Brown's Mini Mart,normabrown53@gmail.com,250-957-2498,,http://www.heiltsukdevco.com/index.php?option=com_content&view=article&id=84&Itemid=95,Bella Bella,52.165131,-128.144839
+BSI Bookkeeping and Tax Services,accounting@blanshardsystems.com,250-590-2770,250-384-2144,http://blanshardsystems.com/,Victoria,48.425692,-123.3637122
+Budding Children's Garden & Daycare,info@buddings.ca,604-569-3951,,http://buddings.ca/,Vancouver,49.2630732,-123.1255023
+Buffalo Rains Network Corporation,rick@buffalorainsnetwork.com,778-706-9451,,http://buffalorainsnetwork.com/,Vancouver,49.2664176,-123.0843691
+Bulkley Valley Roofing,bvroof@bulkley.net,250-846-9440,,,Smithers,54.7791667,-127.1761111
+Bulkley Valley Roofing Ltd,bvroof2@gmail.com,250-846-9446,250-846-9440,,Smithers,54.7698334,-127.143943
+Burns Lake Native Development Corporation,rmorrison@blndc.ca,250-692-3188,,http://www.blndc.ca/,Burns Lake,54.2302778,-125.7644444
+Burns Lake Native Logging Ltd.,wbohmer@blndc.ca,250-692-3188,,http://www.blndc.ca,Burns Lake,54.2302778,-125.7644444
+Butterfly Kisses Mobile Spa,tarabackman1978@gmail.com,604-703-9761,,,Chilliwack,49.1213264,-121.97059
+"Button Blanket Lodging, B&B",buttonblanketlodging@hotmail.com,604-328-9805,,,Richmond,49.169516,-122.9660067
+BV Weed Busters / Bobcat Services Ltd.,cjskub@xplornet.com,250-847-5531,,,Smithers,54.8295261,-127.2127454
+C C Mobile Welding And Mechanical Services Ltd,cullen1@live.ca,250-771-5533,,,Dease Lake,58.4724438,-130.0175676
+C. Boehringer & Associates,cboehrin@telus.net,604-833-1925,250-410-0275,,Coquitlam,49.2666635,-122.8704404
+CAL Consulting,info@calconsulting.ca,250-656-3134,,http://www.calconsulting.ca,Victoria,48.4443821,-123.3363494
+Calming Hearts Counselling,calminghearts@gmail.com,250-730-0186 ,,,Port Alberni,49.2344445,-124.8058333
+Calorie Connection,calorieconnectionvending@gmail.com,250-897-4436,250-339-0871,http://calorieconnection.ca/,Comox,49.6787959,-124.9229431
+Campbell River Cabinets & Renovations Ltd,bradcain@telus.net,250-286-0506,250-830-0506,,Campbell River,50.0325101,-125.2654791
+Cam's Race Track Gas,,250-766-3723,,,Kelowna,50.0009967,-119.4015339
+Canadian Centre for Aboriginal Entrepreneurship Inc. ,ccae@shaw.ca,250-352-3878,,http://www.ccae.ca/,Nelson,49.4823105,-117.2871477
+Canadian Rubber and Steel Ltd.,john@cdnrs.ca,604-946-5599,604-946-5669,http://canadianrubberandsteel.com/,Delta,49.1402338,-123.0081038
+Canadian Shelters Design and Manufacturing,val@canadianshelters.com,604-539-8765,,http://www.canadianshelters.com/HomePage.html,Langley,49.1064274,-122.6774297
+Canadian Super Igloos,info@csidomes.com,,,,Kelowna,49.8576542,-119.4709159
+Canoe Creek Band Co-op Store,storemanager@canoecreekband.ca,250-440-5758,,,Dog Creek,54.2833334,-124.2666667
+Can-Swe Distributors Inc.,info@canswe.com,250-832-4022,,http://www.canswe.com/,Salmon Arm,50.7,-119.2666667
+Capilano River RV Park,info@capilanoriverrvpark.com,604-987-4722,604-987-2015,http://www.capilanoriverrvpark.com/,West Vancouver,49.3239731,-123.1314064
+Carden Consulting,laara@cardenconsulting.com,,604-988-9500,http://www.cardenconsulting.com,North Vancouver,49.3056299,-122.9709036
+Cardinal Ranch,info@cardinalranch.com,250-968-4481,,http://www.cardinalranch.com/,Valemount,53.023119,-119.539123
+Cariboo Chilcotin Jetboat Adventures,info@jetboatadventures.com,877-748-8687,250-659-5800,,Williams Lake,52.1291667,-122.14
+Caribou Management and Training Consulting,pmckinnon@shaw.ca,,,,North Vancouver,49.3239107,-123.1210389
+Carlson Fleet Maintenance Inc,carlsonfm@shaw.ca,604-746-1778,,,Abbotsford,49.0437242,-122.3589134
+Carmen's Custom Cakes,carmenalec@hotmail.com,250-691-1997,,,Burns Lake,54.2266699,-125.7653057
+Carrier Food and Fuel,mur2009@telus.net,250-996-7238,,,Fort St James,54.4174,-124.2668551
+Carter Reign,tawiinism@gmail.com,250-670-9567,,,Ahousaht,49.2527948,-126.0994881
+Cascade Pacific Industries,cpindustries@telus.net,604-880-9777,,,West Vancouver,49.3269527,-123.1377458
+Cascadia Board Co.,anng65seo@gmail.com,250-830-3825,,http://cascadiaboardco.com,Victoria,48.4814194,-123.3890174
+Cascadian Forest Consultants,a3ranches@hotmail.com,250 280 1687,,,Lower Nicola,50.1753057,-120.8691584
+Cayoose Creek Development Corporation,591ccdl@gmail.com,250-256-4136,,,Lillooet,50.7185365,-121.9111732
+C-Boards Ltd.,m_henyu@telus.net,778-256-5711,,,Ft St John,56.255,120.8552187
+CCW Ventures Ltd,shaunf@ccwltd.net,250-793-5371,,,Fort St John B.C.,56.2632287,-120.8533252
+Cedar Creek Caskets,simpsontg@gmail.com,250-816-0464,,http://ccreek.ca/,Nanaimo,49.1524529,-123.9296205
+Cedar Feast House Catering,TCONTOIS@SHAW.CA,604-831-1215,,http://www.cedarfeasthouse.com,Vancouver,49.2619197,-123.0970126
+Cedar People Beading ,warlord_antione@hotmail.ca,250-378-6866,,,Merritt ,50.1125,-120.7883333
+CEEM Earth Environmental Management,lhodges@shaw.ca,250-314-0875,,,Kamloops,50.676104,-120.3318119
+Central Office Furnishings Repair Ltd.,doug@officefurniturerepairs.com,604-581-8960,604-584-2637,,Burnaby,49.259418,-122.9379247
+Chameleon Design & Communications,,250-748-5552,,http://www.chameleondesign.ca/,Duncan ,48.7786112,-123.7080556
+Charlie Louis Saddlery,,250-545-6028,,,Vernon,50.352375,-119.325056
+Charlotte & Charleen Buckskin Work ,alexandercharleen@gmail.com,250-350-3310,,,Merritt,50.1125,-120.7883333
+Char-Marv Enterprises,alexandercharleen@gmail.com,250-350-3310,,,Merritt ,50.1125,-120.7883333
+Chase Office Interiors Inc.,danny.c@chaseoffice.ca,604-922-0118,604-677-6653,http://chaseoffice.ca/,West Vancouver,49.3269527,-123.1377458
+Chayse Diack- Sutton Showplace Realty,cdiack@sutton.com,604-793-9900,,http://www.sutton.com/agents/bc/Chilliwack/chayse-diack/,Chilliwack,49.1698899,-121.9525557
+Cheam Enterprises Inc.,darwin.douglas@cheamband.com,604-794-7924,,,Rosedale,49.1829639,-121.8001535
+Cheam Trading Inc.,darwin.douglas@cheamband.com,,,https://www.facebook.com/CheamTradingInc,Rosedale ,49.17761,-121.8077
+Chehalis Band Store,vanessa.jules@stsailes.com,604-796-9252,,http://www.stsailesdevcorp.com/services/chehalis-store-gas-station,Agassiz,49.2973308,-121.9119884
+Cheryl's Trading Post,cherylstradingpost@gmail.com,604-538-5008,,http://www.cherylstradingpost.com/,Surrey,49.0332756,-122.8014221
+Chief Louie Paddle Company,sales@chieflouie.com,250-694-3334,250-694-3632,http://chieflouie.com/,Burns Lake,54.2302778,-125.7644444
+Chief Will-Yum Gas Bar,,250-296-4522,250-296-3576,,Williams Lake,52.1694417,-122.1115845
+Chilcotin Plateau Ent. Ltd,isabel_dodd@hotmail.com,250-659-5655,250-659-5601,http://chilcotinsilviculture.org/2012/11/26/chilcotin-plateau-enterprises-ltd/,Riske Creek,51.9686111,-122.5283333
+Chinook Cove Contracting Ltd.,dm_matthew@msn.com,250-319-0846,,http://www.simpcw.com/14-information/simpcw-contractors/35-chinook-cove-contracting,Barriere,51.1797223,-120.1236111
+ChiyoneStar Enterprises,chiyonestar@gmail.com,778-772-6355,,,Tahltan Reserve,58.0134115,-130.9778129
+Chu Cho Industries L.P.,dwiebechucho@yahoo.ca,250-596-8989,250-561-0738,,Prince George,55.3120682,-123.142166
+Chuchuwayha Forestry Limited Partnership (Capacity Forest Management),corbylamb@capfor.ca,250-287-2120,250-287-2125,http://www.capfor.ca/,Campbell River,50.0322998,-125.2684346
+Chuck's On-Call Services,chucksoncallservices@gmail.com,250-715-5672,,,Duncan,48.775769,-123.709803
+Chunzoolh Forest Products Ltd.,khenry@lheidli.ca,250-562 0846 x 202,250-963-9122,http://www.lheidli.ca/Lands_And_Natural_Resources/forestry.php,Prince George,54.008718,-122.613535
+Chylan Emergency Gear Inc.,chylaninfo@gmail.com,604-533-0996,,http://www.chylan.ca/,Surrey,49.1121903,-122.6803255
+Cisaa Forestry Corporation,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Clara's Native Arts and Crafts,clara1jack@gmail.com,250-996-1638,,,Fort St James,54.4389163,-124.2542644
+Clearview Logging,amgerow@gmail.com,250-692-0876,250-692-4205,,Burns Lake,54.2008669,-125.7591569
+Clip 21 Hair Studio,clip21studio@hotmail.com,250-723-4247,,,Port Alberni,49.2540496,-124.7977749
+Cluxewe Resort,relax@cluxewe.com,250-949-0378,,http://www.cluxeweresort.com/,Port McNeil,50.57734165,-127.1351624
+CMedia Outdoor Advertising,info@cmediaoutdoor.com,604-924-1076,,https://cmediaoutdoor.com/,North Vancouver,49.2611112,-123.1138889
+Coast Salish Aquaculture Resources Ltd.,ray.gauthier@coastsalishdevcorp.com,250-924-2444,,http://coastsalishdevcorp.com/page/csa,Ladysmith,49.0146775,-123.8517994
+Coast Salish Development Corporation ,ray.gauthier@coastsalishdevcorp.com,250-924-2444,,http://www.coastsalishdevcorp.com,Ladysmith,49.0146775,-123.8517994
+Coast Salish Journey,hjrice@telus.net,250-701-3086,,http://www.coastsalishjourney.com/,Cowichan Bay,48.7310028,-123.6079364
+Coast Tsimshian Enterprises,bob.ecdev.laxband@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Coast Tsimshian Fish Plant,norm.tsimshianfish@gmail.com,250-625-3320,,,Port Simpson,54.5522458,-130.4332582
+Coast Tsimshian Resources ,ctrwaynedrury@gmail.com,250-748-0501,,http://www.ctrlp.ca,Terrace,54.513437,-128.6064798
+Coldwater Bridge & Culvert Ltd,coldwaterkeller@hotmail.com,250-996-8134,,,Fort St James,54.4444445,-124.2591667
+Columbia Environmental Consulting Ltd.,columbiageneral@shaw.ca,778-476-5656,778-476-5655,http://www.ourokanagan.ca/business/columbia-environmental-consulting-ltd.html,Penticton,49.4786846,-119.5985548
+Columbia Scaffolding Ltd.,,604-302-1197,604-530-7192,,Abbotsford,49.05,-122.2833333
+Commodores Boats Ltd,bo@commodoresboats.com,604-247-2628,604-247-2629,http://www.commodoresboats.com,Delta,49.1579034,-122.895566
+Common Ground Consulting,marlane@buildabridge.ca,,604-414-3863,,Powell River,49.895765,-124.6167752
+Connecting Cultures ,,250-920-0373,,,Victoria,48.4618534,-123.3614671
+Connie Watts,chimsstudios@shaw.ca,604-313-0029,,http://www.conniewatts.com,Port Alberni,49.2807543,-124.98616
+Cook Contracting,doncookbc@yahoo.ca,250-838-6477 ,,,Enderby,50.5502202,-119.1246902
+Copper Maker Gallery,,250-949-8491,,http://www.calvinhunt.com/,Port Hardy,50.71559113,-127.5073242
+Copperknot Jewelry,sales@copperknot.ca,604-445-5343,,http://www.copperknot.ca/,West Vancouver,49.3207655,-123.1211416
+Coppers By Ha'eis,haeisclarehill@mac.com,250-841-2727,,,Hartley Bay,53.4228315,-129.2529686
+Coqualeetza Gift Shop,julie@coqualeetza.com,604-858-9431,,http://www.coqualeetza.com/,Chilliwack,49.1595,-121.9774422
+: Corfield & Associates Consulting Services,michellecorfield@shaw.ca,250-741-7540,,http://www.corfieldconsulting.ca,Nanaimo,49.1579034,-123.9622171
+Cougar Island Water Taxi,,250-670-9692,,,Ahousaht,49.2527948,-126.0994881
+Cowichan Kuzzins Contracting,kuzzins@telus.net,250-710-8147,250-748-3157,,Duncan,48.744162,-123.658708
+Coyote Creek Rodeo,tedmarchand@shaw.ca,250-542-4646,250-542-4615,https://www.facebook.com/CoyoteCreekRodeoCompany,Vernon,50.352375,-119.325056
+Coyote Rock Golf Course,willie.sellars@williamslakeband.ca,250-303-4653,,http://www.coyoterockgolf.com/,Williams Lake,52.12020946,-122.0219278
+Creekstone Consulting Inc,lyn.blanchard@creekstoneconsulting.com,,,http://www.creekstoneconsulting.com,West Vancouver,49.3269527,-123.1377458
+CrossRiver Wilderness Centre & Kootenay Wilderness Tours,cwcinfo@crossriver.ca,403-271-3296,,https://www.crossriver.ca/,Radium Hot Springs,50.7355095,-115.8766221
+Cruiser's Grill,cruisersgrill@hotmail.ca,250-752-4814,,http://www.cruisersgrill.ca,Qualicum Beach,49.3114881,-124.5187789
+CSC Electric Ltd.,cscelectric@telus.net,250-851-6225,,http://www.cscelectric.ca,Kamloops,50.6925449,-120.3283725
+Culture Shock Interactive Gallery ,info@cultureshockgallery.ca,250-974-2484,,http://www.cultureshockgallery.ca/,Alert Bay,50.5919914,-126.9332733
+Currie Creek Electric and Associates,jon@curriecreek.com,604-855-2469,604-826-7780,http://www.curriecreek.com/,Deroche,49.130977,-122.313738
+Cynthia M. Joseph,rubyjane@telus.net,250-842-8877,,,New Hazelton,55.2433334,-127.5869444
+D & D Contracting,,250-842-0564,,,Gitanmaax,55.2628252,-127.6592677
+D&D RV Centre & Mini Storage,info@ddservicecentre.com,250-447-9337,,http://www.ddservicecentre.com/index.html,Christina Lake,49.0426368,-118.206094
+D. Frocklage Contracting Ltd.,frocklage@gmail.com,250-771-5708,,,Dease Lake,58.4333334,-130.0241667
+D.Hoey Construction,donhoey20@gmail.com,250-520-0318,,,Sorrento,50.8819317,-119.4018068
+D.J.S. Enterprises,Kevindjsenterprises@gmail.com,604-741-1703,,,Halfmoon Bay,49.4860439,-123.8522958
+Dal et La,bbonner@idlprojects.com,250-649-0561,,http://www.idlprojects.com/,Prince George,53.8767219,-122.7388295
+Dan Dettieh Contracting Ltd.,,250-774-7209,,,Fort Nelson,58.8055556,-122.6972222
+Dan Mayers Contracting Ltd.,leannewalker_12@hotmail.com,604-885-2462,,,Sechelt,49.4858715,-123.7523374
+Dancing Moose Enterprises,dc123@telus.net,250-359-6673,,,South Slocan,49.4666667,-117.5166667
+Dare to Dream,fnlady48@live.ca,250-457-9169,,,Cache Creek ,50.8119445,-121.3233333
+Darlen Transport (1986) Ltd. ,rocky@darlentransport.com,250-372-9566,,http://www.darlentransport.com,Kamloops,50.711608,-120.327667
+David Neel Studio,neel.david@gmail.com,604-988-9215,604-988-9215,http://davidneel.com/index.php,North Vancouver,49.3111735,-123.0795971
+Dawson Analytics Inc.,DawsonAnalytics@outlook.com,604.961.5129,,http://www.dawsonanalytics.com,Maple Ridge,49.2512469,-122.5874728
+Dayesi Services Ltd. ,info@dayesi.ca,604-825-5271 ,,http://www.dayesi.com/,Abbotsford,49.053823,-122.2889648
+Deadman Valley F.N. Contracting,deadmanvalley@telus.net,250-571-4523,,,Savona,50.75,-120.8333333
+Deadman Valley First Nation Contracting,deadmanvalley@telus.net,250-571-4523,,,Savona,50.75,-120.8333333
+Dease Valley Resources,,,,,Dease Lake,58.4333334,-130.0241667
+Deer Point Development Ltd,ray.gauthier@coastsalishdevcorp.com,250-924-2444,,http://coastsalishdevcorp.com/page/deer-point,Ladysmith,49.0146775,-123.8517994
+Dene Energy,dene.energy2011@gmail.com,250-774-3278,,,Fort Nelson,58.8055556,-122.6972222
+Denham Law Office,lisa@denhamlawoffice.com,250-828-2846,250-372-2592,,Kamloops,50.6759004,-120.3387262
+Denise Nicholson RMT,,250-723-0102,,,Port Alberni,49.2456435,-124.7945181
+Dent King,info@dentking.com,604-687-3368,,http://www.dentking.biz/index.php,Richmond,49.1778587,-123.1009683
+Desjarlais Drywall,joedesjarlais@hotmail.com,778-892-0095,,,North Vancouver,49.3197749,-123.0502102
+DEVA Training & Staffing Solutions,sam@digitaldeva.org,250.204.2089,, http://digitaldeva.org,Lantzville,49.2513134,-124.0724883
+Distinct Designs,,250-774-7657,,,Fort Nelson,58.808371,-122.6743365
+Djogaslee House Projects,a59sampson@hotmail.com,250-842-6603,,,Hazelton,55.2558334,-127.6755555
+dk Architecture Inc.,dk@dkarchitecture.ca,,,,North Vancouver,49.3233871,-123.1213683
+DK Helicropper Int'l Ltd. ,gene@helicropper.com,604-857-2250,604-857-2260,http://www.helicropper.com/,Abbotsford,49.1474523,-122.4354597
+DKGL Excavating,rgmuldoe@hotmail.com,250-842-2345,,,Kispiox,55.3586778,-127.6873256
+DL Safety Consulting,info@dlsafetyconsulting.ca,604-569-20054,778-397-1615,http://dlsafetyconsulting.ca/home2,Burnaby,49.2253296,-122.9385925
+DNL Contracting,d.hiebert@telus.net,250-256-4114,,,Lillooet,50.6752786,-121.9341065
+Dockside Smoked Fish Store,tofino@himwitsa.com,250-725-2017,,http://www.himwitsa.com/smoked-fish-store-tofino-seafood-market-smoked-canned-salmon-seafood-wholesalers-tofino-bc.htm,Tofino,49.1530556,-125.9044444
+Doig River Energy Ltd.,taven@dreoilfield.com,250-785-7093,,,Fort St John,56.2525,-120.8466667
+Doig River Timber,cpoucecoupe@doigriverfn.com,250-827-377 or 250-262-8011,,,Rose Prairie,56.5,-120.7833333
+"Domcor Health, Safety & Security Inc.",debbieshea@domcor.ca,250-286-3163,,http://www.domcor.ca/,Campbell River,50.0276457,-125.2484805
+Dominion Aggregates,dcgl@telus.net,250-342-1677,250-342-4466,,Invermere,50.5058334,-116.0305555
+Dominion Excavating Ltd ,diacote@telus.net,250-342-1677,250-342-4466,,Invermere,50.5058334,-116.0305555
+Donald A Cook Contracting,doncookbc@yahoo.ca,250-306-5064,,,Enderby,50.5503102,-119.1346113
+Doolan Trucking,spdoolan68@yahoo.com,250-326-4344,,,Ginglox,54.9964447,-129.952372
+Douglas Communications Inc. ,jean@dcom.ca,604-202-1874,,http://www.dcom.ca,Maple Ridge,49.2094197,-122.5657254
+Drake Forestry Services Ltd.,rdrake@drakeforestry.com,250-769-0507,250-769-4316,http://www.drakeforestry.com/drakeforestry/,Kelowna,49.8803335,-119.5281435
+Dreamcatcher Business Solutions,william@dcbsolutions.com,250-710-2580,,http://www.dcbsolutions.com,Cobble Hill,48.6828776,-123.5625795
+Dreamweaver's Trading,inez.andy5@gmail.com,,,,Mount Currie,50.3166667,-122.7166667
+Dunedin River Contracting,,,,,Fort Nelson,58.8055556,-122.6972222
+Duraglas Composites,tonyd@duraglascomposites.com,250-212-5604,,http://duraglascomposites.com/,West Kelowna,49.8713178,-119.5398082
+Duz Cho Construction,reception@dcclp.com,250-788-3120,,http://www.duzcho.com/,Chetwynd,55.6962345,-121.6213081
+Duz Cho Construction LP,albertson@dcclp.com,250-788-3120,250-788-3188,https://duzcho.com/duz-cho-construction/,Chetwynd,55.6963381,-121.6266684
+Duz Cho Logging,admin@duzchologging.com,250-997-4420,,http://www.duzchologging.com/,Mackenzie,55.3122231,-123.1407469
+Dwayne Malloway ,dwaynemalloway@gmail.com,604-824-5294,,,Chilliwack,49.1131596,-121.9440463
+Dynamic Online Marketing Corp,eggwoll2go@yahoo.com,604-580-2850,,,Surrey,49.1947978,-122.8060404
+Dynamic Tree Services,info@dynamictreeservices.com,604-830-0998,,http://www.dynamictreeservices.com,Burnaby,49.2711403,-123.0077429
+E & K Construction,jolena_hope@hotmail.com,,,,Hope,49.38,-121.4413889
+Eagle Auto Wrecking and Khowutzun Auto Recycling Sales,,250-715-1188,,,Duncan,48.775769,-123.709803
+Eagle Claw Contracting,dagreen@xplornet.com,250-659-5800,,,Riske Creek,51.9686111,-122.5283333
+Eagle Home Inspection,terry@eagleinspection.ca,250-878-3994,,http://eagleinpection.ca/,West Kelowna,49.8633609,-119.6127349
+Eagle Landing Development Limited Partnership,davidjimmie@squiala.com,604-792-8300,604-792-4522,,Chilliwack,49.1575792,-121.9800912
+Eagle Rock Materials Ltd.,rick@hupacasath.ca,250-724-1232,,,Port Alberni,49.2344445,-124.8058333
+Eagleeye Pictures,eagleeyepictures@shaw.ca,250-723-6851,,,Port Alberni,49.2467253,-124.7977823
+Earthline Contemporary Aboriginal Designs & Accessories,,250-280-1458,,,Lower Nicola,50.1766152,-120.8669725
+Edzerza Gallery,edzerza@gmail.com,778-836-6111,,http://www.edzerzagallery.com/,Vancouver ,49.2611112,-123.1138889
+Edziza Contracting Ltd.,cburger38@hotmail.com,250-615-1408,,,Terrace,54.5031485,-128.5870657
+Eensa Contracting Ltd.,,250-775-1571,250-774-7566,,Fort Nelson,58.8055556,-122.6972222
+Eh-Cho-Dene Enterprises,samantha@ehchodene.com,250-774-7523,250-774-7525,http://www.ehchodene.com/,Fort Nelson,58.8043923,-122.7390938
+Ekoolthaht Marine Corporation,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Elaine Alec Consulting,elaine@elainealec.com,250-809-2592,,http://elainealec.homestead.com/,Penticon,49.491331,-119.644963
+Eleven 22 Grill & Liquids,eleven22@redshift.bc.ca,250-344-2443,,http://www.eleven22.ca/index.htm,Golden,51.2940449,-116.9629507
+Ellis Excavating Ltd,ellisexcavating@shaw.ca,250-756-9918,,,Nanaimo,49.2203405,-124.0111353
+Em Salon and Spa,info@emsalonspa.ca,250-723-8322,,http://www.emsalonspa.ca,Port Alberni,49.2561138,-124.8105236
+Embark Engineering,info@embarkengineering.com,604-293-3280,,http://www.embarkengineering.com/,Burnaby,49.259969,-123.0113595
+Emerge Wings of Change Consulting,palnata7.emerge@gmail.com,604-313-5676,,,Powell River,49.894387,-124.5996721
+Emory Creek Campground,info@emorycreekcampground.com,604-869-1167,,http://emorycreekcampground.com,Yale,49.51361,-121.416761
+Enigma Apparel and Promotions,,778-631-3313,778-631-3316,http://www.enigmapromo.ca/,Kitimat ,54.0544068,-128.6533348
+EnviroPro,info@enviroprocanada.ca,778-882-5918,,http://www.enviroprocanada.ca/,Burns Lake,54.2226069,-125.7467446
+Epicure with Christine,christine_s_friesen@hotmail.com,250-879-0799,,,Kamloops,50.6758334,-120.3394444
+Equis Forestry Products Ltd,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Erich Glendale Art,erichglendalecarver@hotmail.com,250-723-8841,,http://www.erichglendalecarver.com/,Port Alberni,49.2718552,-124.8609426
+Eri-Cut & Nailed,erica_jean_ryan@hotmail.com,250-637-1777,,https://www.facebook.com/pages/Eri-Cut-Nailed/159522787403394,Skidegate,53.2666667,-131.9902778
+Esh-kn-am Investments Joint Venture,brenda.walkem@gmail.com,250-315-0085,250-315-0084,http://www.eshknam.com,Spences Bridge,50.4225717,-121.3437443
+Etched in time ,laserwiz@gmail.com,250-256-0029,,,Lilooet,50.689439,-121.9532452
+Etzerza Contracting ,,250-235-3025  ,,,Telegraph Creek,57.9,-131.1666667
+Eustache Consulting,leustache39@hotmail.com,250-672-9995,250-672-5858,http://www.simpcw.com/,Barriere,51.1797223,-120.1236111
+Evedar's Bistro,franhj16@hotmail.com,250-391-8636,,http://evedarsbistro.com,Langford,48.4483167,-123.5012052
+F&A Earthmoving Ltd,leary@shaw.ca,604-302-0404,,,Mission,49.1591667,-122.2838889
+Factory Direct Furniture,alphonseinwl@gmail.com,250-392-0074,250-398-6074,http://www.factorydirectwilliamslake.ca/,Williams Lake,52.1407756,-122.134909
+Falcon Camp Services Inc.,thill@falconcontractingltd.com,250-563-5609,250-563-5619,http://www.falconcampservices.com/,Prince George,53.8431348,-122.7287357
+Fast & Corcoran,lfast@nativelaw.ca,250-261-4529,,,Coquitlam,49.3199024,-122.7940588
+Fernie Cardlock,info@ferniecardlock.com,250-423-7205,,http://www.ferniecardlock.com,Fernie,49.5154421,-115.0604805
+Finel Cut Contracting Services,finelcut@gmail.com,604-603-9474,,,Coquitlam,49.2841667,-122.7936111
+First Light Initiatives,bireland@telus.net,,,,West Vancouver,49.3269527,-123.1377458
+First Nations Business Advisory Services Ltd.,,250-957-2555,250-957-2522,,Bella Bella,52.165131,-128.144839
+First Nations Carpentry Services,nellie@moberlylake.net,250-788-4205,,,Moberly Lake,55.8333334,-121.7333333
+First Nations Consulting Services,davidlawson@eaglecoatings.net,604-538-7170,,http://www.eaglecoatings.com,Surrey,49.016537,-122.7761322
+First Nations Films,richard@firstnationsfilms.com,604-318-5418,,http://www.firstnationsfilms.com/index.html,North Vancouver,49.3424129,-123.0712617
+First Nature Mechanical Ltd.,service.fnm@gmail.com,,,,Chilliwack,49.1347378,-121.9598039
+First Peoples Group of Companies,George@firstpeoplesgoc.com,604-565-7773,,,West Vancouver,49.3269823,-123.1377462
+FlexiNet Broadband Inc. ,,250-489-3539,,http://www.flexinet.ca/,Cranbrook,49.5080556,-115.7469444
+FN (PTP) Group Limited Partnership,,,,,Vancouver,49.2611112,-123.1138889
+Forfathurs Collective,ejwcampbell@gmail.com,604-220-7983,,http://www.forfathurscollective.com/,Langley ,49.1712091,-122.5643115
+Formline Architecture + Urbanism,info@formline.ca,604-683-7232,,http://www.formline.ca/,Vancouver,49.282659,-123.1123364
+Fort Nelson Dene Gas,,250-774-2299,,,Fort Nelson,58.8055556,-122.6972222
+Fountain Flat Trading Post & Gas Bar,vmadolph658@gmail.com,250-256-0148,,http://www.fountainflattradingpost.com,Fountain,49.1711501,-119.5590276
+Fountain Ranch Ltd.,ranch@xaxlip.ca,,,http://www.xaxlip.ca/Fountain_Ranch.html,Lillooet ,50.6938889,-121.9336111
+Four Corners Tribal Business Corporation,mwatson@fourcornerstbc.ca,604-824-5270,,http://www.fourcornerstbc.ca/,Chilliwack,49.1666667,-121.95
+Four Directions Management Services Ltd.,,250-320-3548,,http://www.fdms.ca/,Kamloops,50.6887085,-120.2861815
+Four Directions Martial Arts Academy,fourdirectionsmartialarts@hotmail.com,604-798-8143,,http://www.fourdirectionsmartialarts.com/,Chilliwack,49.1347378,-121.9598039
+Framed in Time,knukfan@yahoo.ca,250-256-0029,,,Lillooet ,50.689439,-121.9532452
+Frank J. Alec Consulting,frankjalec@gmail.com,250-692-0465,250-692-7343,https://www.youtube.com/watch?v=GCSczDUBKyM,Burns Lake,54.2302778,-125.7644444
+Fraser Valley Office Systems,jnickel@freaservalleyofficesystems.com,604.621.3866,,http://fraservalleyofficesystems.com/,Abbotsford,49.0490255,-122.3828463
+Freda's Catering and Cakes,,250-842-0087,,,Gitanmaax ,55.2529901,-127.6743081
+Friendly Treasures Gift Shop,thriftstore@lfcs.ca,250-256-4400,,http://www.lfcs.ca/index/thrift-store,Lillooet,50.6899757,-121.9374692
+Friendship Catering Services,friendshipcatering@shaw.ca,604-568-1585,,,Vancouver,49.2813278,-123.0714553
+G&G Environmental Consulting LTD,ggec@telus.net,250-768-8053,,,Westbank,49.8296358,-119.6071593
+G. Gairdner Enterprises Ltd,grantgairdner@yahoo.com,250-630-2614,,,Fort St John,56.2525,-120.8466667
+G.I. Lampreau Contracting Ltd,,250-672-5858,,http://www.simpcw.com,Barriere,51.1797223,-120.1236111
+G.R. Edwards Trucking & Excavation,gerald_tandem@yahoo.ca,604-230-9412,,,"Port Coquitlam,",49.2347593,-122.7790836
+Gail's Burger Wagon,gailstump@hotmail.com,778-417-0056,,,Alexis Creek,52.0833334,-123.2833333
+G'Alexcee Safety Service Inc.,galxc.ss1@gmail.com,778-884-6078,,http://www.galexceesafetyservice.ca,Terrace,54.540181,-128.5972746
+Ganhada Management Group,aokabe@ganhada.com,604-263-8646,,http://www.ganhada.com/,Vancouver,49.2339447,-123.1992217
+Garrison Bistro,greglrobinson@hotmail.com,604-858-2346,604-858-9369,http://www.garrison-bistro.ca/,Chilliwack,49.1053757,-121.9652682
+Gayle's Catering ,gaylened49@hotmail.com,778-347-9963,,,Abbotsford ,49.0607706,-122.19304
+Geel Enterprises Incorporated,geel09@shaw.ca,778-887-4670,,http://geelenterprises.com/,Gitanmaax,55.2601841,-127.6577399
+GENCO Fire Protection,gencofp@gmail.com,250-600-2080    ,,,Prince Rupert ,54.3049512,-130.3241991
+Generous Electric Ltd,generous@shaw.ca,250-701-3610,,,Duncan,48.7473455,-123.7590399
+Germain Favel Specialized Services Incorporated,Info@gfssincorporated.com,604-281-4988,604-281-4989,http://www.gfssincorporated.com/,West Vancouver,49.3269823,-123.1377462
+Germain Favel Specialized Services Incorporated (GFSS),info@gfssincorporated.com,250-999-4988,778-574-6584,http://www.gfssincorporated.com/,Vernon,50.2335596,-119.4516167
+Get'um'done Contracting Ltd.,getumdone@telus.net,250-845-0025,,,Houston,54.3983334,-126.6483333
+GI Charles,,250-670-2456,,,Ahousaht,49.2527948,-126.0994881
+Gilwa Consulting Inc.,gilwaconsultingoffice@gmail.com,778-215-1888,,http://www.gilwaconsulting.com,Kelowna,49.8804877,-119.4070893
+Gitanmaax Development Corporation,,,,,Old Hazelton,55.2551756,-127.6773791
+Gitanyow Economic Development Corp,starlundm@gmail.com,250-849-8406,,,Kitwanga,55.1,-128.0666667
+Gitmaxmak'ay Nisga'a Prince Rupert/Port Edward Society,blair@gitmaxmakay.ca,250-627-1595,,http://nnkn.ca/node/80,Prince Rupert,54.3097751,-130.3297796
+Gitsegukla Economic Development Corporation,info@gitxsanbusiness.com,250-849-5700,,http://www.gitsegukla.org/,South Hazelton,55.2558334,-127.6755555
+Gitsegukla Hemp Corporation,,778-229-9997,,,South Hazelton ,55.2558334,-127.6755555
+Gitxaala Environmental Monitoring,gem@gitxaalanation.com,250-624-3339,,https://gitxaala.wordpress.com/,Prince Rupert,54.3162291,-130.3232365
+Gitxsan Development Corporation,info@gitxsanbusiness.com,604-940-1213,,http://www.gitxsanbusiness.com/,Delta,49.0909387,-123.0858192
+Gitxsan Energy Inc,jako@telus.net,,,,Delta ,49.0847223,-123.0586111
+Gitxsan Forestry Enterprises Inc,info@gitxsanbusiness.com,250-842-5055 ,,http://www.gitxsan.com/community/news/gitxsan-forest-enterprises-inc-gfei/,Hazelton,55.2383887,-127.6502511
+Gleyzay Holdings Ltd.,buckley63@telus.net,250-640-2038,,http://www.gleyzayholdings.ca,Prince George B.C.,53.8004125,-122.6564184
+Golden Eagle Gifts,vienna.af@hotmail.com,778-421-1443,,,Port Alberni,49.25978,-124.8185109
+GR & L Fishing Inc,info@greatriverfishing.com,604-792-3543,604-792-3543,,Chilliwack,49.1805628,-121.9557019
+Grace Harbour Oyster Company Ltd.,kevin.timothy@sliammon.bc.ca,,,,Powell River,49.8981532,-124.607871
+Graham River Oilfield Services Ltd.,griveroilfieldservicesltd@hotmail.com,250-772-5161 or 250-261-3540,,,Wonowon,56.727364,-121.9610636
+Grant Conlon Trucking Ltd.,grantconlon@msn.com,250-698-7607,,,Brurns Lake,54.2224605,-125.7455477
+Grassy Bay Services Ltd.,grassy@citytel.net,250-624-9450,,http://www.metlakatla.ca/mdc-businesses/grassy-bay-petrocanada,Prince Rupert,59.6,-134.1833333
+Great River Fishing Adventures,,604-991-3474,,http://www.greatriverfishing.com/,Chilliwack,49.1805628,-121.9557019
+Greatwest Tree Service,greatwesttreeservice@gmail.com,604-644-1510,604-576-2617,http://www.greatwesttreeservice.com/,Vancouver,49.2611112,-123.1138889
+Green Boss Energy Ltd.,roland@greenbossenergy.com,250-682-3353,,http://www.greenbossenergy.com,Heffley Creek,50.8572223,-120.2747222
+Green Mountain Janitorial Services,impallasecurity@shaw.ca,778-520-2280,778-520-2212,,Cranbrook,49.5138589,-115.7629171
+Green's Fish Guiding,,,,,Kitimat,53.975,-128.65
+Greenstar Forest Solutions,greenstarfsi@gmail.com,,,http://www.greenstarfsi.com/,Valemount,52.8285427,-119.2647656
+Greenville Enterprise Inc.,mstevens@3xgmm.com,250-621-3371,250-621-3266,,Greenville,55.03294,-129.581206
+Greenville Tourism Services Ltd.,mstevens@3xgmm.com,250-621-3371,,,Greenville,55.03294,-129.581206
+Grieg Seafoods,admin@yuquot.ca,250-283-2015,,http://www.griegseafood.no/english.aspx?pageId=20,Gold River,49.7813889,-126.0469444
+Grizzley Clan Creative Arts,sherry.sherrystewart.stewart7@gmail.com,604-626-7018,,,Abbotsford,49.0096792,-122.1835866
+Gus Poirier Construction,guspoirier@yahoo.com,250-847-5293,,,Smithers,54.801953,-127.0270514
+Gwaalagaa Naay Corporation,gncorp1@gmail.com,250-559-0014,250-558-0013,http://www.skidegate.ca/Pages/programs/gwaalagaa_naay.html,Skidegate,53.248902,-131.9972708
+Gwaii Engineering Ltd., cbrown@gwaiieng.com,250-886-0049,,https://www.gwaiieng.com/,Victoria ,48.4400995,-123.3737331
+Gwaii Holdings Ent.,gwaii33@mhtv.ca,250-626-5164,250-626-5164,,Masset,54.0336205,-132.1739793
+Gwaii Services,mlouie@myway.com,604-306-9697,,,Vancouver,49.2402275,-123.1445862
+G'wsep Gas and Food,vernonraphael@yahoo.ca,250-455-6604,,,Lytton,50.2569684,-121.5909435
+H.G.Xcavating,h.g.xcavating@gmail.com,250-732-3838,,,Duncan,48.7698519,-123.6771554
+HAICO (Haida Enterprise Corporation),info@haico.ca,604-763-1844,,http://www.haico.ca/,Skidegate,53.2666667,-131.9902778
+Haida Fishing Charters,haidafishing1@gmail.com,250-559-0014,,http://haidafishingcharters.com/#,Skidegate,53.248903,-131.9972708
+Haida Gwaii Consulting Inc.,haidagwaiiconsulting@gmail.com,778-928-9217 ,,,Skidegate,53.2660904,-131.9911614
+Haida Gwaii Forest Products,ecdev@mhtv.ca,250-626-3337,,,Masset,54.0340418,-132.175256
+Haida Heritage Centre at Kay Llnagaay,gncorp1@gmail.com,877-557-4600,,http://haidaheritagecentre.com/,Skidegate,53.2488518,-131.9980927
+Haida House at Tllaal,info@haidahouse.com,1-855-557-4600,1-800-930-2118,http://www.haidahouse.com,Tlell,53.5872744,-131.940867
+Haida Land Management Services Corporation,ecdev@mhtv.ca,250-626-3337,250-626-5440,,Massett,54.0340418,-132.175256
+Haida Salmon Restoration Corporation,,250-626-3337,250-626-5440,http://www.haidasalmonrestoration.com,Massett,54.0235431,-132.0216907
+Haida Seafood Products,panache23@hotmail.com,250-626-3337,250-626-5440,,Masset,54.0340418,-132.175256
+Haida Style Expeditions,info@haidastyle.com,250-637-1151,,http://haidastyle.com/,Skidegate,53.19287024,-132.1902466
+Haida Wild,,250-626-3848,250-626-3847,,Masset,54.0097313,-132.1355926
+HaiSea Marine Services Ltd,bcook@haiseamarine.com,250-639-7047,,,Haisla ,53.9742553,-128.6498233
+Haisla & Progressive Ventures Construction Limited Partnership,info@pvlgroup.com,250-635-7459 ,,,Terrace,54.5122899,-128.6136751
+Haisla Business Operations and Compass/ESS JV,,,,,Kitimat Village,53.9748438,-128.645748
+Haisla/Mammoet Western Canada JV,,,,http://www.mammoet.com/,Kitimat Village,53.9748438,-128.645748
+Halaw Management Group,halaw@halawgroup.com,604-200-3646,,http://www.halawgroup.com,West Vancouver,49.3270916,-123.137756
+Halfway River Compass Ventures Ltd,info@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/halfway-river-compass-ventures-ltd.html,Wonowoon,56.727364,-121.9610636
+Halfway River Frost LP,wfield@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/halfway-river-frost-lp.html,Wonowon,56.727364,-121.9610636
+Halfway River Group of Companies,wfield@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/,Wonowon,56.727364,-121.9610636
+Halfway River Horizon North Camp Services LP,wfield@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/halfway-river-horizon-north-camp-services-lp.html,Wonowon,56.727364,-121.9610636
+Halfway River IDL LP,wfield@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/halfway-river-idl-lp.html,Wonowon,56.727364,-121.9610636
+Halfway River Mountainview Safety LP,wfield@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/halfway-river-mountainview-safety-ltd.html,Wonowon,56.727364,-121.9610636
+Halfway River Skyline Helicopter Services,wfield@halfwayrivergroup.ca,250-261-4776,,http://halfwayrivergroup.ca/halfway-river-skyline-helicopter-services.html,Wonowon,56.727364,-121.9610636
+Halfway River Ventures Ltd.,mwoloschuk@hrvl.ca,250-263-4372,250-772-5124,,Wonowon,56.727364,-121.9610636
+Halfway River Western Canadian Mulching ,wfield@halfwayrivergroup.ca,250-261-4775,,http://halfwayrivergroup.ca/halfway-river-western-canadian-mulching-ltd.html,Wonowon,56.727364,-121.9610636
+Hansen Forest Management Ltd.,hfmltd@uniserve.com,604-869-1597,,http://www.ic.gc.ca,Hope,49.38,-121.4413889
+Harmony Custom Kitchen & Bath Design Ltd.,harmonykitchens@telus.net,250-575-7466,250-707-3869,,Westbank,49.8414241,-119.610806
+Harold C. Joe Productions,,250-732-1261,,,Duncan,48.775769,-123.709803
+Harris Auto,,604-796-9166,,,Agassiz,49.2726428,-121.7300086
+Harrison Media Group,valharrison@shaw.ca,604-261-8300,,,Vancouver,49.2072514,-123.1427038
+Harvest Moon Consultants Ltd.,chris@chriscorrigan.com,604-947-9236,,http://www.chriscorrigan.com,Bowen Island,49.3882813,-123.3321273
+Harwood Custom Composites,info@hccaerospace.ca,250-656-0392,250-656-0393,http://www.hcc-aero.com,Sidney,48.6451554,-123.4208368
+Hazelton Gravel Products,robhgp@telus.net,250-842-8253,,,South Hazelton,55.2374879,-127.6556135
+Heartland Economics,dgill@wfn.ca,250-768-5617,,http://www.wfndc.ca/,Westbank,49.8382577,-119.6018824
+HeavenScent Catering,heavenscentcatering@shaw.ca,250-754-5233,250-754-5233,http://www.heavenscentcatering.com,Nanaimo,49.1553793,-123.9585252
+Heiltsuk Coastal Forest Products Ltd.,gary.wilson@heiltsukdevco.com,250-957-2971,250-957-2944,http://www.heiltsukdevco.com/corporate-structure,Bella Bella,52.165131,-128.144839
+Heiltsuk Economic Development Corporation,gary.wilson@heiltsukdevco.com,250-957-2217,250-957-2522,http://www.heiltsukdevco.com,Bella Bella,52.1618739,-128.1444808
+Heiltsuk Fisheries Management Ltd.,gary.wilson@heiltsukdevco.com,250-957-2324,250-957-2121,http://www.heiltsukdevco.com/corporate-structure,Bella Bella,52.165131,-128.144839
+Henderson Lake Lodge,Monty.Horton@uchucklesaht.ca,250-724-1832,250-724-1806,,Port Alberni,49.2344445,-124.8058333
+Here For You,beyond.langlois@gmail.com,250-819-8156,,,Kamloops,50.7738691,-120.3341516
+Heritage Painting & Decorating,heritage.painters09@gmail.com,604-818-5485,,http://heritagepaintingvancouver.ca,Vancouver,49.2314121,-123.0788905
+HG Excavating,,250-732-3838,,,Duncan,48.7671302,-123.6885188
+Hiellen Longhouse Village,hiellenlonghouses@gmail.com,888-378-4422,,http://www.haidalonghouses.ca/home.html,Old Masset,54.04031543,-132.1883583
+High Drive Resources Inc.,travisa_07@hotmail.com,250-457-3075,,,Cache Creek,50.8213306,-121.3830344
+Himwitsa Lodge,tofino@himwitsa.com,250-725-2017,,http://www.himwitsa.com,Tofino,49.1535327,-125.9091775
+Hohn Construction,Thohn@live.ca,250-768-7597,250-768-7587,,Westbank,49.8421902,-119.5890883
+Holtom Forestry Consulting ,dh@hfc1wl.com,250-398-9806,250-398-9806,,Williams Lake,52.1488919,-122.1591511
+Homalco Forestry Limited Partnership,m.enevoldsen@homalco.com,250-830-7571,,,Campbell River,50.0230556,-125.2436111
+Hooksum Outdoor School,info@hooksumschool.com,250-670-1120,,http://www.hooksumschool.com,Tofino,49.1530556,-125.9044444
+Hooktender Sport Fishing Adventures,hooktendersportfishing@gmail.com,250-202-3474,,http://www.mnbc.ca/business-directory/hooktender-sportfishing-adventures,Campbell River,49.9639937,-125.2148986
+Horn River Construction Ltd.,norm.hornriver@gmail.com,250-321-5115,,,Fort Nelson,58.8055556,-122.6972222
+Hot Spot Arts and Crafts,kdunstan@lyttonfirstnations.com,250-455-2304,,https://www.facebook.com/LFNHotSpotArtsCrafts/timeline,Lytton,50.2393074,-121.5751508
+Hot Springs Lodge,hesquiaht.forestry@gmail.com,250-670-1106 or 250-670-1100,250-670-1102,,Tofino,49.1530556,-125.9044444
+Hot Springs Water Taxi,hesquiahtreception@gmail.com,250-670-1100,,,Tofino,49.1530556,-125.9044444
+House of Himwitsa Native Art Gallery,tofino@himwitsa.com,250-725-2017,,http://www.himwitsa.com,Tofino,49.1535327,-125.9091775
+House of Sim-Oi-Ghets,Kitsumkalum@citywest.ca,250-638-1629,250-635-6110,http://www.kitsumkalum.bc.ca/hos.html,Terrace,54.522507,-128.666827
+HR Achieve,ted@hrachieve.com,604-603-7534,,http://www.hrachieve.com,Gibsons,49.4026837,-123.5187789
+HSI – Hobbs Strategic Insights,info@strategicinsights.ca,604-626-8296,,https://strategicinsights.ca,,,
+HummingBird Event Productions,hummingbird.event@telus.net,604-438-1111,,http://www.hummingevents.com,Vancouver,49.2451402,-123.0375128
+Humour for Health,info@humourforhealth.com,604-685-0345,,http://www.humourforhealth.com,Vancouver,49.2746087,-123.1258798
+Huu-ay-aht Development Corp,sjcoleman@me.com,778-421-2663,778-421-2664,http://hfndevelopmentlp.org/,Bamfield,48.8333334,-125.1333333
+Huu-ay-aht First Nation Market LP,,250-728-2000,,http://hfndevelopmentlp.org/market/,Bamfield,48.8258005,-125.1338101
+Huu-ay-aht First Nations Gravel LP,stan.c@huuayaht.com,250-728-3414,,http://hfndevelopmentlp.org/gravel/,Port Alberni,49.263878,-124.7595819
+Huu-ay-aht Management LP,stan.c@huuayaht.com,250-728-3414,,http://www.hfndevelopmentlp.org,Port Alberni,49.263878,-124.7595819
+Huupii Spirit,huupiispirit@hotmail.com,250-731-6186,,https://huupiispirit.wordpress.com/contact-us/,Port Alberni,49.2666761,-124.8473977
+Hyistuup Harvesting,michellecorfield@shaw.ca,250-754-7540,,,Nanaimo,49.1406133,-123.9241225
+Hypnotist Scott Ward,scott@scottward.net,1-877-600-1018,,http://www.scottward.net/,Victoria,48.4283334,-123.3647222
+IARS Systems Engineers Inc,bharris@IARS-SYSENG.COM,604-926-9270,,http://www.iars-syseng.com/,West Vancouver,49.3271326,-123.1377576
+Ideas In Bloom,info@ideasinbloom.ca,604-438-1111,,,Surrey,49.1179376,-122.723821
+IDL Projects Ltd.,info@idlprojects.com,250-649-0561,,http://www.idlprojects.com/,Prince George,53.8767219,-122.7388295
+Ignace Burke Contracting Inc.,,250-774-2270,250-233-8462,,Fort Nelson,58.816786,-122.534295
+I'Hos Cultural Tours,info@ihostours.com,604-483-1308,,https://twitter.com/IHosTours,Lund,49.83421806,-124.528656
+I-HOS Gallery,sales@ihosgallery.com,250-339-7702,,http://www.ihosgallery.com/,Courtenay,49.6782006,-124.9584787
+Iisaak Forest Resources Ltd. ,info@iisaak.com,250-726-7037,250-726-7289,http://www.iisaak.com,Ucluelet,48.9427778,-125.5461111
+Impalla Security Services Inc.,impallasecurity@shaw.ca,,,,Cranbrook,49.5138589,-115.7629171
+In Touch Self Care,romypritchard@gmail.com,250-920-0370,,http://www.intouchselfcare.com,Victoria,48.4623795,-123.3617886
+Independent Installations- Windows and doors,ilingham@hotmail.com,604-781-0614,,http://www.independentinstallations.ca,Port Coquitlam,49.2433644,-122.7847082
+IndGenesis Environmental,brett.marchant@indgenesis.com,604-368-1801,,http://www.indgenesis.com,Vancouver ,49.2296113,-123.1997296
+INDI Indigenous Development Inc.,info@indi-dev.com,604-271-7475,,http://www.indi-dev.com,Richmond,49.1269572,-123.0960015
+Indian Head Contracting Inc.,ihcontracting@yahoo.ca,778-294-1968,604-542-2980,http://www.indianheadcontracting.ca,White Rock ,49.0568466,-122.8081266
+Indigena Solutions LP,info@indigenasolutions.com,604-549-5866,,http://www.indigenasolutions.com,Delta,49.1690422,-122.9592417
+Indigenous Canada Solutions Ltd. (ICS),angus@ics2020.ca,,,,Prince Rupert,54.31194,-130.3232
+Indigenous Community for Leadership & Development,mandi@icld.ca,604-899-2400,,http://www.icld.ca/,North Delta,49.1664981,-122.9179771
+Indigenous Corporate Training Inc.,info@ictinc.ca,888-986-4055,888-688-6418,http://www.ictinc.ca,Port Coquitlam,49.2667241,-122.7770154
+Indigenous Innovations Consulting,marciadawson@shaw.ca,250-590-9190,,http://marcia-dawson.com/,Victoria,48.4338014,-123.3310563
+Indigenous Women's Business Network,info@indigenouswomenbc.com,604-607-5323,,http://www.indigenouswomenbc.com,Surrey,49.2001607,-122.9114322
+Indigenuity Consulting Group Inc.,cheryl@indigenuity.ca,250-746-1040,877-418-1040,http://www.indigenuity.ca,Duncan ,48.7895059,-123.6916008
+Inlailawatsh Forest Products Ltd.,admin@inlailawatash.ca,604-924-4169,604-929-4158,http://www.twnation.ca/en/Business/IFLP.aspx,North Vancouver,49.3111567,-122.9856729
+Inland Rentals Ltd - Rapid Lube & Wash,l_jgoulet@msn.com,250-785-2191,250-785-5991,,Fort St John,56.2464965,-120.8675481
+InShuckCh Development Corporation (IDC),general@inshuckch.com,604-820-6873,604-820-6847,http://inshuckch.com/business/economic-development/,Deroche,49.1738435,-122.0821808
+Inspire Chiropractic & Wellness Studio,inspirechiropractickamloops@gmail.com,778-471-5888,,http://inspirechiropractickamloops.com/,Kamloops,50.6797828,-120.2657983
+Integral Containment Systems Inc.,jim@integralcontainment.com,604-597-7404,604-542-2980,http://www.integralcontainment.com/,White Rock,49.0202246,-122.7868006
+Integral Creative,tom@integralcreative.ca,250-885-9070,,http://www.integralcreative.ca,Victoria,48.4135593,-123.3733596
+Integrity Floors Ltd,info@IntegrityFloors.net,604-833-7444,604-543-9859,http://www.integrityfloors.net/default.asp,Surrey,49.1564188,-122.7838222
+InterConnect Canada Inc.,teka.everstz@interconnectcanada.com,778.883.8352,,https://www.interconnectcanada.com/,Vancouver,49.2338518,-123.1199039
+International Internet Advertising Services Inc.,mike@iias.com,,604-556-3835,http://www.iias.com,Abbotsfford,49.0493795,-122.290374
+Internet Advertising,info@iias.com,604-556-0211,604-556-3835,http://www.iias.com,Abbotsford ,49.0493795,-122.290374
+Intuitive Readings & Mediumship,staceyhd@shaw.ca,250-747-0505,,http://bodysoulspiritexpo.com/profiles.php3?sortby=city&city=Quesnel,Quesnel,52.9797223,-122.4936111
+Inukshuk Excavating,inukshuk.excavating@gmail.com,604-317-4634,,,Mission,49.1412346,-122.3282357
+Inzana Lake Lodge,inzanalodge@gmail.com,250-996-4409,,http://inzanalakelodge.ca,Fort St James,54.4444445,-124.2591667
+Iron Wolf Bridge Bridge and Steel,george@888asp.com,W: 250-748-1455 C: 604-219-3903,,,Duncan,48.7705998,-123.6989361
+Iskut Corp,calvincarlick@gmail.com,250-234-3331,250-234-3200,,Iskut,57.8375,-129.9875
+iSto:lo Media Solutions,francine.douglas@hotmail.com,604-798-8143,,https://www.youtube.com/channel/UCmw9e33pD95FFH7kFc7rWLA,Chilliwack,49.1416185,-121.94097
+It Works Body Wraps by Heather,heatherbob@hotmail.ca,250-318-8328,,http://heatherbob.myitworks.com/,Kamloops,50.6758334,-120.3394444
+IVL Contracting Ltd. ,gary@ivl-contracting.com,250-256-7474,250-256-7475,http://ivl-contracting.com/,Lillooet,50.6938889,-121.9336111
+Ivy Green Petroleum Services,ray.gauthier@coastsalishdevcorp.com,250-924-2444,,http://coastsalishdevcorp.com/page/ivy-green,Ladysmith,49.0146775,-123.8517994
+Iyon Kechika Contracting Ltd.,derekloots@hotmail.com,250-779-3010,,,Lower Post,59.9333334,-128.5
+J B & S.T.A.R First Aid Services,aesam@shaw.ca,250-793-5229,250-787-2273,,Fort St John,56.2520412,-120.8363601
+J.Hunter & Sons Contracting Ltd,j.hunterenergy@gmail.com,250-772-5098,250-785-3515,,Wonowon,56.7333334,-121.8
+Jaboon Holdings Ltd,general.manager@saikuz.com,205-996-0088,,,Vanderhoof,53.9436555,-124.11653
+JAG Trucking,audreywoods@hotmail.com,250-374-4809,,,Kamloops,55.258807,-127.6631386
+James W. Pflanz Barrister & Solicitor,james@jwplegal.com,604-219-5003,,http://www.jwplegal.com,Vancouver,49.2855494,-123.1148872
+Jay Lambert Consulting,jay@jaylambert.ca,604-619-9153,,,Chilliwack,49.1090952,-121.9707855
+JC Electric,,250-542-7799,,http://www.jcelectricvernon.ca/,Vernon,50.3253544,-119.3609236
+JF Archanan Porta Potty Rentals,jfarch1@telus.net,250-315-1392,,,Quilchena ,50.1666667,-120.5
+Jimmy Bonneau Predator Control,bonneaufamily@hotmail.com,V1T 7Z3,,,Vernon,50.2666667,-119.2716667
+Jobkat Exacavating ,jobkat@shaw.ca,250-341-1252,250-342-9712,,Invermere,50.5391895,-116.0679958
+Joe Apsassin & Sons Contracting,neil_feild@yahoo.com,250-630-2496,,,Buick,56.7597223,-121.275
+Joe Jack Design Studio,order@joejack.com,250-732-5095,,http://www.joejack.com,Duncan,48.7695974,-123.6898787
+Joel Perkins – Financial Planning,joel.perkins@investorsgroup.com,778-426-1992,778-426-1932,,Victoria,48.425692,-123.3637122
+John Bell - Bowmaking,belljn@hotmail.com,250-923-6646,250-923-6108,,Campbell River,49.9917798,-125.2422774
+Johnny's on the Rez,manager.johntherez@telus.net,250-378-9557,,,Merritt,50.137195,-120.8505321
+JR Ellis EXCAVATING LTD,jrexc@shaw.ca,250-756-4399,250-756-9936,,Nanaimo,49.2203405,-124.0111353
+Juniper Creek Run of River JV,,604-293-3119,,,South Hazelton,55.2558334,-127.6755555
+JWP Legal Services,james@jwplegal.com,604-219-5003,604-484-2204,,Vancouver,49.2767439,-123.1293166
+K & L Contracting Ltd,megan@kandlcontracting.ca,604-794-0107,604-794-0197,http://www.kandlcontracting.ca,Rosedale,49.1833334,-121.8
+K & Q Catering,,604-845-5604,,,Rosedale,49.1880315,-121.7872998
+K & V Store,,250-842-5000,,,Hazelton,55.2535487,-127.6708986
+K Lawson Trucking,,250-600-6643,,,Prince Rupert,59.6,-134.1833333
+K’awat’si Tours,info@kawatsiTours.ca,250-230-3574,,http://nakwaktorapidstours.com/,Port Hardy,50.72406387,-127.4934311
+K-2 Services Ltd. Coffee Delivery,krum@fsjbc.com,250-787-0935,,,Charlie Lake,56.2833334,-120.95
+Kaamsim Contracting Ltd,kaamsim.ltd@hotmail.com,,,,Terrace,54.5163889,-128.5997222
+Kalmar Construction Ltd.,kim@kalmarconstruction.com,250-787-7118,250-787-5110,http://www.kalmarconstruction.com/,Fort St John,56.2356031,-120.8484013
+Kalum Rock Quarry and Logistics Park,tbennett@kitsumkalum.bc.ca,250-635-5000,,http://www.kalumquarry.com/,Terrace,54.5223222,-128.6653491
+Kalum Ventures Ltd.,lyle.kvl@telus.net,250-635-8060,,http://www.kvlp.ca/index.html,Terrace,54.5163889,-128.5997222
+Kamloops Indian Band Development Corporation,info@tkemlups.ca,250-314-1525,,http://www.tkemlupsbusiness.ca/,Kamloops,50.6803744,-120.2947475
+Kaoham Shuttle,,250-259-8300,,http://tsalalh.net/shuttle.html,Shalath,50.7282,-122.2176
+Karl Morgan Carving,karlmorgantfn@gmail.com,604-781-9439,,,Tsawwassen ,49.0080556,-123.1283333
+Katie Hommy- Dominion Lending Centre,katiehommy@shaw.ca,250-619-0939,1-888-778-6872,http://www.katiehommy.ca,Nanaimo ,49.209565,-124.0165703
+Katzie Coast Marine ,gord@coastmarine.ca,604-544-5060,,,Vancouver,49.2839983,-123.0800292
+Katzie Development Corp.,info@kdcarch.com,604-460-8837,604-460-8937,http://kdlp.ca/,Pitt Meadows,49.2015521,-122.6772618
+KC Hardware,cleanslate@kica.ca,250-771-3033,,,Dease Lake,58.4333334,-130.0241667
+Kec's Gallery & Giftshop,,250-256-2144,,,Lillooet,50.6938889,-121.9336111
+Keda Propane,,250-771-3162,,,Dease Lake,58.4333334,-130.0241667
+Keith & Co. Firewood,,250-842-5000,,,Hazelton,55.2535487,-127.6708986
+Kekuli Aboriginal Properties Inc.,franchise@kekulicafe.com,250-808-7267,250-768-3515,http://www.kekulicafe.com/,Merritt,50.1482,-121.0354
+Kekuli Aboriginal Restaurant Consulting,corporate@kekulicafe.com,250-808-7267,250-768-3515,http://www.kekulicafe.com/,Merritt,50.1482,-121.0354
+Kekuli Cafe Coffee House,franchise@kekulicafe.com,250-768-3555,,http://www.kekulicafe.com/franchise-info/,Westbank,49.8354428,-119.6185377
+Kenzie Girl Water Taxi Services,yellowstone@hotmail.com,250-670-2552,250-670-2558,,Ahousaht,49.2527948,-126.0994881
+Khot-la-cha Art Gallery & Gift Shop,khotlachaart@shaw.ca,604-987-3339,604-988-1930,http://www.khot-la-cha.com,North Vancouver,49.3210526,-123.1209412
+Khowutzun Development Corporation,,250-746-8350,250-746-8375,http://www.khowutzun.com/,Duncan,48.7735298,-123.7030871
+Khowutzun Forest Services Ltd.,aldelisle@shaw.ca,250-746-4555,250-746-8342,http://www.khowutzunforest.com,Duncan,48.7735298,-123.7030871
+Kilshaw's Auctioneers,auctions@kilshaws.com,250-384-6441 ,,http://www.kilshaws.com/,Victoria,48.4232934,-123.3534484
+Kim Baird Strategic Consulting,hello@kimbaird.ca,604-839-3690,,http://www.kimbaird.ca,Tsawwassen ,49.035332,-123.0972095
+Kisik Aerial Survey Inc,info@kisik.ca,604-946-8830,604-946-8837,http://www.kisik.ca,Delta,49.081535,-123.0156237
+Kispiox Gasbar,jane.williams@kispioxband.com,250-842-6056,,,Kispiox,55.3521965,-127.692514
+Kitimat Handi-Dart Transport Services,,,,,Kitimat,54.0533334,-128.6522222
+Kitselas Development Corporation,j.dopson@kitselasdlp.ca,250-638-8881,,http://www.kitselas.com/,Terrace,54.4939997,-128.5838894
+Kitsumkalum Boat Launch & RV Park,kitsumkalum@citywest.ca,250-635-6177,250-635-4622,http://www.kitsumkalum.bc.ca/boatrvpark.html,Terrace,54.5215,-128.6632
+Kitsumkalum Development Corporation,tbennett@kitsumkalum.bc.ca,250-635-6177,,http://www.kitsumkalum.bc.ca/contact.html,Terrace,54.594104,-128.646134
+Kitsumkalum Hall Rental,kitsumkalum@citywest.ca,250-635-6177,250-635-4622,http://www.kitsumkalum.bc.ca/hall.html,Terrace,54.5164628,-128.6129688
+Kitsumkalum Tempo Gas Bar,,250-635-0017,250-635-0053,http://www.kitsumkalum.bc.ca/tempo.html,Terrace,54.5160392,-128.6059166
+Klappan River Services Ltd,jkeyes@marwestutility.com,250-377-4655,,http://marwestutility.com/,Kamloops,50.711608,-120.327667
+Klatassine Resources Ltd,hunlins@hotmail.com,250-394-4212,,,Alexis Creek,52.0833334,-123.2833333
+Klee Cho Helicopters,,250-748-1455    ,cell: 604-219-3905,,Duncan,48.7700668,-123.6989292
+Klitsa Doors (2102) Ltd,klitsa@shaw.ca,250-724-4721,250-723-9576,http://www.klitsadoors.com/,Port Alberni,49.2344445,-124.8058333
+Knotts Landing,knottslanding@laxband.net,250-625-3445,,http://laxkwalaams.ca/local-business-and-services/,Port Simpson,54.5566667,-130.4336111
+Knotty By Nature Fibre Arts,info@kbnfibres.ca,250-412-0198,,http://kbnfibres.ca,Victoria,48.4132272,-123.3338319
+Know Your Home Inspection Services,stresidder@shaw.ca,604-512-3667,,http://knowyourhomeinspections.ca/,North Vancouver,49.3069326,-123.0178759
+Knucwentwe'cw Development Corporation,jacquie@kdcenterprises.ca,250-373-0088,250-373-0060,https://www.facebook.com/pages/Knucwentwecw-Development-Corporation/344372892363408,Savona,50.75,-120.8333333
+Komabasket Park,karen.babiuk@okanagan.org,250-542-0541,,,Vernon,50.352375,-119.325056
+Kootenay Kwik Print,glenn@kootenaykwikprint.com,250-489-4213,250-426-4440,http://kootenaykwikprint.com/,Cranbrook,49.5126403,-115.7676726
+Kozlowski Construction Ltd,kozlowskicnst@shaw.ca,250-723-9572,,,Port Alberni,49.2732324,-124.8102599
+'Ksan Campground,bob@gitanmaax.com,250-842-5940,250-842-6364,http://www.gitanmaax.com/SitePages/KSAN.aspx,Hazelton,55.2558334,-127.6755555
+Ksan Historical Village,ksan@gitanmaax.com,250-842-5544,,http://www.ksan.org,Hazelton,55.2625999,-127.6473999
+Ksan Historical Village and Museum,ksan@ksan.org,250-842-5544,,http://ksan.org,Hazelton,55.2596329,-127.6537263
+KSDavison & Associates,kelly.davison@ksdandassociates.com,778-789-6448,,http://www.ksdandassociates.com,New Westminster,49.2147031,-122.8977928
+Kuehne + Nagel Ltd.- Haisla Joint Venture Partnership,,778-373-7860,604-688-3290,http://www.kn-portal.com/locations/north_america/canada/,Kitimat,54.0532502,-128.6600177
+Kulus Consulting and Development ,kulus@shaw.ca,778-355-3136,,http://www.gladuereports.com,Cquitlam,49.266627,-122.8548958
+Kuterra ,jo@runninglight.ca,250-974-3599,,http://www.kuterra.com/,Alert Bay,50.5951217,-126.9280404
+Kwadacha Community Store ,,250-471-2600 ,,,Fort Ware,57.4208334,-125.6222222
+Kwadacha Nation Resources Limited Partnership,danny.case8@gmail.com,250-471-2044 ,,,Fort Ware,57.4208334,-125.6222222
+Kwadacha Natural Resources Agency Ltd.,danny.case8@gmail.com,250-471-2044,250-471-2045,http://www.kaskadenacouncil.com/kaska-nations/kwadacha-nation,Fort Ware,57.4208334,-125.6222222
+Kwadacha Saw Mill,,250-471-2044 ,,,Prince George,53.913274,-122.733321
+Kwagis Power,Enquiries@brookfieldrenewable.com,1-888-327-2722,,http://www.namgis.bc.ca/companies/kwagis-power-limited-partnership/,Alert Bay,50.5951217,-126.9280404
+Kwakwati - Sea Otter Taxi,,250-332-5232,,,Kyuquot,50.0333334,-127.3666667
+Kwassen Productions Inc.,steve.sxwithultxw@gmail.com,250-588-9253,,http://www.kwassen.ca,Victoria,48.4146197,-123.3791794
+KWDuCharme Consulting Services,kevinducharme@hotmail.com,,,,Port Moody,49.2836407,-122.8692596
+Kweykway Consulting,info@kweykway.ca,604-987-5455,,http://www.kweykway.ca,West Vancouver,49.3225819,-123.1307852
+Kwisitis Feasthouse,info@wyapoint.com,250-726-2628,,http://www.kwisitisfeasthouse.com,Ucluelet,48.94031772,-125.5459213
+Kyah Industries Ltd.,,250-847-2133,,http://mbed.ca/business-relationships/kyah-industries-ltd/,Smithers,55.019494,-127.330422
+Kyahwood Forest Products,mboivin@bulkley.net,250-847-1577,250-847-2763,http://kyahwood.com/,Moricetown,55.0112313,-127.3425886
+L & S Custom Sawmills,divon@hughes.net,,,,Heffley Creek,50.8434085,-120.0664343
+La Liberte Cronin & Co,info@bc-criminal-law.com,604-669-8602,,http://bc-criminal-law.com,Vancouver,49.2810971,-123.1188201
+Lake Babine Nation Economic Development Society,downstairsreception@lakebabine.com,250-692-4700,250-692-4790,http://www.lakebabine.com/,Burns Lake,54.4389514,-124.2559907
+Lakeshore Resort & Campground,lakeshore@akisqnuk.org,250-342-6352,,http://www.lakeshoreresortcampground.com/,Windermere,50.4748958,-115.9876184
+Lakeview Gas Station,jfarch1@telus.net,250-315-1392,,,Quilchena,50.1228632,-120.7662389
+Lama Pass Fuel Co. Ltd,,250-957-2440,250-957-2622,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.160543,-128.145584
+LaRock Dezines,larockdezines@hotmail.com,604-703-9680,,,Chilliwack,49.13299,-121.9207919
+LaRock's Chop Shop,larockdezines@hotmail.com,604-703-9680,,,Chilliwack,49.13299,-121.9207919
+Latash Native Art,delhia.nahanee@gmail.com,778-389-6706,,https://www.facebook.com/Latash7,North Vancouver,49.3183208,-123.0883392
+Lavina Estates,monette.couch@gmail.com,250-899-3233,,,Armstrong,50.4998256,-119.2462285
+Lawn Sharks Yard Care,lawnsharks2011@gmail.com,250-731-7601,,,Port Alberni,49.2344445,-124.8058333
+Lax Kw'alaams Construction Solutions Group,ctrwaynedrury@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Lax Kw'alaams Energy Rentals Inc.,ctrwaynedrury@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Lax Kw'alaams Environmental Remediation Group LP,ctrwaynedrury@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Lax Kw'alaams Ferry Corporation,careers@rupertport.com,250-624-5411,,,Prince Rupert,54.3127778,-130.3252778
+Lax Kw'alaams Holdings Ltd.,bob.ecdev.laxband@gmail.com,250-625-3075,,,Prince Rupert,54.5582285,-130.4334676
+"Lax Kw'alaams Modular, Sales, and Leasing Solutions LP",ctrwaynedrury@gmail.com,,,,Port Simpson,54.5582285,-130.4334676
+Laxgalts'ap Forest Company Ltd,mstevens@3xgmm.com,250-621-3286,250-621-3266,,Greenville,55.0547288,-129.5226203
+Le7Ke Spa,,250-679-3018,,http://www.quaaoutlodge.com,Chase,50.8757408,-119.6152098
+Leader Silviculture Ltd.,leaders@telus.net,604-898-4499,604-898-4493,https://leadersilviculture.wordpress.com/,Garibaldi Highlands,49.3138033,-122.9748243
+Leanne Helin Tsimshian Native Jewellery,leanne-helin@shaw.ca,250-468-9299,250-468-1669,http://www.leannehelin.com,Nanoose Bay,49.2640827,-124.2364353
+Ledcor Kitimat ,,,,http://haisla.ca/,Kitimat Village,53.973206,-128.648071
+Legend Logos,sales@legendlogos.ca,1-877-428-2977,,,Creston,49.064094,-116.5201159
+Leko Precast Ltd 2011,info@lekoprecast.com,250-549-3010,250-549-3011,http://www.lekoprecast.com/,Vernon,50.2666667,-119.2716667
+lelem' Arts & Cultural Cafe,info@lelem.ca,604-343-9277,,http://lelem.ca/,Fort Langley ,49.16038366,-122.5884224
+Leon Taylor Trucking,taylor_trucking@hotmail.com,250-695-6310,,,Burns Lake,54.2302778,-125.7644444
+Leroger Consulting Ltd.,roger.leclerc@telus.net,,250-635-4640,,Terrace,54.5313,-128.5886166
+Les Sam Construction,les.sam@shaw.ca,250-720-7334,,,Port Alberni ,49.2689498,-124.8656625
+LHI Tutl'it,info@lhi-services.ca,250-562-0486,,http://www.lhi-services.ca/,Prince George,53.9262282,-122.7598532
+Liard Hotspings Lodge,,250-776-7349,250-776-7011,,Northern Rockies B,59.4246958,-126.1036926
+Lightfoot Gas Station,lightfootgasbc@yahoo.ca,250-256-0010,,,Lillooet,49.6959834,-123.1444999
+Lil'wat Business Corporations,kerry.mehaffey@lilwat.ca,604-894-6115,,,Mount Currie,50.3166667,-122.7166667
+Lil'Wat Gas Station ,kerry.mehaffey@lilwat.ca,604-894-6115,,,Mount Currie,50.3166667,-122.7166667
+Limelight Signs,limelightsigns@yahoo.ca,604-799-0637,604-824-1079,http://www.limelightsigns.ca/,Chilliwack,49.0988166,-121.9311091
+Lincoln Centre Chiropractic,wtrm@shaw.ca,604-941-2332,,http://www.coquitlamchiropractic.com,Coquitlam,49.2789649,-122.7926999
+Linda D. Thomas Barrister and Solicitor,thomaslaw@telus.net,250-372-0241,250-372-1000,,Kamloops,50.6662086,-120.3512741
+"Lisa Shepherd, Metis Artisan",,,,http://lisashepherd.ca/,Kamloops,50.6758334,-120.3394444
+Lisims Forest Resources LP,,250-633-5150,250-633-2677,http://www.nisgaanation.ca/lisims-forest-resources-lp,New Aiyansh,55.2041667,-129.0791667
+Little Angels Day Care,,250-692-7717,250-692-7703,,Burns Lake,54.2302778,-125.7644444
+Little Drum Consulting,littledrum@telus.net,250-383-7008,,http://www.littledrum.com/index.html,Victoria,48.4100345,-123.3316743
+Little Miss Chief Gourmet Products,lmchief@telus.net,250-768-6977,250-768-9946,http://littlemisschief.com/,Westbank,49.8436226,-119.6169881
+LJV Bookkeeping Services,ljvbookkeeping@shaw.ca,250-423-0348,,,Fernie ,49.5203509,-115.0650822
+LK Construction,lkconstruction2001@gmail.com,250-842-3306,,http://lkconstruction2001.jimdo.com/,Gitanmaax,55.2580171,-127.6550789
+LoveToGo Writing,dreambg1@shaw.ca,,604-485-2738,http://www.write2dream.com,Powell River,49.8369499,-124.4954961
+Lower Kootenay Development Corporation,cwullum@kootenay.com,250-428-4428,250-428-7686,http://lowerkootenay.com/departments/economic-development/,Creston,49.0657187,-116.5169773
+Lower Kootenay Development Limited Partnership,cwullum@kootenay.com,250-428-6394,,,Creston,49.0657187,-116.5169773
+Lower Kootenay Forest Products Ltd.,linda@lowerkootenay.com,250-428-4428,250-428-7686,,Creston,49.0657187,-116.5169773
+Lower Kootenay Guide Outfitters Ltd.,cwullum@kootenay.com,250-428-4428 ,,,Creston,49.0657187,-116.5169773
+Lower Nicola Indian Band Natural Resources,nrdeptmanager@lnib.net,250-440-5870,,http://lnib.net/band-owned-businesses/,Merritt,50.1381935,-120.8588463
+LSIB Economic Development Corporation,bandmanager@lsib.net,250-499-0960,,,Keremeos,49.2051296,-119.8269754
+Lund Hotel and Marina,devcorp@shawcable.com,604-483-7777,604-483-7741,http://www.sliammondevcorp.com/?portfolio=attachment-slider,Powell River,49.8981532,-124.607871
+"Lyle Wilson, Artist",,,,,Kitimat,54.0533334,-128.6522222
+Lynx Creek Industrial & Hydrovac Ltd.,,250-320-7570,,http://www.lynxcreekhydrovac.com/en/,Kamloops,50.6580505,-120.0987758
+Lytton First Nation Sawmill,kdunstan@lyttonfirstnations.com,250-455-2304,,http://www.lyttonfirstnations.ca/,Lyyton,50.2374995,-121.5775738
+M & M Resources Inc.,office@mmresinc.com,250-774-4862,250-774-4863,http://mmresinc.homestead.com/,Fort Nelson,58.8028325,-122.6934471
+M Thorpe & Associates Inc.,mthorpe@mthorpe.com,604-916-8579,,http://www.mthorpe.com,West Vancouver,49.3269527,-123.1377458
+Maaqutusiis Hahoulthee Forestry Corporation,cindystern@telus.net,250-954-5711,,,Port Alberni,49.2666761,-124.8473977
+Mace Electric,mace78@hotmail.ca,250-913-0115,,,Port Alberni,49.2641997,-124.8530424
+Mad Trapper Contracting Ltd.,madtrapper@madtrapper.infosathse.com,,250-679-2770,,Chase,50.8191667,-119.6861111
+Madison J Fishing Charters,kurt@madisonjfishing.com,250-731-6955,,http://www.madisonjfishing.com/,Ahousaht,49.3220574,-126.185589
+Magena Office Interiors Ltd,info@magena.ca,604-830-7699,,http://www.magena.ca,Surrey,49.1329504,-122.6649491
+Maggie's Bannock,,250-378-6579,,,Merritt,50.1673916,-120.6632146
+Mahigan Consulting,tamara@mahiganconsulting.com,778-837-9461,,,Vancouver,49.2561753,-123.0447819
+Makeup by Paula Watts,paulawattsmua@gmail.com,250-730-7645,,http://www.facebook.com/MakeupbyPaulaWatts,Port Alberni,49.2344445,-124.8058333
+Mali Wear,mali_hat_kwa@hotmail.com,604-820-7698,,,Mission,49.1345316,-122.3174707
+Manton Tank Services,lepewseptic@gmail.com,250-545-2741 (main) 250-938-2093 (cell),,,Vernon ,50.2198689,-119.4525029
+Mariah Farm,jason@mariahfarm.ca,604-796-8594,,,Agassiz,49.2726428,-121.7300086
+Marian Gravelle Notary Public,marian@gravellenotary.com,250-425-2114,250-425-2204,,Sparwood,49.732229,-114.8867393
+Marie Shoes.com,getanswers@marieshoes.com,250-828-2185,,http://www.marieshoes.com,Kamloops,50.6559793,-120.3803068
+Marwest Utility Services Ltd,info@marwestutility.com,250-377-4655,,http://marwestutility.com/,Kamloops,50.711608,-120.327667
+Masterton Land Services Ltd.,mastertonland@shaw.ca,250-702-2620,250-890-0001,http://www.mastertonland.com,Comox,49.6701736,-124.9075848
+Matchlee Forest Products LP,admin@yuquot.ca,250-283-2335,,,Gold River,49.7813889,-126.0469444
+Matt T Excavating,mattthomas6@live.ca,250-701-5609,,,Duncan,48.7730853,-123.7079791
+Maxi's Taxi,,250-283-2282,,,Gold River,49.7813889,-126.0469444
+Mayihkan Consulting Ltd,,250-517-0197,,,Falkland,50.5013408,-119.5447979
+MBS Techservices Inc,davem@mbstechservices.com,778-321-0005,,https://www.mbstechservices.com/,Vancouver ,49.2598544,-123.1007052
+Mc2 Solutions Group,mc2consulting@shaw.ca,250-686-6225,,,Sidney,48.6,-123.4166667
+McBride Realty Center Ltd.,rodger@mcbriderealty.com,250-569-2735,,http://www.mcbriderealty.com/,McBride,53.3016776,-120.1673495
+McElhanney Consulting Services Ltd.,vancouver@mcelhanney.com,604-683-8521,1-855-407-3895,http://www.mcelhanney.com/MKTG/McElhanneyFirstNationsExperience/McElhanneyFirstNationsExperience.pdf,Vancouver,49.277727,-123.1132081
+Melody Charlie photography,melodycharlie@mac.com,250-266-2507,,http://www.melodycharlie.com/,Ucluelet,48.9364761,-125.5271197
+Metis Artist Dennis J. Weber,dsweb@shaw.ca,250-808-1955,,http://www.webergallery.com,Kelowna,49.8995192,-119.3938026
+Metis Cultural Facilitator Beverly Lambert,beaverly1@gmail.com,,,http://beverlylambertmetisjigger.wordpress.com/,Surrey,49.1878525,-122.8517526
+Metlakatla Development Corporation,hleighton@metlakatla.ca,,,http://www.metlakatla.ca/overview/economic-development,Prince Rupert,54.3127778,-130.3252778
+Metlakatla Ferry Service,northlnd@citytel.net,250-628-3201,,http://www.metlakatla.ca/overview/mdc-businesses/metlakatla-ferry-service,Prince Rupert,54.3181531,-130.3208344
+Meziadin Junction Holdings,starlundm@gmail.com,250-849-5222,250-849-5787,http://www.meziadin.com/,Kitwanga,55.1,-128.0666667
+MiLan Art Ltd,canadianmetis@gmail.com,604-618-1658,,http://www.milanart.ca,Vancouver,49.2733923,-123.09859
+Millco Safety Services Inc.,info@millcosafety.com,250-315-9789,250-378-2223,http://www.millcosafety.com,Lower Nicola,50.1500152,-120.8784289
+Miss Coalli Water Taxi ,,250-670-9549,,,Ahousaht,49.2527948,-126.0994881
+Modern Formline,cory.douglas@modernformline.com,778-228-4179,,http://www.modernformline.com/,Squamish,49.6980556,-123.1558333
+Monique Hurteau,info@humourforhealth.com,,,http://www.moniquehurteau.com,Vancouver,49.2569332,-123.1239135
+Moricetown Development Corporation,freda.huson@moricetown.ca,250-847-2133,,http://www.moricetown.ca,Moricetown,55.022361,-127.3322845
+Moricetown Esso,info@moricetownesso.com,250-847-2131,250-847-8006,http://www.moricetownesso.com,Smithers,55.0211569,-127.3317095
+Moricetown Interpretive Centre,freda.huson@moricetown.ca,250-847-2133,,http://www.moricetown.ca,Moricetown,55.0064512,-127.3186156
+Moricetown RV Park and Campground,freda.huson@moricetown.ca,250-847-2133,,http://www.moricetown.ca,Moricetown,55.012304,-127.3227803
+Mosquito Creek Marina,shawna_baker@squamish.net,604-987-4113,,http://mosquitocreekmarina.com/,North Vancouver,49.3168321,-123.0890937
+Mother Earth Whispers,motherearthwhispers@gmail.com,250-751-4256,250-753-8211,http://www.motherearthwhispers.com/,Nanaimo,49.1492601,-123.929617
+Mount Currie Management Inc.,,,,,Mount Currie,50.3166667,-122.7166667
+Mount Pope Greenhouse,,250-250-0088,250-996-7634,,Fort St James,54.4328621,-124.2582857
+Mountain View Bookkeeping,afc@shaw.ca,604-824-5117,,,Chilliwack,49.136706,-121.965852
+Mr. Rooter Plumbing,skaldis.rooter@gmail.com,,,http://vancouver.mrrooter.ca,Vancouver,49.2773738,-123.0763583
+MSC - ICT Training & Consulting,mike_christian@telus.net,250-546-9414,,,Armstrong,50.4483334,-119.1966667
+MSK Steel Ltd.,msksteel@shaw.ca,604-302-1478,,,Mission,49.1480941,-122.3002937
+Mt. Baldy,info@skibaldy.com,1-866-SKI-BALDY,,http://www.skibaldy.com,Oliver,49.152942,-119.236434
+Muchalaht Marina & Boat Launch,reception@yuquot.ca,250-283-2015,250-283-2335,,Gold River,49.7813889,-126.0469444
+MUG Solutions,tina@mugsolutions.com,,,http://www.mugsolutions.com,Coquitlam,49.2632968,-122.8388722
+Museum of Northern BC,smarsden@citytel.net,250-624-3207,,http://museumofnorthernbc.com/,Prince Rupert,54.31291836,-130.3218842
+Muskosis Ventures Ltd.,,250-233-8668,250-233-8664,,Fort Nelson,58.8055556,-122.6972222
+Muskwa Construction & Environmental Ltd,smcleod@marwestutility.com,250-377-4655,,,Kamloops,50.711608,-120.327667
+Musqueam Cultural Centre,facilities@musqueam.bc.ca,604-263-3261,,http://www.musqueam.bc.ca,Vancouver,49.2253494,-123.1983948
+Mustang Helicopters,,,,,Vancouver ,49.2611112,-123.1138889
+N&V Johnson Services,petro_norm_johnson@yahoo.com,250-842-5577,,,Kitwanga,55.1,-128.0666667
+Na Tenie Dene Enterprises Ltd.,ntdene@gmail.com,250-500-5055,,,Fort Nelson,58.7728879,-122.6651388
+Nadia Design,jason@mariahfarm.ca,604-796-8594,,,Agassiz,49.2726428,-121.7300086
+Nakal Koh Logging Ltd.,,250-996-0088,250-996-7634,,Fort St James,54.5700405,-124.497054
+Nakal Koh Timber Ltd.,,205-996-0088,,,Fort  St James,54.4444445,-124.2591667
+Nakazdli Childcare Centre,nccc@nakazdli.ca,250-996-7109,,,Fort St James,54.4354036,-124.2542848
+Nak'azdli Development Corporation,leonardt@nakazdli.ca,250-996-0088,250-996-7634,http://www.nakazdli.ca/,Fort St James,54.5700405,-124.497054
+Namgis Excavating,JosephI@namgis.bc.ca,250-974-5556,250-974-5900,http://www.namgis.bc.ca,Alert Bay,50.596292,-126.934661
+Namgis Fuel,JosephI@namgis.bc.ca,250-974-5556,,http://www.namgis.bc.ca/,Alert Bay,50.5942046,-126.9425948
+Nation First Contracting,william.hill.71@gmail.com,604-309-0488,604-820-5113,,Mission,49.217152,-122.24658
+Nations Construction & Consulting,deanna@nationsconstruction.ca,604-796-2199,604-796-9379,,Agassiz,49.2333334,-121.7666667
+Native Northwest,sales@nativenorthwest.com,604-266-904,604-266-9058,http://www.nativenorthwest.com/,Vancouver,49.2057271,-123.145699
+Nature's Bounty Kettle Corn,brianpoint@yahoo.com,604-378-2221,,,Chilliwack,49.1358413,-121.9445335
+Naut'sa mawt Event Management,vanessao@nautsamawt.com,604-943-6712,,https://www.nmtcevents.com,Delta,49.1109386,-123.0555138
+Naut'sa mawt Resources Group,garyr@nautsamawt.com,,,,Tsawwassen,49.0381134,-123.0973841
+Nayla Construction,ebitterman@email.com,778-805-5633,,,Hudson's Hope,56.0306578,-121.9181831
+Nazko Economic Development Corporation,valri@nazkoecdev.ca,250-992-9085,250-992-3790,http://www.nazkoecdev.ca,Quesnel,52.9797223,-122.4936111
+Nazko Logging LP,valri@nazkoecdev.ca,250-991-0284,,http://nazkologging.com/,Quesnel,52.9797223,-122.4936111
+Neh-Zoo Gas & Convenience,,250-774-4200,250-774-4210,,Fort Nelson,58.8055556,-122.6972222
+New Age Furnace and Duct Cleaning Ltd.,candaceland79@hotmail.com,780.937.3907,,https://newageductcleaning.business.site/,West Kelowna,49.855711,-119.603322
+New Aiyansh Development Group,,250-633-3100,250-633-2271,http://www.gitlaxtaamiks.com/,New Aiyansh,55.205677,-129.0785244
+Newcastle Island Provincial Marine Park,,,,http://www.newcastleisland.ca,Nanaimo,49.1823011,-123.9302735
+Newhaven Construction Management Ltd,tward@newhaven.ca,,,http://www.newhaven.ca,North Vancouver,49.2540188,-122.8929313
+Next Powerline,nextpowerline@gmail.com,,,,Duncan,48.7856986,-123.658168
+Nexus Electric Inc.,info@nexus-electric.com,778-352-2008,778-352-2009,http://www.nexus-electric.com/,Sooke,48.3639272,-123.7027147
+Nicholson Contracting,,250-775-0744,,,Fort Nelson,58.7761967,-122.6421161
+Nicole Aquash,nicole_aquash@sd33.bc.ca,604-798-4775,,,Chilliwack,49.1397338,-121.9442515
+Nipac Logging,steve.man697@gmail.com,250-378-2436,,,Merritt,50.1125,-120.7883333
+Nisga' Salmon Lodge Bed and Breakfast,ron.nyce@gitwinksihlkw.ca,250-633-2965,,,Gitwinksihlkw,55.1916667,-129.2166667
+Nisga'a Museum,nisgaamuseum@nisgaa.net,250-633-3050,,http://nisgaamuseum.ca/,Greenville,55.0326189,-129.577319
+Nitinat Lake Motel,nitinahtmotel@ditidaht.ca,250-745-3844,,http://www.ditidaht.ca/ecodev_files/Page773.htm,Nitinat Lake,48.6211383,-124.8022426
+NK'AWMN Development Corporation,ceo@nicomenband.com,250-455-2514,250-455-2517,,Lytton,50.229881,-121.578281
+Nk'Mip Campground & RV Park,info@campingosoyoos.com,250-495-7279,,http://www.campingosoyoos.com,Osoyoos,49.0368693,-119.4373579
+Nk'Mip Canyon Desert Golf Course,info@nkmipgolf.com,1-800-656-5755,,http://www.nkmipcanyon.com,Oliver,49.2000634,-119.5373063
+Nk'Mip Cellars,info@nkmipcellars.com,250-495-2985,,http://www.nkmipcellars.com,Osoyoos,49.0388013,-119.4331774
+NK'MIP Construction,,250 498-3444,,,Oliver,49.1825,-119.5508333
+Nk'Mip Desert Cultural Centre,,1-888-495-8555,250-495-7912,http://www.nkmipdesert.com/,Osoyoos,49.0404227,-119.4346071
+Nk'Mip Gas Bar and Convenience Store,ataylor@oib.ca,250-498-3310,,http://www.oibdc.ca/nkgas.html,Oliver,49.1845139,-119.5395565
+NK'MIP Resort,info@spiritridge.ca,1-888-966-5647,,http://nkmip.com,Osoyoos,49.0368693,-119.4373579
+NK'MIP Vineyards,samb@oib.ca,250-498-3552,250-498-2558,http://www.oibdc.ca/nkvineyards.html,Oliver,49.1825,-119.5508333
+Nootka Trail,lands@yuquot.ca,250-283-2029,,http://www.yuquot.ca/nootkatrail.html,Gold River,49.7813889,-126.0469444
+North Coast Helicopters,craig@northcoasthelicopters.com,250-631-6031,,http://www.northcoasthelicopters.com,Prince Rupert,54.3369741,-130.3125632
+North Coast Home Medical Equipment,northcoast@nchme.ca,250-638-1301,250-638-0174,http://www.northcoast.medichair.ca,Terrace,54.5130651,-128.5814735
+North Co-Corp,csmith@metlakatla.ca,250-841-2522,,http://www.metlakatla.ca/overview/mdc-businesses/north-co-corp,Prince Rupert,54.3127778,-130.3252778
+Northern Bounty Fishing Charters,bountyhunter@citytel.net,250-600-7040,,http://www.northernbounty.ca,Prince Rupert,54.310616,-130.3011224
+Northern Labour Services,,250-847-0122,,,Moricetown Reserve,55.0333334,-127.3333333
+Northern Native Contracting,wolfc_101@hotmail.com,250-630-2608,,,Montney,56.45,-120.9166667
+Northern Native Fishing Corporation,nnfc@citywest.ca,250-627-8486,250-624-6627,http://www.northernnativefishing.ca/,Prince Rupert,54.3161345,-130.3233499
+Northern Polyfoam inc.,raybenn@gmail.com,250-782-4087,,,Dawson Creek,55.7617742,-120.2267706
+Northern Skies Consulting Group,bertramm@nisgaa.net,250-633-2012,,,New Aiyansh,55.2041667,-129.0791667
+Northern Spruce Contracting Ltd,cherchin@telus.net,250-562-9555,250-562-9557,,Prince George,53.9130556,-122.7452778
+Northern Star Printing and Publishing,nspp@shaw.ca,,,http://www.northernstar-online.com,Prince George,53.8983274,-122.7594461
+Northwest Fuels,nwfuels@telus.net,250-847-2522 ,,http://www.northwestfuels.ca,Terrace,54.5136359,-128.6219556
+Northwinds Electric,vmuldoe@hotmail.com,250-842-5286,250-842-5259,,Kispiox,55.349387,-127.6963054
+N'Quatqua Central Service Station,postmaster@nquatqua.ca,604-452-3243,,http://www.nquatqua.ca/html/home_on_the_range_1.html,D'Arcy,50.55,-122.4833333
+Nulki Hills Contracting Ltd,,250-996-9022,,,Vanderhoof,53.9285856,-124.132906
+Numa Communications,oneil@designingnations.com,,,,West Vancouver,49.3270916,-123.137756
+Nun Khum Arts,jackie@muksamma.com,604-298-3907,,,Burnaby,49.2777,-122.9050591
+Nupqu Development Corporation,dbrown@ktunaxa.org,250-489-5762,,http://www.nupqu.com/,Cranbrook,49.5829614,-115.7551984
+Nupqu Powerline Service,dbrown@ktunaxa.org,250-489-5762,250-489-2091,,Cranbrook,49.5829614,-115.7551984
+NUQO Modular Inc.,rory@nuqo.ca,604-505-6210,,https://www.nuqo.ca/,Vancouver,49.3251879,-123.1358334
+Nurture Business Serivces,fran@nurtureservices.com,,,http://www.nurtureservices.com,Surrey,49.1440611,-122.8565082
+Nuxalk Commercial Fisheries Limited Partnership,rhart@nndc.ca,250-799-0033,250-799-0035,http://www.nndc.ca,Bella Coola,52.364779,-126.708994
+Nuxalk Forestry Limited Partnership,rhart@nndc.ca,250-799-0033,250-799-0035,http://www.nndc.ca,Bella Coola,52.374925,-126.796749
+Nuxalk Nation Development Corporation,rhart@nndc.ca,250-799-0033,250-799-0035,,Bella Coola,52.364779,-126.708994
+Nuyumbalees Cultural Centre Society,cultural@nuyumbalees.com,250-285-3733,,http://www.nuyumbalees.com,Cape Mudge,50.01762579,-125.1966655
+Nyce Gifts & Creations,nycesally@hotmail.com,250-633-2117,,,Gitwinksihlkw,55.1938611,-129.2190095
+Ocean Equipment,oceanequipment@gmail.com,604-487-0715,604-487-0716,http://oceanequipment.ca,Powell River,49.8355556,-124.5244444
+Of the Land Productions Inc.,,,,http://www.pibdc.ca/business/of-the-land-productions-inc/,Penticton,49.5008334,-119.5938889
+Ogopogo Meats and Sausages Ltd.,ogopogomeats@shaw.ca,(778) 516-5595,,http://Ogopogomeats.com,Summerland,49.5835049,-119.679651
+Oho Education/Transglobal Business Group Inc.,info@transglobalbusinessgroup.com,250-751-1555,,http://www.transglobalbusinessgroup.com/,Nanaimo,49.2323896,-123.9973065
+OIB Holdings Corporation ,yweinert@oib.ca,250-498-3444,250-498-4809,http://www.oibdc.ca/oibholdings.html,Oliver,49.184533,-119.535114
+Okanagan Nation Alliance Business Development Unit,director@syilx.org,250-707-0095 x 214,,http://www.okanagannationbusiness.com/,Westbank,49.8639182,-119.596507
+Okanagan Nation Aquatic Enterprises (OAE) Ltd.,fish-hub@syilx.org,250-707-0095 ext. 260,250-707-0095,https://okanaganselect.ca,Kelowna,49.8354007,-119.6246682
+Old Massett Forestry Corporation,ecdev@mhtv.ca,250-626-3337,250-626-5440,,Masset,54.0340418,-132.175256
+Old Massett Village Council Economic Development,,250-626-3337 x 28,250-626-5440,,Masset,54.0340418,-132.175256
+Old World Interiors,,604-986-2080,,http://www.oldworldinteriors.ca/,North Vancouver,49.3221721,-123.1078835
+O'leary Contracting Ltd,olearycontracting@hotmail.com,250-287-2400,,,Campbell River,50.0139982,-125.2701758
+Oliver Ready Mix,readymix@oib.ca,250-498-2231,,http://www.oliverreadymix.com,Oliver,49.1825,-119.5508333
+Omah Forestry L.L.P.,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Omoah Forestry Corporation,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Option One Design Planning,twofiveoh@shaw.ca,778-785-0033,250-984-1433,http://option1design.com/,Nanaimo,49.1663811,-123.9765247
+Orbis Consulting,orbisplanning@gmail.com,,,http://www.orbis-consulting.ca,Williams Lake,52.1055241,-122.0320252
+Orca Spirit Marine Transport,whales@orcaspirit.com,,,http://osmarinetransport.com/,Victoria,48.422206,-123.379851
+Orica Canada Haisla JV,,,,http://www.orica.com/,Kitimat Village,53.9748438,-128.645748
+Osoyoos Indian Band Development Corporation,cbower@oib.ca,,,http://oibdc.ca,Oliver,49.184528,-119.536698
+P.C. Siding & Soffit ,prescharles66@hotmail.com,250-731-6564,,,Port Alberni,49.2648759,-124.8366858
+Pachena Bay Campground,stan.c@huuayaht.com,250-728-1287,,http://hfndevelopmentlp.org/pachena-bay-campground/,Bamfield,48.8333334,-125.1333333
+Painted Rock Aggregates & Contracting LLP,andrew@kdcenterprises.ca,250-373-0088,,,Savona,50.7584614,-120.817578
+Park West Professional Services,matt@mattvickers.com,604-210-1483,,,West Vancouver,49.3251879,-123.1358334
+Passion Parties ,ashleyarm9@hotmail.com,604-703-3679,,https://usi.yourpassionconsultant.com,Agassiz,49.2550562,-121.7313824
+Passion Parties with Rose-Marie,rmwilson71@hotmail.com,604-791-2424,,https://rmleveque.yourpassionconsultant.com/,Chilliwack,49.1666667,-121.95
+Pathways Designs In Landscaping,linda_rowan@hotmail.com,250-819-4969,,,Kamloops,50.6493232,-120.3710706
+Patrick R. Stewart Architect,patrickreidstewart@gmail.com,778-246-1862,,,Chilliwack,49.1347378,-121.9598039
+Paul Ranahan & Son Contracting Ltd.,paulranahan@hotmail.com,250-842-5583,,,New Hazelton,55.2433334,-127.5869444
+Pauline Rubinato Bookkeeping,,250-842-4115,,,Gitanmaax,55.2622712,-127.664691
+Pauline Rubinato Electoral Officer,,250-842-4115,,,Gitanmaax,55.2622712,-127.664691
+Peggy's Pie House,,250-842-6702,,,Hazelton,55.2534863,-127.6724349
+P'egp'ig'lha Development Corporation (PDC),,250-256-4118 ,,,Lilloet,50.6790859,-121.9512129
+Penelakut Fisheries,ken@penelakut.ca,250-246-2321,250-246-2725,http://penelakut.ca,Chemainus,48.9166667,-123.7166667
+Penticton Indian Band Economic Development Corporation,agabriel@pib.ca,250-492-3154,250-492-3164,http://www.pibdc.ca/contact-us/,Penticton,49.5008334,-119.5938889
+Pete's Plate,eatatpetesplate@gmail.com,250-842-5376,,https://www.facebook.com/groups/360747573962126/,Hazelton,55.2525964,-127.6725398
+Petroglyph Gallery,sbradt@petroglyphgallery.ca,250-799-5673,,http://www.petroglyphgallery.ca/,Bella Coola,52.3833334,-126.75
+Pietila and Sons Logging Ltd.,,,,,Lillooet ,50.6938889,-121.9336111
+Plateau Power Systems,cscclayton@telus.net,250-851-6225,,,Kamloops,50.6925449,-120.3283725
+Pluto Auto Body (2008) Ltd,grantconlon@msn.com,250-692-3015,,,Burns Lake,54.2224605,-125.7455477
+Port Edward Quarry Ltd.,garry_council@laxband.com,,,,Port Edward,54.229991,-130.295007
+Practical Safety Management,practicalsafetymanagement@gmail.com,250-301-8088,,,Prince George,53.7211575,-122.6309891
+Premium BMG Homes,bmghomes@telus.net,250-889-6767,,,Victoria,48.4404909,-123.3651868
+Premium Urban Design,admin@premiumdesign.ca,250-383-9990,250-384-2144,http://www.premiumurbandesign.com,Victoria,48.4404909,-123.3651868
+Protech Fire Inc,brad@protechfire.ca,866-443-3636,,http://www.protechfire.ca,Duncan,48.8156994,-123.6716771
+Puntledge RV Campground and Nim Nim Interpretive Centre,puntledge_rv_campground@shaw.ca,250-334-3773,,http://www.puntledgerv.com,Courtenay,49.6960297,-125.0074463
+Pure Beauty Ltd.,info@purebeautyltd.com,604-808-1485,,http://www.purebeautyltd.com/,White Rock,49.0162746,-122.7853943
+Quaaout Lodge and Spa at Talking Rock Golf Resort,info@quaaoutlodge.com,250-679-3090,,http://quaaoutlodge.com,Chase,50.81461242,-119.6795654
+Qualicum Campground,council.qualicum@shaw.ca,1-877-757-9322,,,Qualicum,49.4015236,-124.6176505
+Quamichan Auto Repair ,,250-746-8336 or 250-709-2451,,,Duncan,48.775769,-123.709803
+Quatsino Development Corp,manager@qfnedc.ca,,,,Coal Harbour,50.6140834,-127.5737303
+Quilakwa Investments Ltd., info@splatsin.ca,250-838-9422,250-838-2378,,Enderby,50.5371401,-119.1391115
+Quw'utsun' Cultural and Conference Centre,askme@quwutsun.ca,250-746-8119,,http://www.khowutzun.com/qccc/,Duncan,48.7731781,-123.7022705
+R & L Excavating,rlexcavating@shaw.ca,250-765-0330,250-765-0550,,Kelowna,49.9286441,-119.3889181
+R. Dendys Welding Ltd.,rdendys@yahoo.ca,250-774-7207,,,Fort Nelson,58.8055556,-122.6972222
+R.L.R Trucking Ltd,sktiger_30@hotmail.com,250-849-5969,,,Gitsegukla,55.0865831,-127.8230759
+RaceRocks 3D Inc.,bradp@racerocks3d.com,250-986-6066,,https://racerocks3d.ca/,Victoria,48.4259578,-123.3688141
+Rainbow Gas Bar,wesley-sam@hotmail.com,250-692-7747,,,Burns Lake,54.2355113,-125.7704618
+Rainbow Mountain Outfitting,rainbowmountainoutfitting@gmail.com,250-742-3447,,http://www.rainbowadventuresbc.com,Anahim Lake,52.4666667,-125.3166667
+Ranchery Holdings,,250-996-0088,,,Fort St James,54.4444445,-124.2591667
+Ranger Forest Services Ltd,,250-830-0773 ,,,Campbell River,49.9968572,-125.2509129
+Raven Event Management,katrin@ravenevents.ca,604-483-3532,,http://www.ravenevents.ca/,Powell River,49.8917711,-124.5982047
+Raven's Professional Piercing & Permanent Makeup,,250-624-6974,,http://www.ravensprofessionalpiercingandpermanentmakeup.com,Prince Rupert,54.3128006,-130.3268363
+Raymond D. Phillips Barrister & Solicitor,chuckpalsht@gmail.com,250-455-2471,250-455-0040,,Lytton,50.1872393,-121.5741696
+RealWorld Media Inc.,info@realworldmedia.tv,604-709-0970,,http://www.realworldmedia.tv,Vancouver,49.2105964,-123.0929394
+Rebekah McMaster Registered Acupunturist,blackstoneacup@shaw.ca,250-724-2774,,,Port Alberni,49.2634361,-124.8135898
+Red cedar Designs,angelaashtonis@gmail.com,250-590-0086,,http://stormtechcat.com/RedCedarDesigns.html,Victoria,48.4519799,-123.504587
+Red Earth Holdings Inc.,leesamike@shaw.ca,,,,Merrit,50.1173899,-120.7815908
+RedBear Services,redbearservices@live.ca,250-455-0234,,,Lytton,50.2311111,-121.5813889
+Refocus Communications & Fundraising,aimee@refocuscommunications.com,778.875.3439,,http://www.refocuscommunications.com,Langley ,49.1776159,-122.6564416
+Rescan Tahltan Environmental Consultants  (RTEC),Wade.Brunham@erm.com,604-689-9460,,http://www.tndc.ca/resource-development,Dease Lake,56.740861,-129.787222
+Reserve Management Inc.,info@rezman.com,250-260-8115,,http://www.rezman.com/aboutrmi.htm,Vernon,50.3557055,-119.3191972
+Retasket Lodge & RV Park,retasket@shaw.ca,1-866-456-2090,250-256-2091,http://retasketlodge.com/,Lillooet,50.6827841,-121.9421195
+Richard Erato Research,paulerato@yahoo.com,416-400-0846,,,New Westminster ,49.2300451,-122.8888477
+Richard Gauthier Music,ktown.racquets@gmail.com,250-864-9015,,,Kelowna,49.8990243,-119.4562427
+Richard Hunt Kwa-Gulth Arts Ltd,richard@richardhunt.com,250-889-1423,250-889-1423,http://www.richardhunt.com,Victoria,48.4488266,-123.3563249
+Rick Sparks & Associates,rick.sparks64@gmail.com,778-706-9451,,,Vancouver,49.2664176,-123.0843691
+Ringing Bell Robes,lindakaypeters@hotmail.com,604-750-0403,,https://www.facebook.com/pages/RINGING-BELL-ROBES/1389638604581926,Agassiz,49.255,-121.7298
+Riverfresh Wild BC Salmon,info@riverfreshkamloops.com,778-471-8210,,http://www.riverfreshkamloops.com,Kamloops,50.682909,-120.325757
+RNR Sales & Rentals,doreen_23@hotmail.com,250-262-7984,250-782-4798,,Fort St John,56.2281998,-120.8184721
+Roanna's Convenience Store,normabrown53@gmail.com,250-957-2498,,http://www.heiltsukdevco.com/index.php?option=com_content&view=article&id=84&Itemid=95,Bella Bella,52.165131,-128.144839
+Rocky La Rock,rockylarock@live.com,,,,Agassiz,49.2898032,-121.9095968
+Rocky Pass Water Taxi,,250-670-9587,,,Ahousaht,49.2527948,-126.0994881
+Rod Potter Construction,apotter@telus.net,250-522-0016,,http://www.rodpotterconstruction.ca,Tofino,49.1530556,-125.9044444
+Rogers Trucking Inc.,Sales@RogersTrucking.ca,250-785-3647,250-785-7036,http://www.rogerstrucking.ca/,Fort St John,56.2525,-120.8466667
+Ron's Herbal Solutions,ronshackelly@shaw.ca,604-274-8295,,,Richmond ,49.152617,-123.185726
+Rose Island Ventures Inc.,,250-625-3099,,,Port Simpson,54.557055,-130.4322828
+Rose Miller Facilitation ,rose.miller@live.com,250-672-0087,,,Barriere,51.1797223,-120.1236111
+Royal Bank New Hazelton,,,,,New Hazelton,55.2558334,-127.6755555
+Royal Jubilee Denture Clinic Inc,info@rjdc.ca,,250-592-8339,http://www.rjdc.ca,Victoria,48.4319418,-123.3238091
+Roza Roberts - Wellness Coach,rozalisa46@gmail.com,604-316-8760,,,Chilliwack,49.1184648,-121.9335835
+RSA Custom Finishing Ltd.,rsacustom@gmail.com,250-219-2153,,http://rsacustomfinishingltd.ca/,Dawson Creek,55.747287,-120.2205097
+Ruby Creek Art Gallery,info@rubycreekartgallery.com,604-796-9289,,http://rubycreekartgallery.com/,Agassiz ,49.2472047,-121.7782606
+Ruby Rock Resources,,250-888-9009 ,,,Prince George,53.9198873,-122.7555575
+Rupert Lawn & Garden,blair@gitmaxmakay.ca,250-624-6115 ,,http://www.rupertlawn.ca/,Prince Rupert ,54.3301505,-130.284656
+Ruskin Construction Ltd. / Haisla Business Operations JV,,,,http://www.ruskinconstruction.com/,Prince George,53.9277968,-122.7113332
+S & D Muir Inc,sd.muirinc@gmail.com,250-378-1964,,,Merritt,50.1202072,-120.7767818
+Sabo Jang & Co Ltd,greg@sabojang.com,250-951-2000,250-951-2070,http://www.saboco-cga.com,Parksville,49.3199605,-124.3165033
+Sa-Cinn Native Entreprises Ltd.,native@sa-cinn.com,250-246-2412,,http://www.sa-cinn.com,Chemainus,48.9166667,-123.7166667
+Safe-Harbour Informatics Inc.,info@safe-harbour.ca,604-295-5355,,http://www.safe-harbour.ca,Vancouver,49.2262854,-123.1965315
+Sagebrush Downs,leslie.lax@kib.ca,250-314-1525,,http://www.tkemlupsbusiness.ca/businesses/sagebrush-downs,Kamloops,50.6803744,-120.2947475
+Sahtaneh Contracting Ltd.,,250-774-7887,250-774-7889,,Fort Nelson,58.8055556,-122.6972222
+Sa'lish Archaeology & C.R.M. Ltd,Salish.ltd@shaw.ca,250-315-8505,250-378-8256,,Merritt,50.1314272,-120.8337586
+Salish Dreams,good.golly.missholly@hotmail.com,604-563-7700,,,Tsawwassen ,49.0080556,-123.1283333
+Salish Eye Productions,salisheye@gmail.com,250-709-2929,,http://www.salisheye.com/,Chemainus,48.8755399,-123.6944621
+Salish Fusion Knitwear,adam@salishfusion.ca,250-889-7678,,http://salishfusion.ca/,Brentwood Bay,48.5796548,-123.4598571
+Salish Painting,salish-painting@hotmail.ca,778-871-4885,,,Tsawwassen,49.0353837,-123.097252
+Salish Sea Industrial Services Ltd.,ianmaxwell@ralmax.com,250-386-9411,,,Victoria,48.4283334,-123.3647222
+Salishan Catering Ltd.,sparrow@uniserve.com,604-568-5044,,http://www.salishancatering.com,Vancouver,49.2262444,-123.1977641
+Salmon n' Bannock Bitsro Ltd.,salmon.n.bannock@gmail.com,604-568-8971,,http://www.salmonandbannock.net/index.html,Vancouver,49.2631378,-123.1296705
+Salpac Fisheries Ltd., info@snuneymuxw.ca,250-740-2300,,,Nanaimo,49.1638889,-123.9380556
+Sal's Ironworks,cleanslate@kica.ca,250-771-3033,,,Dease Lake,58.4333334,-130.0241667
+Sam Witch's Catering,,250-996-8794,,,Fort St James,54.4389514,-124.2559907
+Sam's Carving Shop,,250-632-9790,,,Kitimat,54.057486,-128.6868957
+Samuel Ennis: RE/MAX Ocean Pacific Realty,cvhousehunters@gmail.com,250-897-9813,250-334-9955,http://www.comoxvalleyhousehunters.com,Courtenay,49.6766705,-124.9351669
+Sana'aih Market,sunsetstoremanager@nakazdli.ca,250-996-8825,250- 996-8289,,Fort St James,54.4444445,-124.2591667
+Sands Little Store,sandilynn66@hotmail.ca,604-795-5151,,,Chilliwack,49.1722496,-121.9484941
+Sandy Pines Campground,shoneena@shoneenaloss.ca,604-869-6225,,http://www.sandypinescampground.com/,Boston Bar,49.8666667,-121.4333333
+Sarvair Aviation,sarvair@shaw.ca,250-791-7322,,http://www.sarvair.com,100 Mile House,51.6427778,-121.2955556
+Sarver Wood Fibre,mail@sarverwood.com,250-395-1722,250-395-1723,http://www.sarverwoodfibre.com/Home.html,100 Mile House,51.6427778,-121.2955556
+Sasquatch Crossing Eco Lodge,sasquatch.crossing@stsailes.com,604-796-9798,604-796-9274,http://www.sasquatchcrossing.ca/,Agassiz,49.2817917,-121.9475174
+Sasquatch Drums,darrencharlie@hotmail.com,604-316-9585,,,Agassiz,49.2953751,-121.9084834
+Sasquatch Forest Products LP,,,,,Agassiz,49.2973308,-121.9119884
+Sasquatch Tours and Cultural Presentations,darrencharlie@hotmail.com,604-316-9585,,http://www.sasquatchcrossing.ca/location/things-to-do/boat-tours/,Agassiz,49.2953751,-121.9084834
+Sassie,,604-209-7701,,,Vancouver,49.2611112,-123.1138889
+Saulteau Camp Services,,,,http://www.saulteau.com/economic-development/economic-development-overview/,Moberly Lake,55.8333334,-121.7333333
+Saysutshun Newcastle Island,admin@newcastleisland.ca,250-713-0456,,http://newcastleisland.ca,Nanaimo,50.1487464,-127.869873
+"Schell & Associates, CPA",schellandassociatescgaBC@gmail.com,250-385-0312,250-384-2144,http://www.schellandassociatescga.ca,Victoria,48.4406339,-123.3657027
+SCS Diamond Drilling ,Admin@scsdrilling.com,250-572-2614,250-314-4865,http://www.scsdrilling.com,Kamloops,50.6758334,-120.3394444
+Sea Shanty Restaurant,tofino@himwitsa.com,250-725-2017,,http://www.himwitsa.com,Tofino,49.1535327,-125.9091775
+Sea Wolf Adventures,info@seawolfadventures.ca,250-902-9653,,http://seawolfadventures.ca/,Telegraph Cove,50.54918984,-126.8323517
+Seabird Island Dental Centre,heather@seabirdisland.ca,604-796-6853,604-796-1124,http://www.seabirdisland.ca/index.php/service/dental-clinic/,Agassiz,49.2551356,-121.7303402
+Seabird Island Doctors,kristimcneil@seabirdisland.ca,604-796-2165,604-796-1124,http://www.seabirdisland.ca/index.php/service/doctors-clinic-medical-center/,Agassiz,49.2530686,-121.7312901
+Seabird Island Driving School,,604-796-2177,604-796-3729,http://www.seabirdisland.ca/,Agassiz,49.255185,-121.730362
+Seabird Island Ecostation,art@seabirdisland.ca,604-796-2177,604-796-3729,http://www.seabirdisland.ca/index.php/2013/04/eco-station-grand-opening/,Agassiz,49.2551356,-121.7303402
+Seabird Island Gravel Operations,,,,,Agassiz,49.2551356,-121.7303402
+Seabird Island Hazelnut Orchard,,,,,Agassiz,49.2551356,-121.7303402
+Seabird Solar,info@freefuelforever.com,604-796-2649,206-201-5095,http://www.seabirdsolar.com,Agassiz ,49.2534612,-121.7304692
+Seabreeze,seabreezetakeout@gmail.com,250-204-9777,,,Campbell River,50.0394751,-125.2475719
+Seacret Direct with Alciia ,aliciajohn12@hotmail.com,250-320-2385,,https://www.seacretdirect.com/aliciajohn/en/us/,Kamloops,50.6758334,-120.3394444
+Seamaster's Restaurant,,250-632-2600,,,Kitimat,53.9716357,-128.6496716
+Secluded Wellness Centre,secludedwellness@shaw.ca,250-724-6998,,http://www.secludedwellness.com/,Port Alberni,49.2667771,-124.8492185
+Second Pass Forestry Ltd.,Tanner.Lebourdais@spfl.ca,778-220-6344,,http://www.spfl.ca/,Kamloops,50.64588,-120.365409
+Secret Beach Campground,secretbeach@toquaht.ca,250-726-8349,,http://www.coastandkayak.com/secretbeach/index.html,Ucluelet,48.9447204,-125.5565291
+Secwepmc Museum & Heritage Park,museum@kib.ca,250-828-9749,250-372-8833,http://www.secwepemcmuseum.com,Kamloops,50.6805707,-120.2984508
+Senkulmen Business Park,RobArchibald@shaw.ca,250-717-6688,,http://www.senkulmen.ca,Oliver,49.1708801,-119.5567448
+Serenity Chiropractic,serenitychiro@shaw.ca,604-392-2225,604-392-2226,http://serenitychiropractic.ca/,Chilliwack,49.1597588,-121.952514
+Setetkwa Golf Course & RV Park,ox.e1@hotmail.com,250-347-9401,,,Radium Hot Springs,50.62,-116.0761111
+SEVEN - Your Indigenous News Source,maurice_nahanee@yahoo.com,778-288-7377,,,North Vancouver,49.3183208,-123.0883392
+Seven Generations Environmental Service Ltd.,info@sges.ca,604-824-3225,,http://www.sges.ca,Chilliwack,49.1666667,-121.95
+Sexqeltkemc Incorporated,info.sei@cablelan.net,250-679-2108,250-679-2115,http://www.sexqeltkemc.com,Chase,50.8191667,-119.6861111
+Seyem' Qwantlen Business Group,brenda.fernie@seyemqwantlen.ca,604-888-5556,604-888-5544,http://www.seyemqwantlen.ca/,Fort Langley,49.171609,-122.5657288
+Shalalth Development,sjsquire@yahoo.com,,,,Shalalth,50.7284558,-122.2060146
+Shark-Bite Marine Charters Ltd. ,tbaird@tsawwassenfirstnation.com,604-999-7740,,,Tsawwassen ,49.0350054,-123.0972214
+Sheldon Dennis - Northwest Coast Artist of the Tahltan Nation,,250-638-0290,,https://www.facebook.com/SheldonDennisArtist/timeline,Terrace,54.4914714,-128.5870261
+Sherri Cook Independent Epicure Consultant,sherri77cook@shaw.ca,250-918-9220,,http://sherricook2.myepicure.com,Port Alberni,49.2344445,-124.8058333
+Shiny Nicol Cleaning Service,lonepenny@hotmail.com,778-220-4967,,,Kamloops,50.6964972,-120.3562978
+Shoreline Swag,trevor@shorelineswag.com,604-263-3070 ext. 103,,http://www.ShorelineSwag.com,Surrey,49.1276322,-122.8397146
+Shulus Forest Enterprises Inc.,nrdeptmanager@lnib.net,250-378-5157,250-378-6188,http://lnib.net/band-owned-businesses/,Merritt,50.1125,-120.7883333
+Shxw Kwimel Cha Management Partnership Ltd.,james@tzeachten.ca,604-858-3888,,,Chilliwack,49.1115242,-121.9577948
+Shxw'owhamel Ventures, alfred.james@shxwowhamel.ca,604-860-9760,,https://shxwowhamelventures.ca/,Hope,49.3512554,-121.5934023
+Sidney Whale Watching,,1-888-656-7599,,http://sidneywhalewatching.com/,Sidney,48.6488301,-123.3951316
+Sierra Helicopters LTD,info@sierrahelicopters.com,604-465-9005,866-907-0660,http://www.sierrahelicopters.com,Pitt Meadows,49.2156351,-122.7007793
+Silvatech Consulting,t.smith@silvatech.ca,250-832-8512,,,Salmon Arm,50.7,-119.2666667
+Silver Rose,silversupernault@hotmail.com,250-826-1754,,,West Bank,49.8648212,-119.4930177
+Silver Star Transport,,,,,Smithers,54.7791667,-127.1761111
+Silver Wolf Plumbing & Heating,silverwolfplumbing@ymail.com,250-571-6371,,,Kamloops,50.7907268,-120.316378
+Silvertip Canada Inc.,silvertipca@shaw.ca,250-769-3337,250-769-2231,,West Kelowna,49.8601511,-119.5501684
+Simone Williams-Horne,babydiamond8@hotmail.com,604-316-5229,,,Agassiz,49.256892,-121.732248
+Simpcw Resources Ltd,reception@simpcw.com,250-672-9995,250-672-9928,http://www.simpcw.com/economic-development/simpcw-resources-limited,Barriere,51.2130406,-120.1406279
+Sinclair Trucking Ltd,sinclairtruckingltd@shaw.ca,250-951-1956,,,Parksville,49.3189216,-124.3293228
+Sipugahma Contracting Ltd.,,250-788-2499,250-788-2449,,Moberly Lake,55.8333334,-121.7333333
+Sk'atsin Resources,richardmanuel@neskonlithband.com,,250-679-5306,http://www.skatsinllp.com/,Chase,50.8191667,-119.6861111
+Skawahlook First Nations Hall Rentals,info@rubycreekartgallery.com,604-796-9289,,http://rubycreekartgallery.com/hall-rentals/,Agassiz,49.2472047,-121.7782606
+Skeetchestn Natural Resources,mikeanderson@skeetchestn.ca,250-373-2493,,,Savona,50.840677,-120.945916
+Skull'qalt Forestry,execassist@lsib.net,250-499-5528,,,Keremeos,49.2186074,-119.9390467
+Skwachays Lodge & Art Gallery,maggiee@skwachays.com,604-687-3589,,http://www.facebook.com/pages/Skwachays-Healing-Lodge/327552157319484,Vancouver ,49.2809181,-123.0698013
+Skw'lax Daycare,dlmunro_lsib@hotmail.com,250-679-8033,,,Chase,50.8561409,-119.6589872
+Skwlax Wellness Center,djohn@skwlaxwellness.com,250-572-3103,,http://www.lslib.com/content/wellness-centre,Chase,50.8786004,-119.6297832
+Sky Spirit Studio,info@skyspiritstudio.com,604-985-5590,604-987-8576,http://www.skyspiritstudio.com,North Vancouver,49.3184566,-123.0844773
+Skyride,info@skyride.ca,250-260-6777,,http://www.skyride.ca/,Vernon,50.281955,-119.2531516
+Slenyah Store,slenyah@stellatenfirstnation.ca,250-698-8472,,,Fraser Lake,54.0602778,-124.8438889
+Slew Foot Ventures Ltd,j.metecheah76@gmail.com,250-772-5255,250-787-5338,,Wonowon,56.7333334,-121.8
+Smelqmix Investments Ltd.,ebuchstein@smelqmix.ca,250 488 4198,,--,Keremeos,49.2058437,-119.8427335
+Snake River Energy Services,zpickering@snakeriverenergy.com,250-774-2548,250-774-2549,,Fort Nelson,58.7998011,-122.6971916
+Sne Cal Yegh Gas Bar Convenience Store,,250-692-3901,,http://www.lakebabine.com/files/woyenne-indian-reserve-27.php,Burns Lake,54.236941,-125.7600616
+Snuneymuxw Development Corporation,chrisg@snuneymuxw.ca,250-740-2330,,http://www.snuneymuxw.ca/nation/economy/economic-development,Nanaimo,49.150755,-123.9296195
+Snuneymuxw Sandstone Corporation,info@snuneymuxw.ca,,,,Nanaimo,49.151904,-123.9296206
+SoBe Services Ltd.,,250-774-7938,250-774-4509,,Fort Nelson,58.8055556,-122.6972222
+Songhees Nation Tours,mark.salter@songheesnation.com,250-386-1043,,,Victoria ,48.44145925,-123.4286469
+Spartan Scaffolding,kevin@spartanscaffolding.ca,250-464-0482,250-464-0482,http://www.spartanscaffolding.ca,Cranbrook,49.520765,-115.7802423
+Spatsizi Remote Services Corporation (SRSC),,877-771-5484 ext. 57,,http://www.tndc.ca/resource-development,Dease Lake,58.5613344,-130.013037
+Spill-Chek Environmental,info@spill-chek.com,250-782-1177,,http://spill-chek.com,Dawson Creek,55.7605556,-120.2355556
+Spirit Bear Coffee,info@spiritbearcoffeecompany.com,604-468-4442,,http://spiritbearcoffeecompany.com/,Coquitlam,49.2890239,-122.8133682
+Spirit Bear Lodge ,explore@spiritbear.com,250-339-5644,866-902 6843,http://www.spiritbear.com,Comox,52.58714565,-128.5199547
+Spirit Lake Silviculture,kody1619@shaw.ca,250-204-3491,,,Campbell River,50.0216152,-125.2931426
+Spirit of Dreams Consulting Ltd,mjames14@shaw.ca,250-283-2594,,,Gold River,49.7813889,-126.0469444
+Spirit Ridge Vineyard and Spa,stay@spiritridge.ca,250-495-5445,,http://www.spiritridge.ca,Osoyoos,49.0397464,-119.433697
+Spirit Works Limited,spiritworkslimited@shaw.ca,604-982-0024,778-340-0615,http://www.spiritworkslimited.com,North Vancouver,49.3032229,-123.0277565
+Spiyu7ullucw Ranch Corporation,info@telmlups.ca,250-314-1579,250-828-9758,http://www.tkemlupsbusiness.ca/businesses/,Kamloops,50.6805707,-120.2984508
+Splitrock Environemental Sekw'el'was Ltd.,splitrockenvironmental@gmail.com,250-256-0002,,http://www.splitrockenvironmental.ca,Lilloet,49.6959967,-123.1444927
+Splitrock Environmental Sekw'el'was,,250-256-3109,,http://splitrockenvironmental.ca/,Lillooet,50.68363383,-121.9345093
+Sportsman Light Truck Ltd.,brady@sportsman4x4.ca,250-374-7175,,http://www.sportsman4x4.ca,Kamloops,50.651757,-120.3765234
+Sproat Lake Trucking Ltd,sproatlake@live.ca,250-263-2988,,,Fort St John,56.2398907,-120.8163258
+Sqewqel Development Corporation,brian@btconsulting.ca,604-796-6835,604-796-6835,http://www.seabirdisland.ca/,Agassiz,49.2551356,-121.7303402
+Sqéwqel Gas Bar LLP,, 604-796-2177,,http://www.sqewqel.ca/businesses.html,Agassiz,49.2551356,-121.7303402
+Squamish Lil'wat Cultural Centre,info@slcc.ca,866-441-7522,,http://www.slcc.ca,Whistler,50.11811,-122.9470012
+Squiala First Daycare,,604-392-4446,,,Chilliwack,49.1595,-121.9774422
+"St. Eugene Mission Resort (SEM) Holdings, Ltd.",info@steugene.ca,250-420-2000,250-420-2001,http://www.steugene.ca/,Cranbrook,49.58666,-115.755268
+Stark CNC,mbarker@starkcnc.com,250-588-4114,,http://www.starkcnc.com,Sidney,48.6532588,-123.4139354
+Stator Sales & Service LTD,,604-882-8762,,http://www.statorsalesandservice.com/index.html,Surrey,49.1737233,-122.687293
+Steeplejack Industrial Group Kitimat,,250-632-5525 ,,,Kitimat ,54.0617707,-128.6842604
+Stephens Building Supply Store,ns6324@telus.net,250-842-6695,250-842-6833,,New Hazelton,55.2558334,-127.6755555
+Sterling Consulting,info@ronasterlingconsulting.com,250-378-5562,250-378-5563,,Merritt,49.1166667,-122.35
+Stevens & Company,anna@stevenslaw.ca,250-248-8220,250-248 8240,http://stevenslaw.ca,Parksville,49.3204004,-124.3085324
+Stewart Steinhauer Stone Sculpture,stewart@stonesculpture.ca,,,http://www.stonesculpture.ca/,Creston,49.1021658,-116.5660398
+Stikine Alliance Security Services Inc.,info@westernalliance.ca,604-271-7475,,http://www.beardog.ca/1stikine.html,Richmond,49.1269572,-123.0960015
+Stikine Explosives Ltd.,george@888asp.com,250-748-1455,,,Duncan ,48.7700668,-123.6989292
+Stk'emlupsemc Amalgamated Ventures Inc.,west@westernalliance.ca,604-271-7475,,,Vancouver,49.2611112,-123.1138889
+Sto:lo Forestry Corporation,mwatson@stolocf.ca,604-858-0009,604-858-3829,,Chilliwack,49.1341,-121.9609
+Sto:lo Research & Resource Managment Centre,Dave.Schaepe@stolonation.bc.ca,604-824-2420,,http://www.srrmcentre.com/index.html,Chilliwack,49.1335179,-121.9599954
+STO:LO Tourism ,stolo.tourism@stolonation.bc.ca,1-855-STOLO-52,604-824-0278,http://stolotourism.ca/,Chilliwack,49.12004202,-121.9435332
+Sto:lo Development Corporation,mwatson@stolocf.ca,604-858-0009,604-858-3829,http://www.stolonation.bc.ca/,Chilliwack,49.1335179,-121.9599954
+Stone Canyon Security Services Ltd.,vjadolph713@gmail.com,250-256-0148,,,Lillooet,50.6938889,-121.9336111
+Stormy's Netmaking,cloudywilliams07@hotmail.com,250-267-7191,,,Riske Creek,51.9686111,-122.5283333
+Stowe Spirit,cnchappy11@hotmail.com,,,,Agassiz,49.2373115,-121.759304
+Stqo:ya Construction LP,kimlessard@seabirdisland.ca,604-796-2177,604-796-3729,,Agassiz,49.2333334,-121.7666667
+Strategis Consulting Group Inc.,dcharland@strategisgroup.ca,604-420-4110,,,Burnaby,49.2515052,-122.9152707
+Sts'ailes Development Corporation,Robert.lagasse@stsailes.com,604-796-2116,604-796-3946,http://www.stsailesdevcorp.com,Agassiz,49.2333334,-121.7666667
+Sts'ailes Fisheries LP,,,,,Agassiz,49.2973308,-121.9119884
+Sts'ailes Lhawathet Lalem,reception@stsailes.com,604-796-9832 ,,http://www.lhawathet.ca/home/,Agassiz,49.2948479,-121.931247
+Stswecem'c Xgat'tem Development Corporation,general@canoecreekband.ca,250-440-5645,,http://canoecreekband.ca,Dog Creek,54.2833334,-124.2666667
+Sturgeon-Nose Creations,,,,http://www.sturgeon-nose-creations.com/,Creston,49.0577252,-116.512073
+Stuwix Resources Joint Venture,admin@stuwix.com,250-378-2277,,http://www.stuwix.com,Merritt,50.1071408,-120.7701804
+Subway,wesley-sam@hotmail.com,250-692-6921,,http://www.blndc.ca,Burns Lake,54.2357031,-125.7653619
+Sugar Cane Treadpro Tire Centre,treadprofinace@williamslakeband.ca,250-296-4453,250-296-4473,http://www.sugarcanetreadpro.com/,Williams Lake,52.1694279,-122.1116611
+Sugarcane Development Corporation,kirk.dressler@williamslakeband.ca,250-296-4646,,http://williamslakeband.ca,150 Mile House,52.1082871,-121.9924323
+Sumas Remediation Services Inc.,dale@sumasrem.com,877-990-8229,604-990-8289,http://www.sumasrem.com/,North Vancouver,49.3146312,-123.1006997
+Sumeeq Consulting Ltd.,sumeeq@shaw.ca,250-317-0708,,,Westbank,49.844257,-119.5930158
+Summitt Camp Catering Kitsumkalum JV,,250-847-2700 ,,http://www.summitcamps.ca/,Smithers,54.7821821,-127.1814212
+Sun Valley Mini Storage,sunvalleystorage@shaw.ca,250-374-5555,,http://sunvalleyministorage.com/,Kamloops,50.7008315,-120.3294334
+Sun Wolf Earthworks Ltd.,george@888asp.com,W: 250-748-1455  C: 604-219-3903,,,Duncan,48.7705998,-123.6989361
+Sunridge Equipment Ltd,,250-372-0417,,,Kamloops,50.6747594,-120.2180765
+Sunrise Merchandise Store,,250-632-6072,,,Kitimat,54.0559523,-128.687492
+Surely Building Company Inc.,churchill.landan@gmail.com,250.793.7300,,,Vancouver,49.27882,-123.0283148
+Sustut Holdings Ltd,,250-996-0088,,,Fort St James,54.4444445,-124.2591667
+Sweepy Clean,samsgus@hotmail.com,250-723-7645,,,Port Alberni,49.2653365,-124.8494256
+Sweltzer Creek Campground,info@sweltzercreekcampground.com,604-824-4023,,http://www.sweltzercreekcampground.com/Home.html,Chilliwack,49.0738547,-121.9552513
+T L & T Electric Ltd. ,sforrest@tltelectric.com,250-632-2093 ,250-632-2523,http://www.tltelectric.com/,Kitimat,54.0618048,-128.6864582
+T-1 Enterprises Custom Fabrication And Welding,tboman@telus.net,250-517-7874,,,Salmon Arm,50.6926041,-119.2470658
+TA Contracting,travisa_07@hotmail.com,250-457-3075,,,Cache Creek,50.8213306,-121.3830344
+Taan Forest,info@taanforest.com,250-559-2337,,http://www.taanforest.com,Skidegate,53.24725,-132.0028207
+Taaw Naay Enterprises Ltd.,taawnaay@haidagwaii.net,250-559-4455,,,Skidegate,53.2666667,-131.9902778
+Taba Enterprises Ltd. ,sjulian@taba.ca,250-996-1487,250-996-2111,http://www.taba.ca,Fort St James,54.4444445,-124.2591667
+Tactics 4 Solutions,elias.peter@rogers.com,604-354-0022,,,Anmore,49.3135827,-122.8641787
+Tahltan Allnorth Consultants Ltd.,dbell@allnorth.com,250-614-7291 ,,http://www.allnorth.com,Prince George,53.927189,-122.711416
+Tahltan Centre,,250-235-3131,,,Telegraph Creek,57.9,-131.1666667
+Tahltan Nation Development Corporation,Jamie.gleason@tndc.ca ,867-334-9660,,http://www.tndc.ca,DEASE LAKE,58.4333334,-130.0241667
+Tahltan Procon Joint Venture,eay@procongroup.net,604-291-8292,,http://www.procongroup.net/,Burnaby,49.266215,-122.9985759
+Tahtlan Transport,,,,,Dease Lake,58.4333334,-130.0241667
+Takaya Golf Centre,,604-929-6672,,http://www.takayagolfcentre.com,North Vancouver ,49.3124771,-122.9808502
+Takaya Tours ,office@takayatours.com,604-985-2925,,http://www.takayatours.com,North Vancouver,49.3124771,-122.9808502
+Takla Development Corporation,deborah.takla@gmail.com,250-564-9321,,,Prince George,53.9211253,-122.7530252
+Taku Wild Products,info@takuwild.com,250-651-8258,,http://www.takuwild.com/index.php,Atlin ,59.5666667,-133.7
+Talaysay Tours ,info@talaysay.com,604-628-8555,,http://www.talaysay.com,West Vancouver,49.3210869,-123.128067
+Tallio's Gas Bar,,250-799-5460,,http://nuxalknation.ca/community/nuxalk-businesses/,Bella Coola,52.3833334,-126.75
+Talok Fisheries Ltd.,hake1@telus.net,250-248-5398,,,Burns Lake ,54.2302778,-125.7644444
+TAMA Contracting Limited,tamasinclair@shaw.ca,250-992-2656,,,Quesnel,53.0235947,-122.477107
+Target Drilling Inc.,targetdrilling@shaw.ca,250-374-3735,250-374-3734,http://www.targetdrilling.ca,Kamloops,50.6774593,-120.2495226
+T'ashii Paddle School,INFO@TOFINOPADDLE.COM,1-855-883-3787,,http://tofinopaddle.com,Tofino,49.00115218,-125.3291016
+TaTlah Te'ne Trucking Ltd.,stuwills@gmail.com,250-917-8207,,,Dease Lake,58.4198299,-129.9915462
+Taz Excavating Ltd.,joncoleman@shaw.ca,,,,North Saanich,48.6753727,-123.4788412
+Tealicious Tea Company,info@tealiciousteacompany.com,604-377-5789,N/A,http://www.tealiciousteacompany.com,Port Coquitlam,49.260914,-122.7861097
+Telegraph Creek Contracting ,zigzag_racing@hotmail.com,250-235-3029 ,,,Telegraph Creek ,57.9,-131.1666667
+Telte-Yet Campsite,reception@chawathil.org,604-869-9481,604-869-7614,,Hope,49.3823988,-121.4474253
+Terrace Redi-Mix,,250-635-4343,250-635-2294,http://www.terraceredimix.com/,Terrace ,54.5202326,-128.6430947
+Territory Teck Construction Inc.,warren@datoff.com,250-960-2223,250-960-2224,,Prince George,53.9068157,-122.789489
+Tetla Tsetsuwatil,info@tetla.org,778-440-1102,,http://www.tetla.org/,Duncan,48.7786112,-123.7080556
+Tewanee Consulting Group,tcg@tewaneegroup.com,604-630-1272,,http://www.tewaneegroup.com,North Vancouver,49.3170613,-123.0881512
+TFN Economic Development Corporation,chartman@tfnedc.com,604-948-5219,604-943-9226,http://www.tfnedc.com/,Tsawwassen,49.0380252,-123.0974431
+The Blanchard Group Enterprises Inc,lyn.blanchard@creekstoneconsulting.com,604-926-8847,,http://www.yourcapitaledge.com,West Vancouver,49.3269527,-123.1377458
+The Bullet Barn,lois@thebulletbarn.com,604-883-0637,604-883-0641,http://www.thebulletbarn.com,Garden Bay,49.6371224,-124.0459155
+The Coastal Training Centre,csmith@metlakatla.ca,250-628-3201,250-628-9259,http://www.metlakatla.ca,Prince Rupert,54.3127778,-130.3252778
+The Historic BC Cafe,bradwilson15@hotmail.com,250-842-5775,250-842-5773,https://www.facebook.com/pages/The-Historic-BC-Cafe/154068207982103,Hazelton,55.2383887,-127.6502511
+The Lynnwood Marina,info@lynnwoodmarina.com,604-984-4272,,http://www.lynnwoodmarina.com/,North Vancouver,49.3005068,-123.026775
+The Owls Path,joel@theowlspath.com,250-206-1674,, http://www.theowlspathmarket.com,Port Alberni,49.2331419,-124.8093691
+The Sandspit Inn,thesandspitinn@gmail.com,250-637-5377,250-637-2326,http://thesandspitinn.wordpress.com/,Sandspit,53.2540178,-131.8189175
+The Smokehouse Kitchen,hospitality@pgnfc.com,250-614-7726,250-563-0924,http://www.pgnfc.com,Prince George,53.9187109,-122.7512843
+Thornton Motel ,inquiries@thorntonmotel.com,250-726-7725,,http://www.thorntonmotel.ca/,Uculet,48.93704224,-125.541069
+Threads of Heritage,elkflower@hotmail.com,604-226-2006,,https://www.facebook.com/pages/Threads-of-Heritage/241164799285370,Mission,49.1377755,-122.3408491
+Thunderbird RV Park and Campground,,250-286-3344,250-286-0998,http://thunderbirdrvpark.com/,Campbell River,50.0305245,-125.2510991
+Thunderbird Taxi,crosedominic@hotmail.ca,250-842-0306,,,New Hazelton,55.2433334,-127.5869444
+Thuthiqut Resources Ltd.,ray.gauthier@coastsalishdevcorp.com,250-924-2444,,http://coastsalishdevcorp.com/page/thuthiqut,Ladysmith,49.0146775,-123.8517994
+Thuy'she'num Property Management Ltd,ray.gauthier@coastsalishdevcorp.com,250-924-2444,,http://coastsalishdevcorp.com/page/thuy,Ladysmith,49.0146775,-123.8517994
+Time HR Solutions,ebunch10@gmail.com,778-651-0549,888-809-9077,,Surrey,49.1338514,-122.8786161
+Tina Alexis Contracting,alexis_tr75@hotmail.com,604-319-1439,,,Anahim Lake,49.1521598,-122.833582
+Tipi Mountain Eco-Cultural Services Ltd,megan@tipimountain.com,250-420-2724,250-489-4142,http://tmecs.tipimountain.com/,Cranbrook,49.5080556,-115.7469444
+Tipi Mountain Native Plants Ltd.,info@tipimountain.com,250-427-7010,250-427-7012,http://www.tipimountain.com,Cranbrook,49.5080556,-115.7469444
+TJC Consulting Ltd,jcampbell@tjcconsulting.ca,250-900-6602,,http://www.tjcconsulting.ca,Victoria ,48.4263467,-123.3545276
+Tk'eml ºps Petro Canada,calvin.bagshaw@kib.ca,250-377-8684,,,Kamloops,50.6817961,-120.2977894
+Tk'emlups Carwash,carwash@kib.ca,250-828-6877,,http://www.tkemlupsbusiness.ca/businesses/tk-emlups-car-wash,Kamloops,50.68081,-120.2975914
+Tk'emlups Forestry Corp.,jmcgrath@kib.ca,250-314-1597,,http://tkemlups.ca/tkemlups-forestry-corp/,Kamloops,50.6803744,-120.2947475
+Tla'Amin Timber Products,clint.williams@sliammon.bc.ca,604-483-9696,,http://www.sliammonfirstnation.com/forestry/,Powell River,49.8981532,-124.607871
+Tobacco Plains Duty Free,manager@tobaccoplainsdutyfree.com,250-887-3203,250-887-3293,,Grasmere,49.1176941,-115.0902697
+Tobacco Plains Sawmill,hmoore@tobaccoplains.org,250-887-3461 x 3409,250-887-3424,,Grasmere,49.0939948,-115.0817675
+Tomahawk Industrial Services,pierrewelder@hotmail.com,250-328-2365,,,Penticton,49.5008334,-119.5938889
+Toncar Contracting,toncar1967@yahoo.com,250-838-0369,,,Enderby,50.5991048,-119.1779446
+Toolcomm Technology Inc.,kevin@toolcomm.com,250-412-9639,,http://www.toolcomm.com,North Vancouver,49.3242006,-123.1225274
+Toosey Enterprise,isabel_dodd@hotmail.com,250-659-5655,250-659-5601,,Riske,51.9686111,-122.5283333
+Top Notch Oilfield Contracting Ltd.,tnoc.ltd@gmail.com,250-261-3814,250-827-3026,,Fort St John,56.2525,-120.8466667
+Top of the Line Catering,carmenalec@hotmail.com,250-691-1997,,,Burns Lake,54.2266699,-125.7653057
+Toppers Truck Accessories,sales@showcasetruckaccessories.com,604-533-3733,,http://www.showcasetruckaccessories.com/,Langley,49.1094217,-122.6784248
+Toquaht Development LP,noahp@toquaht.ca,250-726-4230,,http://www.toquaht.ca/operating-companies/,Ucluelet,48.9447204,-125.5565291
+Toquaht Enterprises,noahp@toquaht.ca,250-726-4230,,http://www.toquaht.ca/operating-companies/,Ucluelet,48.9447204,-125.5565291
+Toquaht Management LP,noahp@toquaht.ca,250-726-4230,,,Ucluelet,48.9447204,-125.5565291
+Totem Sawmill Limited Partnership ,rhart@nndc.ca,250-799-0033 ,250-799-0035 ,http://www.nndc.ca,Bella Coola,52.364779,-126.708994
+Transformation: Social and Economic Development,cawaaknis@me.com,250-508-1778,,http://www.transformationinternational.ca/,Saanichton,48.5924878,-123.390269
+Transglobal Business Group Inc,michaudj@telus.net,250-751-1555,250-751-1555,http://transglobalbusinessgroup.com,Nanaimo,49.2323896,-123.9973065
+Transglobal Business Group Inc.,info@transglobalbusinessgroup.ca,250-751-1555,,http://transglobalbusinessgroup.ca,Nanaimo,49.2309328,-123.9983789
+Trapper's Gas Bar,trappersgas_store@hotmail.ca,250-697-2212,250-697-2203,,Granisle,54.8847223,-126.2066667
+Tri Town Theatre,tritown@gitanmaax.com,250-842-5442,250-842-6364,http://www.gitanmaax.com/SitePages/TriTown.aspx,Hazelton ,55.255925,-127.6759144
+Tribal Resources Investment Corporation,,,,http://www.tricorp.ca/index.php/Home,Prince Rupert,54.3138082,-130.3251824
+Tribal Tech Media,phillipjstewart@gmail.com,250-842-5985,,http://tribaltechmedia.net,Hazelton,55.2548836,-127.6666336
+Triple H Bobcat,dehaugan@citywest.ca,250-638-7174,,,Thornhill,54.4914421,-128.58085
+Triton Environmental Consultants Ltd. JV,,,,http://www.triton-env.com/,Terrace,54.5180018,-128.5849827
+Tronson Logging Ltd,tronsonlogging@live.ca,778-754-5653,,,Westbank,49.8436226,-119.6169881
+TSAA Resource Management Ltd.,gjennings@tsaarm.ca,250-318-8114,250-372-9213,http://www.tsaarm.ca,Kamloops,50.6649337,-120.3657445
+Tsa-Kwa-Luten Lodge,info@capemudgeresort.bc.ca,250-285-2042,,http://www.capemudgeresort.bc.ca/,Quathiaski Cove,50.05,-125.2166667
+T'SALA SALON SPA,info@tsalasalonspa.com,604-770-4777,,http://www.tsalasalonspa.com/,"West Vancouver,",49.3222233,-123.1211789
+Tsaqwa Consulting,tsaqwaconsulting@hotmail.com,250-377-1434,,,Kamloops,50.6868045,-120.2916112
+Tsawaysia,tsawaysia@gmail.com,604-897-1421,,http://www.tsawaysia.com/,Squamish,49.6914149,-123.147779
+Tsawwassen First Nation Construction / Garda Joint Venture,,604-717-5580,,,Tsawwassen,49.0353837,-123.097252
+Tsawwassen First Nation Construction / Matcon Civil Joint Venturee,adam@matconcivil.com,604-530-1402,604-534-1900,http://www.tmjv.ca,Langley,49.083301,-122.5827523
+Tsawwassen First Nation Construction / Wales McLelland Joint Venture,info@walesmclelland.com,604-638-1212,,http://www.walesmclelland.com/blog/tfnwm-joint-venture,Burnaby,49.2009464,-122.984044
+Tse Kya Development Corporation ,vernon@hagwilget.com,250-842-6258 ,250-842-6924 ,http://www.hagwilget.com,New Hazelton,55.2433334,-127.5869444
+Ts'elxweyéqw Tribe Management Limited,reception@ttml.ca,604-824-2692,,http://www.ttml.ca/,Chilliwack,49.1347378,-121.9598039
+T'seneglobe Media Inc.,loverin@tsenaglobe.com,604-842-9809,,http://www.tsenaglobe.com,North Vancouver,49.3053507,-122.9700469
+Tseshaht Economic Development Corporation,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Tseshaht Forestry Corporation,canderson@tseshaht.com,250-724-1225,,,Port Alberni,49.2667771,-124.8492185
+Tseshaht Market,claudine@tseshahtmarket.ca,250-724-3944,,http://www.tseshahtmarket.ca/,Port Alberni,49.273286,-124.874742
+Tsetsaut Ventures,darlene-simpson@hotmail.com,250-842-5651,,,New Hazelton,55.247568,-127.591593
+Tsi Del Del Development Corporation,financeclerk@tsideldel.org,250-481-3335,,,Chilanko Forks,52.1166667,-124.0666667
+Tsi Del Del Enterprises Ltd,,250-392-7802,,,Williams Lake,52.1268161,-122.1433625
+Tsleil-watuth Development,lori@twnecdev.com,604-924-2338,604-924-2339,http://www.twnation.ca/en/Government/Departments/Economic%20Development.aspx,North Vancouver,49.3119628,-122.9789295
+Tsuma-as Tseafoods,rick@hupacasath.ca,250-724-1232,,,Port Alberni,49.2344445,-124.8058333
+Tuckkiowhum Restaurant,bbarband@uniserve.com,604-867-8844,,http://bostonbarfirstnation.com,Boston Bar,49.8666667,-121.4333333
+Tuckkwiowhum Interpretive Village,bbarbandd@uniserve.com,604-867-8844,,http://www.tuckkwiowhumvillage.com/,Boston Bar,49.8666667,-121.4333333
+Turtle Island Connections,info@turtleislandconnections.ca,250.710.7685,,https://www.turtleislandconnections.ca,Duncan,48.7633914,-123.7137629
+Turtle Island Consulting Services Inc.,info@turtleislandconsulting.ca,250-656-1076,250-656-1076,http://www.turtleislandconsulting.ca/,North Saanich,48.6222827,-123.4226188
+Turtle's Tire Shop,,250-771-3405,,,Dease Lake,58.4333334,-130.0241667
+Tuta Marina and Campground,tutamarina@cablerocket.com,250-283-7550,,http://www.tutamarina.com,Gold River,49.780563,-126.0539736
+Tuytaxun General Store Ltd. ,,250-753-4214,,,Nanaimo,49.1494028,-123.9293854
+Tweety's Indian Tacos,,,,,Agassiz,49.0606458,-122.3209549
+Twin Lakes Logging Ltd.,msimms1@telus.net,250-842-6254,,,New Hazelton,55.2442956,-127.5912654
+Twin Sisters Native Plants Nursery,susan.davis@westmo.org,250-778-2244,,,Moberly Lake ,55.830416,-121.781969
+TWN Wind Power Inc,info@twnwindpower.com,1-800-930-1782,,http://www.twnation.ca/en/Business/TWN%20Wind%20Power.aspx,North Vancouver,49.3119628,-122.9789295
+Two Worlds Consulting Ltd. ,info@twoworldsconsulting.com,1 (778) 400-3499,,https://www.twoworldsconsulting.com/,Victoria,48.42464,-123.368931
+Tyco SimplexGrinell Haisla JV,,,,http://www.simplexgrinnell.com/ENUS/TrainingAndEducation/Pages/InYourNeighborhood.aspx,Kitimat Village,53.9748438,-128.645748
+Tyex Contracting,joycejoe@telus.net,,,,Sechelt,49.4856821,-123.7511343
+Tzoonie Wilderness Resort,info@tzoonie.com,604-885-9802,,http://www.tzoonie.com/,Sechelt,49.47314391,-123.7535465
+Tzouhalem Forestry Ltd.,,250-715-7183,250-748-3725,,Duncan,48.7806189,-123.6576438
+Uchuck Forestry Services,warrenrobinson.uchucklesaht@gmail.com,250-730-1996,,,Kildonan,49.0207289,-125.0397038
+Uchucklesaht Capital Assests,scott.coulson@uchucklesaht.ca,250-724-1832,250-724-1806,,Port Alberni,49.2344445,-124.8058333
+Uchucklesaht Forestry LP,scott.coulson@uchucklesaht.ca,250-724-1832,250-724-1806,,Port Alberni,49.2344445,-124.8058333
+Uchucklesaht Retail Operations LP,scott.coulson@uchucklesaht.ca,250-724-1832,250-724-1806,,Port Alberni,49.2344445,-124.8058333
+Ucluth Development Corporation,udcea@ukeecable.net,250-726-3499,250-726-3494,http://www.ucluth.ca/,Ucluelet,48.9427778,-125.5461111
+U'mista Cultural Centre,info@umista.ca,250-974-5403,,http://www.umista.ca,Alert Bay ,50.5919914,-126.9332733
+UNIB Forestry,nrtech1@uppernicola.com,250-350-3342,,http://uppernicola.com/programs-services/natural-resources/,Douglas Lake,50.141914,-120.282374
+Unity Clothing Inc.,unityclothing@gmail.com,604-988-8700,,http://www.unityclothing.ca/index.php,North Vancouver,49.3103825,-123.0792173
+Universal Rhythm,universalrhythm@live.ca,250-320-0779,,http://universalrhythm.webs.com/,Kamloops,50.6795051,-120.2354238
+Upnit Power Corporation,steve@hupacasath.ca,250-724-4041,250-724-1232,http://hupacasath.ca/upnit-power/,Port Alberni,49.2344445,-124.8058333
+Urban Indian Productions Inc,djkwe@hotmail.com,778-985-8155,,http://www.urbanindianproductions.com,Vancouver,49.2596561,-123.1449474
+Vancouver Island Limousine,info@vancouverislandlimo.com,250-720-1750,,http://www.vancouverislandlimo.com/,Port Alberni,49.2344445,-124.8058333
+Vedder Crossing Management Partnership,james@tzeachten.ca,604-858-3888,604-858-3382,,Chilliwack,49.1113285,-121.9513327
+Venthom Holdings Ltd,venthom1@yahoo.ca,250-485-2453 or 250-469-1655,,,Oliver,49.1825,-119.5508333
+Veridis Plumbing & Heating Ltd.,veridisplumbing@me.com,250-709-5796,250-929-8985,http://www.veridisplumbing.com,Mill Bay,48.643493,-123.5578999
+Vero Management Inc,gail.murray@gmail.com,250-740-3954,250-740-3974,http://gailmurray.ca/,Nanaimo,49.1609813,-123.9338051
+Versa Scaffolding Systems Ltd.,rbarron50@gmail.com,604-812-1626,,,North Vancouver,49.3447226,-123.0616982
+Vertex Land Solutions Inc.,vertexls@telus.net,604-525-9408,604-525-9408,,Nanaimo,49.235879,-123.9979889
+Vic Van Isle Construction Ltd.,reception@vicvanislegroup.com,250-837-2919,250-837-6145,http://www.vicvanislegroup.com/,Revelstoke,50.9946019,-118.1726542
+Vickers and Associates ,matt@mattvickers.com,604-210-1483,,http://www.mattvickers.com,West Vancouver ,49.3251879,-123.1358334
+Vickie's A Little Off The Top Landscaping,vickiesalittleoffthetop@gmail.com,250-936-8308,,https://www.facebook.com/pages/Vickies-A-Little-Off-The-Top-Landscaping/239527609441108?sk=info&tab=page_info,Merritt,50.030133,-120.8569985
+Victor Harry - Artist,rosenvic1@gmail.com,604-316-6445,,,Chilliwack,49.1389788,-121.9421122
+ViGold & Associates,vigold@shaw.ca,250-729-1314,,,Lantzville,49.2505556,-124.0744444
+Virtual Broadcast Network,wayne@virtualbroadcastnetwork.com,604-316-8901,604-392-1067,,Chilliwack,49.1678869,-121.945062
+Voyager Water Taxi,,250-332-5301,,,Kyuquot,50.0333334,-127.3666667
+Vu-fox Music Group,crazymaker2002@msn.com,250-981-6905,,,Prince George,53.9130556,-122.7452778
+Waglisla Band Store Ltd,,250-957-2373,250-957-2122,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.1656077,-128.1445366
+Waglisla Cablevision Ltd,,250-957-2191,250-957-2223,http://www.heiltsukdevco.com/index.php?o,Bella Bella,52.1666343,-128.1460011
+Waglisla Freight Ltd,,250-957-7599,250-957-2522,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.165131,-128.144839
+Waglisla Hardware Ltd,,250-957-2217,250-957-2670,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.165131,-128.144839
+Waglisla Post Office,,250-957-2301,,http://www.heiltsukdevco.com/hedc-business/group-of-companies,Bella Bella,52.165131,-128.144839
+Waglisla Shellfish Ltd,,250-957-2217,250-957-2247,http://www.heiltsukdevco.com/hedc-business/companies-services-products,Bella Bella,52.165131,-128.144839
+Walk the Wild Side,wildsidetrail@gmail.com,250-670-2452,,http://www.wildsidetrail.com,Ahousaht,49.3220574,-126.185589
+Walkem & Associates Law Corporation,halie@walkemandassociates.com,604-858-7788,,,Chilliwack,49.1378976,-121.9450388
+Waste Management of Canada - Haisla Business Operations JV,,,,http://www.wmcanada.com/,Kitimat Village,53.9748438,-128.645748
+Waterways Communications Limited Partnership (LP),,250-774-4710,,,Fort Nelson,58.8027652,-122.6935024
+We Love Dirty Kitchens ,,250-532-6858,,http://welovedirtykitchens.blogspot.ca/,Duncan,48.7786112,-123.7080556
+We Wai Kai Campsite,campsite@wewaikai.com,250-285-3111,,http://www.wewaikai.com/campsite,Quathiaski Cove,50.05,-125.2166667
+West Coast Expeditions,info@westcoastexpeditions.com,250-338-2511,,http://www.westcoastexpeditions.com,Courtenay,49.6894445,-124.9958333
+West Coast Foam & Matress,info@westcoastfoam.com,250-248-3666,,http://www.westcoastfoam.com/,Parksville,49.316764,-124.2916422
+West Coast Framing,cstephens2009@gmail.com,604-682-1331,,,Vancouver,49.2768135,-123.1304904
+West Coast Pile Driving 2013 Ltd,ryan@westcoastpiledriving.com,604.803.6569,,http://www.westcoastpiledriving.com,Maple Ridge,49.2377,-122.49499
+Westcoast Resorts,info@westcoastresorts.com,1-800-810-8933,604-278-3120,http://www.westcoastresorts.com,Richmond,49.1779511,-123.1464879
+Westek Controls Ltd.,denisw@westekcontrols.com,250-365-5666,,,Castlegar,49.3157603,-117.663837
+Westhills Aggregates Limited Partnership,westhills@pib.ca,250-492-2225,250-492-6566,http://www.pibdc.ca/business/westhills-aggregates/,Penticton,49.4867607,-119.6452727
+Whispering Willows Campsite,heritagevillage@xatsull.com,250-989-2311,250-989-2300,http://www.xatsull.com/Businesses/WhisperingWillowsCampsite/tabid/67/Default.aspx,Williams Lake,52.2369381,-122.0522057
+White Feather Tissue Inc.,murraysam@skway.com,1-877-792-9316,,,Chilliwack ,49.1666667,-121.95
+White Hot Transport Ltd.,misnek@hotmail.com,250-937-1599,,http://www.whitehottransport.com/,Parksville,49.3180556,-124.3113889
+White Raven Consulting ,kelly@whiteravenconsulting.ca,250-723-6565,250-723-2295,http://www.whiteravenconsulting.ca/,Port Alberni,49.276387,-124.8822578
+White River Helicopters,ann@whiteriverhelicopters.ca,250-638-1414,250-638-0888,http://www.whiteriverhelicopters.ca,Terrace,54.5163889,-128.5997222
+White Star Water Taxi,,250-670-9683,,,Ahousaht,49.2527948,-126.0994881
+Whitecap Campgrounds,,250-259-8227 Toll Free 1-866-259-8227,250-259-8384,http://tshalalth.yikesite.com/services/whitecap-campgrounds,Shalalth ,50.7272223,-122.2169444
+Wichihew Consulting,melba@telus.net,780-227-9004,,,Gray Creek,49.6333334,-116.7833333
+Wicked Welding,wickedwelding@telus.net,250-785-8537,,,Fort St John,56.2488322,-120.8308467
+Wikaninnish Gallery Ltd,wickaninnish@telus.net,604-681-1057,,http://www.wickaninnishgallery.com,Vancouver,49.2722269,-123.1357361
+Wildhorse Helicopters Ltd.,wildhorsehelicopters@hotmail.com,250-809-7826,250-497-6350,,Penticton,49.4859217,-119.6438355
+Willetts Contracting,miles@willettscontracting.ca,604-531-1061,604-531-1603,http://www.willettscontracting.ca,Surrey,49.0597752,-122.8001421
+Wind Spirit Enterprises ,allofus@windspirit.com,604-485-7572,,http://www.aprilwhite.com,Masset,49.84267813,-124.528302
+Winddancer Conferences Inc.,lullasierra@yahoo.ca,604-727-4927,,http://www.firstnationshealthconferences.com,West Vancouver,49.3270916,-123.137756
+Winds of Change,windsofchange@shaw.ca,250-338-5095,,http://www.windsofchangecollective.ca,Courtenay,49.6907055,-124.9994902
+Wolverine Ventures,,250-774-2191,250-774-6352,,Fort Nelson,58.8055556,-122.6972222
+Wya Point Resort,info@wyapoint.com,1-844-352-6188,,http://www.wyapoint.com,Uculet,48.94144525,-125.5462646
+Xat'sull Heritage Village,m.schilling@xatsull.com,250-297-6502,250-989-2300,http://xatsullheritagevillage.com/,Williams Lake,52.2369381,-122.0522057
+Xaxli'p Community Forest Corporation,andra@xaxlip.ca,250-256-4228,,http://www.xcfc.ca,Lillooet ,50.7344601,-121.8632754
+Xaxlip Fiberglass Shop,,250-256-4844,,,Lillooet,50.6938889,-121.9336111
+Xeni Gwet'in Enterprise,david@xenigwetin.ca,250-394-7021,,http://www.xenigwetin.ca/Departments/Enterprise.html,Nemiah Valley,51.48353,-123.842341
+Xit'olacw Tsi'pun Grocery Store,patricia.andrew@lilwat.ca,604-894-1110,,https://www.facebook.com/tsipun,Mount Currie,50.3166667,-122.7166667
+Xpert Oilfield Construction,nellie@moberlylake.net,250-788-4205,,,Moberly Lake,55.8333334,-121.7333333
+Xwisten Experience Tours,tours@xwisten.ca,250-256-7844,,http://www.xwistentours.ca,Lillooet,50.7211724,-121.9274434
+Yale Rd Smoke Shop,sandilynn66@hotmail.ca,604-795-5151,,,Chilliwack,49.1722496,-121.9484941
+YA'YA.art,yayaheit@hotmail.ca,250-842-5125,,,Kispiox ,55.3522835,-127.6952938
+Ye Olde Quilt Shoppe,yeoldequiltshoppe@theedge.ca,250-774-2773,,,Fort Nelson,58.7762981,-122.6389708
+Yekooche Ecora Environmental Services,Dan.bernier@ecora.ca,250-469-9757 Ext. 1004,250-469-9757,http://ecora.ca/,Prince George,53.919887,-122.55557
+Yellow Head Realty Ltd.,yellowheadrealty@telus.net,250-566-4438,250-566-4460,http://www.yellowheadrealty.com/,Valemount,52.832061,-119.2668354
+Yellowhead Helicopters,yhl@yhl.ca,250-996-5699,,http://www.yhl.ca/bases/fort-st-james,Fort St James,54.3751848,-124.273836
+Yenmoceetza Native Expressions,isadorecharters@hotmail.com,604-858-3862,,,Cultus Lake,49.0787073,-121.959023
+Yinka Dene Economic Development Partnership,ydedlp@ydedlp.com,250-698-7307,250-698-7480,http://ydedlp.com,Burns Lake,54.2302778,-125.7644444
+Your Eye Video Productions,youreye@telus.net,604-523-1513,604-523-1514,https://www.youtube.com/user/youreyeproductions,New Westminster,49.2028394,-122.9111076
+You've Been Framed,dave@skawahlook.com,604-796-9129,,http://rubycreekartgallery.com/framing/,Agassiz,49.356627,-121.606203
+Yucwmenl ºcwu (Caretakers of the Land) 2007 LLP,skaalid@splatsin.ca,250-838-0775,250-838-2131,,Enderby,50.5505556,-119.1394444
+Yum's Catering,bertha856@hotmail.com,604-943-9470,,,Tsawwassen ,49.0353837,-123.097252
+Yunesit'in Development Enterprise,rgrady@yunesitin.ca,250-394-7917,,,Hanceville,51.9194445,-123.0416667
+Yuquot Cabins,admin@yuquot.ca,250-283-2015,,,Gold River,49.7813889,-126.0469444
+Zig Zag Construction,ietzerza@gmail.com,250-631-9667,,,Terrace,54.6081854,-128.4149613
