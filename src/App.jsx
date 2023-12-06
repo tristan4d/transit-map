@@ -7,8 +7,10 @@ import {
   Tooltip,
   Polyline,
   ScaleControl,
+  useMapEvents,
 } from "react-leaflet";
 import * as L from "leaflet";
+import ChangeCenter from "./ChangeCenter";
 import { haversine_distance, readFile } from "./utils";
 
 import "./App.css";
@@ -35,6 +37,7 @@ function App() {
   const [route_idx, setRoute_idx] = useState([]);
   const [curr_idx, setCurr_idx] = useState({});
   const [clinics, setClinics] = useState([]);
+  const [businesses, setBusinesses] = useState([]);
   // const [center, setCenter] = useState([49.285707, -123.112084]);
   const [center, setCenter] = useState([49.274503, -123.122183]);
 
@@ -45,11 +48,15 @@ function App() {
 
   const blueIcon = new LeafIcon({
       iconUrl:
-        "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|abcdef&chf=a,s,ee00FFFF",
+        "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|00E5E8&chf=a,s,ee00FFFF",
     }),
-    greenIcon = new LeafIcon({
+    yellowIcon = new LeafIcon({
       iconUrl:
-        "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|2ecc71&chf=a,s,ee00FFFF",
+        "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|F0F600&chf=a,s,ee00FFFF",
+    }),
+    pinkIcon = new LeafIcon({
+      iconUrl:
+        "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FF3CC7&chf=a,s,ee00FFFF",
     });
 
   useEffect(() => {
@@ -73,8 +80,9 @@ function App() {
       const tripIdx = [];
       const routeIdx = [];
       const newClinics = [];
-
-      // console.log(Object.values(files["clinics"]).map((row) => row.LATITUDE));
+      const clinicInfo = [];
+      const newBusinesses = [];
+      const businessInfo = [];
 
       Object.values(files["clinics"]).map((row) => {
         const lat = parseFloat(row.LATITUDE);
@@ -82,6 +90,24 @@ function App() {
 
         if (haversine_distance([lat, lon], center) < 1) {
           newClinics.push([lat, lon]);
+          clinicInfo.push({
+            name: row.RG_NAME,
+            phone: row.PHONE_NUMBER,
+            accessible: row.WHEELCHAIR_ACCESSIBLE,
+          });
+        }
+      });
+
+      Object.values(files["indigenous_businesses"]).map((row) => {
+        const lat = parseFloat(row.Latitude);
+        const lon = parseFloat(row["Longitude\r"]);
+
+        if (haversine_distance([lat, lon], center) < 1) {
+          newBusinesses.push([lat, lon]);
+          businessInfo.push({
+            name: row["Business Name"],
+            phone: row.Phone,
+          });
         }
       });
 
@@ -113,9 +139,10 @@ function App() {
 
       setCurr_idx({ headsign: tripIdx, route: routeIdx });
       setPolylines(newLines);
-      setClinics(newClinics);
+      setClinics({ location: newClinics, info: clinicInfo });
+      setBusinesses({ location: newBusinesses, info: businessInfo });
     }
-  }, [map, files]);
+  }, [map, files, center]);
 
   return (
     <div className="h-full">
@@ -127,19 +154,35 @@ function App() {
         zoomControl={false}
         ref={setMap}
       >
+        <ChangeCenter setCenter={setCenter} />
         <ScaleControl position="topleft" />
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <Marker position={center} icon={blueIcon}>
-          <Tooltip offset={[5, 10]}>Test Center</Tooltip>
+          <Tooltip direction="right" offset={[20, 10]}>
+            Test Center
+          </Tooltip>
         </Marker>
-        {clinics.map((clinic, idx) => (
-          <Marker position={clinic} key={idx} icon={greenIcon}>
-            <Tooltip offset={[20, 20]}>Clinic</Tooltip>
-          </Marker>
-        ))}
+        {clinics.location &&
+          clinics.location.map((clinic, idx) => (
+            <Marker position={clinic} key={idx} icon={yellowIcon}>
+              <Tooltip direction="right" offset={[20, 10]}>
+                <p className="font-bold">{clinics.info[idx].name}</p>
+                <p>{clinics.info[idx].phone}</p>
+              </Tooltip>
+            </Marker>
+          ))}
+        {businesses.location &&
+          businesses.location.map((business, idx) => (
+            <Marker position={business} key={idx} icon={pinkIcon}>
+              <Tooltip direction="right" offset={[20, 10]}>
+                <p className="font-bold">{businesses.info[idx].name}</p>
+                <p>{businesses.info[idx].phone}</p>
+              </Tooltip>
+            </Marker>
+          ))}
         {polylines.map((polyline, idx) => (
           <Polyline
             key={idx}

@@ -2,6 +2,7 @@ import shapes from "../public/gtfs/shapes_sorted.txt";
 import routes from "../public/gtfs/routes.txt";
 import trips from "../public/gtfs/trips.txt";
 import clinics from "../public/hlbc_walkinclinics.txt";
+import indigenous_businesses from "../public/bcindigenousbusinesslistings.txt";
 
 const processCSV = (str, delim = ",") => {
   const headers = str.slice(0, str.indexOf("\n")).split(delim);
@@ -34,6 +35,7 @@ export const readFile = async () => {
     routes: routes,
     trips: trips,
     clinics: clinics,
+    indigenous_businesses: indigenous_businesses,
   };
   const filesObject = {};
 
