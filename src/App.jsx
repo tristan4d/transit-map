@@ -36,8 +36,8 @@ function App() {
   const [trip_idx, setTrip_idx] = useState([]);
   const [route_idx, setRoute_idx] = useState([]);
   const [curr_idx, setCurr_idx] = useState({});
-  const [clinics, setClinics] = useState([]);
-  const [businesses, setBusinesses] = useState([]);
+  const [clinics, setClinics] = useState({ location: [] });
+  const [businesses, setBusinesses] = useState({ location: [] });
   // const [center, setCenter] = useState([49.285707, -123.112084]);
   const [center, setCenter] = useState([49.274503, -123.122183]);
 
@@ -165,24 +165,22 @@ function App() {
             Test Center
           </Tooltip>
         </Marker>
-        {clinics.location &&
-          clinics.location.map((clinic, idx) => (
-            <Marker position={clinic} key={idx} icon={yellowIcon}>
-              <Tooltip direction="right" offset={[20, 10]}>
-                <p className="font-bold">{clinics.info[idx].name}</p>
-                <p>{clinics.info[idx].phone}</p>
-              </Tooltip>
-            </Marker>
-          ))}
-        {businesses.location &&
-          businesses.location.map((business, idx) => (
-            <Marker position={business} key={idx} icon={pinkIcon}>
-              <Tooltip direction="right" offset={[20, 10]}>
-                <p className="font-bold">{businesses.info[idx].name}</p>
-                <p>{businesses.info[idx].phone}</p>
-              </Tooltip>
-            </Marker>
-          ))}
+        {clinics.location.map((clinic, idx) => (
+          <Marker position={clinic} key={idx} icon={yellowIcon}>
+            <Tooltip direction="right" offset={[20, 10]}>
+              <p className="font-bold">{clinics.info[idx].name}</p>
+              <p>{clinics.info[idx].phone}</p>
+            </Tooltip>
+          </Marker>
+        ))}
+        {businesses.location.map((business, idx) => (
+          <Marker position={business} key={idx} icon={pinkIcon}>
+            <Tooltip direction="right" offset={[20, 10]}>
+              <p className="font-bold">{businesses.info[idx].name}</p>
+              <p>{businesses.info[idx].phone}</p>
+            </Tooltip>
+          </Marker>
+        ))}
         {polylines.map((polyline, idx) => (
           <Polyline
             key={idx}
