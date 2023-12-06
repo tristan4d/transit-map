@@ -132,12 +132,12 @@ function App() {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        <Marker position={center}>
-          <Popup>Test Center</Popup>
+        <Marker position={center} icon={blueIcon}>
+          <Tooltip offset={[5, 10]}>Test Center</Tooltip>
         </Marker>
         {clinics.map((clinic, idx) => (
           <Marker position={clinic} key={idx} icon={greenIcon}>
-            <Popup>Clinic</Popup>
+            <Tooltip offset={[20, 20]}>Clinic</Tooltip>
           </Marker>
         ))}
         {polylines.map((polyline, idx) => (
