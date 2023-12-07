@@ -11,6 +11,7 @@ import {
 } from "react-leaflet";
 import * as L from "leaflet";
 import ChangeCenter from "./ChangeCenter";
+import CityBike from "./CityBike";
 import { haversine_distance, readFile } from "./utils";
 
 import "./App.css";
@@ -62,6 +63,12 @@ function App() {
     pinkIcon = new LeafIcon({
       iconUrl:
         "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FF3CC7&chf=a,s,ee00FFFF",
+      iconSize: [21, 35],
+      iconAnchor: [12, 35],
+    }),
+    turquoiseIcon = new LeafIcon({
+      iconUrl:
+        "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|007C77&chf=a,s,ee00FFFF",
       iconSize: [21, 35],
       iconAnchor: [12, 35],
     });
@@ -172,6 +179,7 @@ function App() {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
+        <CityBike icon={turquoiseIcon} center={center} />
         <Marker position={center} icon={blueIcon}>
           <Tooltip direction="right" offset={[12, -25]}>
             {stop_idx ? (

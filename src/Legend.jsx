@@ -1,3 +1,3 @@
-// export default function Legend() {
+export default function Legend() {
     
-// }
+}
