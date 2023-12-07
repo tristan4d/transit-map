@@ -1,8 +1,9 @@
-import shapes from "../public/gtfs/shapes_sorted.txt";
-import routes from "../public/gtfs/routes.txt";
-import trips from "../public/gtfs/trips.txt";
-import clinics from "../public/hlbc_walkinclinics.txt";
-import indigenous_businesses from "../public/bcindigenousbusinesslistings.txt";
+import shapes from "/gtfs/shapes_sorted.txt";
+import routes from "/gtfs/routes.txt";
+import trips from "/gtfs/trips.txt";
+import stops from "/gtfs/stops.txt";
+import clinics from "/hlbc_walkinclinics.txt";
+import indigenous_businesses from "/bcindigenousbusinesslistings.txt";
 
 const processCSV = (str, delim = ",") => {
   const headers = str.slice(0, str.indexOf("\n")).split(delim);
@@ -34,6 +35,7 @@ export const readFile = async () => {
     shapes: shapes,
     routes: routes,
     trips: trips,
+    stops: stops,
     clinics: clinics,
     indigenous_businesses: indigenous_businesses,
   };

@@ -33,12 +33,13 @@ function App() {
   const [map, setMap] = useState(null);
   const [polylines, setPolylines] = useState([]);
   const [files, setFiles] = useState(null);
+  const [stops, setStops] = useState([]);
   const [trip_idx, setTrip_idx] = useState([]);
   const [route_idx, setRoute_idx] = useState([]);
   const [curr_idx, setCurr_idx] = useState({});
+  const [stop_idx, setStop_idx] = useState(null);
   const [clinics, setClinics] = useState({ location: [] });
   const [businesses, setBusinesses] = useState({ location: [] });
-  // const [center, setCenter] = useState([49.285707, -123.112084]);
   const [center, setCenter] = useState([49.274503, -123.122183]);
 
   //  Create the Icon
@@ -49,14 +50,20 @@ function App() {
   const blueIcon = new LeafIcon({
       iconUrl:
         "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|00E5E8&chf=a,s,ee00FFFF",
+      iconSize: [21, 35],
+      iconAnchor: [12, 35],
     }),
     yellowIcon = new LeafIcon({
       iconUrl:
         "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|F0F600&chf=a,s,ee00FFFF",
+      iconSize: [21, 35],
+      iconAnchor: [12, 35],
     }),
     pinkIcon = new LeafIcon({
       iconUrl:
         "https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FF3CC7&chf=a,s,ee00FFFF",
+      iconSize: [21, 35],
+      iconAnchor: [12, 35],
     });
 
   useEffect(() => {
@@ -64,6 +71,7 @@ function App() {
       try {
         const result = await readFile();
         setFiles(result);
+        setStops(result["stops"]);
         setTrip_idx(result["trips"].map((row) => row.shape_id));
         setRoute_idx(result["routes"].map((row) => row.route_id));
       } catch (error) {
@@ -154,20 +162,28 @@ function App() {
         zoomControl={false}
         ref={setMap}
       >
-        <ChangeCenter setCenter={setCenter} />
+        <ChangeCenter
+          setCenter={setCenter}
+          setStop_idx={setStop_idx}
+          stops={stops}
+        />
         <ScaleControl position="topleft" />
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <Marker position={center} icon={blueIcon}>
-          <Tooltip direction="right" offset={[20, 10]}>
-            Test Center
+          <Tooltip direction="right" offset={[12, -25]}>
+            {stop_idx ? (
+              <p className="font-bold">{files["stops"][stop_idx].stop_name}</p>
+            ) : (
+              <p>Test Center</p>
+            )}
           </Tooltip>
         </Marker>
         {clinics.location.map((clinic, idx) => (
           <Marker position={clinic} key={idx} icon={yellowIcon}>
-            <Tooltip direction="right" offset={[20, 10]}>
+            <Tooltip direction="right" offset={[12, -25]}>
               <p className="font-bold">{clinics.info[idx].name}</p>
               <p>{clinics.info[idx].phone}</p>
             </Tooltip>
@@ -175,7 +191,7 @@ function App() {
         ))}
         {businesses.location.map((business, idx) => (
           <Marker position={business} key={idx} icon={pinkIcon}>
-            <Tooltip direction="right" offset={[20, 10]}>
+            <Tooltip direction="right" offset={[12, -25]}>
               <p className="font-bold">{businesses.info[idx].name}</p>
               <p>{businesses.info[idx].phone}</p>
             </Tooltip>
