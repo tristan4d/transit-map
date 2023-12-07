@@ -13,6 +13,7 @@ import * as L from "leaflet";
 import ChangeCenter from "./ChangeCenter";
 import CityBike from "./CityBike";
 import ModoCarshare from "./ModoCarshare";
+import Legend from "./Legend";
 import { haversine_distance, readFile } from "./utils";
 
 import "./App.css";
@@ -167,9 +168,9 @@ function App() {
   }, [map, files, center]);
 
   return (
-    <div className="h-full">
+    <div className="h-full flex flex-col">
       <MapContainer
-        style={{ height: "100vh" }}
+        style={{ height: "85vh" }}
         center={center}
         zoom={13}
         scrollWheelZoom={true}
@@ -229,6 +230,7 @@ function App() {
           </Polyline>
         ))}
       </MapContainer>
+      <Legend />
     </div>
   );
 }
