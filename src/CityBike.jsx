@@ -11,7 +11,7 @@ const CityBike = ({ icon, center }) => {
     const fetchBikeStations = async () => {
       try {
         const response = await fetch(
-          "http://api.citybik.es/v2/networks/mobibikes"
+          "https://api.citybik.es/v2/networks/mobibikes"
         );
         const data = await response.json();
 
